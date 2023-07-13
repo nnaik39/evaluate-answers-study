@@ -77,7 +77,7 @@ var intro = {
     title: "Stanford NLP Lab",
     // introduction text
     text:
-        "Thank you for participating in our study. In this study, you will see six AI-generated descriptions paired with a type of website where the image appears. For each image description, you will write questions to understand the image further. The whole study should take about 9 minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
+        "Thank you for participating in our study. In this study, you will see six images, each associated with a question and a type of website where the image appears. For each image and question, you will write answers for the given question based on the image. The whole study should take about X minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
     legal_info:
         "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at (650) 723-4284. <br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
     // introduction's slide proceeding button text
@@ -138,8 +138,8 @@ var instruction_screen = {
     name: "instruction",
     title: "Instructions",
     text:
-        "<strong>Online images</strong> can be a useful resource, but there are cases where you <strong>cannot directly see</strong> the image—for instance, if you have a visual impairment or if you’re browsing a speech-enabled website where the site content is narrated.",
-    paragraph2: "In this study, we’re investigating how asking questions might help when you can’t see the image. You’ll see six <strong>image descriptions</strong>, each paired with a type of website where you might see the image. You’ll be asked to <strong> guess why </strong> the image appears on this type of website, and to <strong> ask questions </strong> to understand the image further.",
+        "<strong>Online images</strong> can be a useful resource, but there are cases where people <strong>cannot directly see</strong> the image--for instance, if you’re browsing a speech-enabled website where the site content is narrated.",
+    paragraph2: "In this study, you’ll see six <strong>images</strong>, each paired with a <strong>question</strong> and a type of website where you might see the image. You’ll be asked to <strong> guess why </strong> the image appears on this type of website, and to <strong> write an answer </strong> to the question.",
     readyText: "Are you ready?",
     buttonText: "Begin experiment",
     // render function renders the view
@@ -148,6 +148,7 @@ var instruction_screen = {
 
         $("#main").html(
             Mustache.render(viewTemplate, {
+                picture: 'images/instruction_screen.gif',
                 title: this.title,
                 text: this.text,
                 button: this.buttonText,
@@ -212,14 +213,21 @@ var main = {
             q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>science magazine website</strong>?"
         }
 
+        q2 = "Another user who can't see the image has the following question. Please answer, and justify your answer with 1-3 specific details about the image."
+
+        // TODO: Add in the images and the questions themselves, then mock up what the answering questions screen should look like
+        // Run this mock-up by Elisa on Tuesday!
+
         q1 += " A response of 5-10 words should be sufficient."
 
-        checkbox = 'There is a grammatical error in the description';
+        checkbox = 'The question cannot be answered from the image or otherwise has an error';
 
         slider_left = '';
         slider_right = '';
 
         console.log("Checkbox default ", $('checkbox').val())
+
+        console.log("Current question ", exp.trial_info.main_trials[CT]['question']);
 
         $("#main").html(
             Mustache.render(viewTemplate, {
@@ -230,10 +238,7 @@ var main = {
                 slider_right: slider_right,
                 q1: q1,
                 q2: q2,
-                q3: exp.trial_info.q3,
-                q4: exp.trial_info.q4,
-                q5: exp.trial_info.q5,
-                q6: exp.trial_info.q6,
+                question: exp.trial_info.main_trials[CT]['question'],
                 checkbox: checkbox
             })
         );
@@ -251,39 +256,49 @@ var main = {
             $("#error").css({"visibility": "hidden"});
         });
 
-        var question1 = $('#question-1');
-        var question1_changed = false;
+        var answer = $('#answer');
+        var answer_changed = false;
 
-        question1.on('keyup', function() {
-            value = question1.val();
-            if (value.length >= 10) question1_changed = true;
-            else if (value.length < 10) question1_changed = false;
+        answer.on('keyup', function() {
+            value = answer.val();
+            if (value.length >= 10) answer_changed = true;
+            else if (value.length < 10) answer_changed = false;
 
-            $("#error").css({"visibility": "hidden"});
-        });
-
-        var question2 = $('#question-2');
-        var question2_changed = false;
-
-        question2.on('keyup', function() {
-            value = question2.val();
-            if (value.length >= 10) question2_changed = true;
-            // Detect deletions
-            else if (value.length < 10) question2_changed = false;
             $("#error").css({"visibility": "hidden"});
         });
 
         var box_checked = false;
 
         $('input[id=checkbox]').change(function(){
-            console.log("checkbox on change is checked");
             console.log("Box checked value ", box_checked)
             if($(this).is(':checked')) {
                 box_checked = true;
+                let element1 = document.getElementById('study-question-1');
+
+                element1.style.color = 'grey';
+
+                let element2 = document.getElementById('study-question-2');
+
+                element2.style.color = 'grey';
+
+                let element3 = document.getElementById('answer');
+
+                element3.style.visibility = 'hidden';
+                
             } else {
                 box_checked = false;
+                let element1 = document.getElementById('study-question-1');
+                
+                element1.style.color = 'black';
+
+                let element2 = document.getElementById('study-question-2');
+
+                element2.style.color = 'black';
+
+                let element3 = document.getElementById('answer');
+
+                element3.style.visibility = 'visible';
             }
-            console.log("Box checked value after changing/updating it ", box_checked)
         });
 
         // event listener for buttons; when an input is selected, the response
@@ -296,17 +311,18 @@ var main = {
         $("#next").on("click", function() {
             console.log("checkbox value ", box_checked)
 
-            if (context_justification_changed & question1_changed & question2_changed) {
+            if ((context_justification_changed & answer_changed) || (context_justification_changed & box_checked)) {
                 var RT = Date.now() - startingTime; // measure RT before anything else
                 var trial_data = {
                     trial_number: CT + 1,
                     reactionTime: RT,
                     picture: exp.trial_info.main_trials[CT]['filename'],
+                    study_type: exp.trial_info.main_trials[CT]['study_type'],
                     description: exp.trial_info.main_trials[CT]['description'],
                     category: exp.trial_info.main_trials[CT]['category'],
+                    question: exp.trial_info.main_trials[CT]['question'],
                     context_justification: $('#context-justification').val(),
-                    q1: $('#question-1').val(),
-                    q2: $('#question-2').val(),
+                    answer: $('#answer').val(),
                     checkbox: box_checked,
                     comments: $('#comments').val()
                 };
@@ -387,7 +403,7 @@ var thanks = {
                 Mustache.render(viewTemplate, {
                     thanksMessage: this.message,
                     extraMessage:
-                        "Please press the button below to confirm that you completed the experiment with Prolific. Your completion code is CUBGDLXQ. <br />" +
+                        "Please press the button below to confirm that you completed the experiment with Prolific. Your completion code is C4WQMAA9. <br />" +
                         "<a href=" +
                         config_deploy.prolificURL +
                         ' class="prolific-url">Confirm</a>'

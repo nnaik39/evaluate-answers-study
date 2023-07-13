@@ -149,6 +149,10 @@
                 </section>
                 {{/ text }}
                 <br>
+                <div class="picture">
+                    <img src={{ picture }} alt="A picture" height="300">
+                </div>
+                <br>
                 {{# paragraph2 }}
                 <section class="text-container">
                     <p class="text">{{{ paragraph2 }}}</p>
@@ -183,7 +187,7 @@
             {{/ critical_text }}
 
             <div class="picture">
-                    <p class="bordered-text"> Image Description: {{{ description }}} </p>
+                <img src={{ picture }} alt="a picture" height="300">
             </div>
             <br>
             <hr>
@@ -202,16 +206,15 @@
                 <br> 
                 
                 {{# q2 }}
-                <p class="question">{{{ q2 }}} </p>
+                <p class="question" id="study-question-1">{{{ q2 }}} </p>
                 {{/ q2 }}
-                 <div class="popup">
-                    <span class="popuptext" id="myPopup">Think of questions that will help you imagine the image and why it appears on the website. Please ensure your questions are more than 3 words.</span>
-                </div>
-                <button id="hint"> Hint </button>
+
+                {{# question }}
+                <p class="question" id="study-question-2"> <strong> {{{ question }}} </strong> </p>
+                {{/ question }}
 
                 <p id="slider2_box" class="answer-container blend-out">
-                    <textarea class="image-question" id="question-1"/>
-                    <textarea class="image-question" id="question-2"/>
+                    <textarea class="image-question" id="answer"/>
                     <br>
                 </p>
             </div>

@@ -17,6 +17,8 @@ exp.customize = function() {
 
     main_trials = _.shuffle(main_trials)[0]
 
+    console.log("Main trials ", main_trials)
+
     health = [];
 
     for (let i = 0; i < main_trials.length; i++) {
@@ -26,6 +28,8 @@ exp.customize = function() {
     }
 
     health = _.sampleSize(health, 1);
+
+    console.log("Health ", health)
 
     imageSeenBefore.push(health[0]['filename']);
 

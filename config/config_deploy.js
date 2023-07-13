@@ -5,7 +5,7 @@ var config_deploy = {
     // the experimentID is needed to recover data from the _babe server app
     // you receive the experimentID when you create the experiment using the _babe server app
     // NOTE: Change the experiment ID to a different 
-    "experimentID": "pilot-2-txtversion-study-experiment-final.json",
+    "experimentID": "pilot-3-answergen.json",
     "serverAppURL": "https://ig-vqa-default-rtdb.firebaseio.com/",
     // URL
 
@@ -24,5 +24,5 @@ var config_deploy = {
 
     // set the prolific completion URL if the deploy method is "Prolific"
     // the URL should look something like this - https://app.prolific.ac/submissions/complete?cc=ABCD1234
-    "prolificURL": "https://app.prolific.co/submissions/complete?cc=CUBGDLXQ"
+    "prolificURL": "https://app.prolific.co/submissions/complete?cc=C4WQMAA9"
 };
