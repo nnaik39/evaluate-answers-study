@@ -646,7 +646,7 @@ var main_trials = {
         "filename": "images/shopping/3.png",
         "category": "social_media",
         "study_type": "imgversion",
-        "question": "is this man at all attractive?"
+        "question": "What is the man doing?"
     },
     {
         "filename": "images/science_journals/2.png",
