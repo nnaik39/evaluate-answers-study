@@ -213,7 +213,7 @@ var main = {
             q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>science magazine website</strong>?"
         }
 
-        q2 = "Another user who can't see the image has the following question. Please answer, and justify your answer with 1-3 specific details about the image."
+        q2 = "Another user who can't see the image has the following question. Please answer. Your answer should allow the user to better understand and picture the image."
 
         // TODO: Add in the images and the questions themselves, then mock up what the answering questions screen should look like
         // Run this mock-up by Elisa on Tuesday!
