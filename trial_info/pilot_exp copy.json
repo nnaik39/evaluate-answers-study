@@ -646,7 +646,7 @@ var main_trials = {
         "filename": "images/shopping/3.png",
         "category": "social_media",
         "study_type": "imgversion",
-        "question": "What is the man doing?"
+        "question": "What is the man wearing?"
     },
     {
         "filename": "images/science_journals/2.png",
@@ -1169,6 +1169,12 @@ var main_trials = {
         "category": "science_journals",
         "study_type": "imgversion",
         "question": "do seals like human contact?"
+    },
+    {
+        "filename": "images/news_journals/4.png",
+        "category": "science_journals",
+        "study_type": "imgversion",
+        "question": "is the seal population dwindling?"
     },
     {
         "filename": "images/travel/2.png",

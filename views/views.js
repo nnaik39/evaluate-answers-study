@@ -213,14 +213,11 @@ var main = {
             q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>science magazine website</strong>?"
         }
 
-        q2 = "Another user who can't see the image has the following question. Please answer. Your answer should allow the user to better understand and imagine the image."
-
-        // TODO: Add in the images and the questions themselves, then mock up what the answering questions screen should look like
-        // Run this mock-up by Elisa on Tuesday!
+        q2 = "Another user who can't see the image has the following question. Please answer based on the image. Your answer should allow the user to better understand and imagine the image."
 
         q1 += " A response of 5-10 words should be sufficient."
 
-        checkbox = 'The question cannot be answered from the image or otherwise has an error';
+        checkbox = 'The question cannot be answered from the image or otherwise has an error.';
 
         slider_left = '';
         slider_right = '';
