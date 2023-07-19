@@ -1,1546 +1,706 @@
 var main_trials = {
     "images": [
-    {
-        "filename": "images/shopping/4.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "is it indoors"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "How much are the rooms?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "How much seating is around the pool?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "is their an outdoor resturant/ bar"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "What else is the man doing"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "What is the man standing in front of?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What is the man standing in front of in the picture?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "Is the man old or young?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "I would like to know why it was placed there?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "How do I know this person or do I know this person?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Is this an employment ad"
-    },
-    {
-        "filename": "images/health/7.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Is the article about fitness or apparel?"
-    },
-    {
-        "filename": "images/health/7.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Is the photo an ad for workout gear?"
-    },
-    {
-        "filename": "images/health/7.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "The strength of the bands?"
-    },
-    {
-        "filename": "images/health/7.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "The cost of the bands?"
-    },
-    {
-        "filename": "images/health/1.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Is the doctor in the photo related to the website?"
-    },
-    {
-        "filename": "images/health/1.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Is the elderly woman in an exam room?"
-    },
-    {
-        "filename": "images/health/1.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "is the woman alright?"
-    },
-    {
-        "filename": "images/health/1.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "what are they doing?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "What the crab is doing on the boat?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Where is the boat?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "what are the objects in the cage"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "How large is the boat?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Who is the man in the black shirt?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "What's the man standing in front of"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "What is he standing in front of?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "What is he standing in front of?"
-    },
-    {
-        "filename": "images/health/3.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "What is the woman doing?"
-    },
-    {
-        "filename": "images/health/3.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "What is the person doing that promotes a healthier lifestyle?"
-    },
-    {
-        "filename": "images/health/3.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "is she healthy?"
-    },
-    {
-        "filename": "images/health/3.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "What is she doing and why is she wearing that?"
-    },
-    {
-        "filename": "images/shopping/1.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What color are the curtains?"
-    },
-    {
-        "filename": "images/shopping/1.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What color is the bed?"
-    },
-    {
-        "filename": "images/shopping/1.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What color is the bed?"
-    },
-    {
-        "filename": "images/shopping/1.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What size is the bed?"
-    },
-    {
-        "filename": "images/social_media/1.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What color are the pants?"
-    },
-    {
-        "filename": "images/social_media/1.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "Is this part of a product listing?"
-    },
-    {
-        "filename": "images/social_media/1.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "is it sunny"
-    },
-    {
-        "filename": "images/social_media/1.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What kind of clothing"
-    },
-    {
-        "filename": "images/social_media/5.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "What is the name and colors of the team?"
-    },
-    {
-        "filename": "images/social_media/5.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "How successful is the team?"
-    },
-    {
-        "filename": "images/social_media/5.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What did they win?"
-    },
-    {
-        "filename": "images/social_media/5.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "how many women are there?"
-    },
-    {
-        "filename": "images/social_media/5.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Do they look like they're celebrating? "
-    },
-    {
-        "filename": "images/social_media/5.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Were they in a plane crash?"
-    },
-    {
-        "filename": "images/social_media/5.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "which country are they from"
-    },
-    {
-        "filename": "images/social_media/5.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "Did they win?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Is this picture from an advertisement or from someone I know?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Are there any people in this picture?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Is there a lot of room for people and kids?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Is the pool indoors or outdoors?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Are they modeling for the website"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "What are they doing in wetsuits"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Are they surfing or diving?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Where are they?"
-    },
-    {
-        "filename": "images/health/6.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Does the image have to do with a recipe?"
-    },
-    {
-        "filename": "images/health/6.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Do they follow a particular diet?"
-    },
-    {
-        "filename": "images/health/6.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "Are they all the same kinds of foods?"
-    },
-    {
-        "filename": "images/health/6.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "What kinds of foods are in the bowls?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What is the snowboarder wearing?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What does the site sell that relates to what the photo shows (is it an outdoor retailer, a travel agent etc.)?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "Is this an action shot or is the boarder standing still?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "Are they wearing big named brand equipment?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "Is this article aimed at women or men?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "Where is this street?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "Is she a tourist?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "Where is the store located?"
-    },
-    {
-        "filename": "images/shopping/5.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What kind of vase is it?"
-    },
-    {
-        "filename": "images/shopping/5.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What level of quality are these vases?"
-    },
-    {
-        "filename": "images/shopping/5.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "How well made do the vases appear to be?"
-    },
-    {
-        "filename": "images/shopping/5.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What does the vases look like?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Where are they at?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "The age of the people."
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "What activity are they doing and how does it relate to health?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "What should I wear when swimming"
-    },
-    {
-        "filename": "images/science_journals/3.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "How large is the music hall and where are the plants in it?"
-    },
-    {
-        "filename": "images/science_journals/3.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Does this happen with all plants?"
-    },
-    {
-        "filename": "images/science_journals/3.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Are the plants around the concert hall?"
-    },
-    {
-        "filename": "images/science_journals/3.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Are there any people? "
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Where is this location?"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "What are other activities or sights are this location?"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Where is the mountain located?"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "What is the weather like in the photo?"
-    },
-    {
-        "filename": "images/shopping/7.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "In what platform are they selling it?"
-    },
-    {
-        "filename": "images/shopping/7.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "What is special about the t-shirt?"
-    },
-    {
-        "filename": "images/shopping/7.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What is the overall setting of the picture?"
-    },
-    {
-        "filename": "images/shopping/7.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Is this person someone I know?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "where are they?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Are they diving"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What are they doing?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What are their names"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "What are the health benefits of skiing?"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "why does skiing help?"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "How does skiing benefit your health?"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "What's the relevance of the picture in relation to the health website? "
-    },
-    {
-        "filename": "images/health/5.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "How old is this woman? "
-    },
-    {
-        "filename": "images/health/5.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Is she running with kite?"
-    },
-    {
-        "filename": "images/health/5.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "Does she look like she is having fun?"
-    },
-    {
-        "filename": "images/health/5.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "Why is she kiteboarding?"
-    },
-    {
-        "filename": "images/science_journals/6.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Why are these men standing at the wall?"
-    },
-    {
-        "filename": "images/science_journals/6.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Where are these men located, or what does the wall look like?"
-    },
-    {
-        "filename": "images/science_journals/6.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "what age of men are they?"
-    },
-    {
-        "filename": "images/science_journals/6.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "What era do the men appear to be from?"
-    },
-    {
-        "filename": "images/shopping/3.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Why is he there?"
-    },
-    {
-        "filename": "images/shopping/3.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "What's the man near?"
-    },
-    {
-        "filename": "images/shopping/3.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Is the man alone or with someone else?"
-    },
-    {
-        "filename": "images/shopping/3.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What is the man doing?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "I would like to know why the man and woman are there."
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Where are these people located?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "why they picture was made?"
-    },
-    {
-        "filename": "images/science_journals/2.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "What is the reason they are standing for the picture"
-    },
-    {
-        "filename": "images/science_journals/7.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "How informative and reliable?"
-    },
-    {
-        "filename": "images/science_journals/7.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Where is the street sign located? "
-    },
-    {
-        "filename": "images/science_journals/7.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Is it a city street or a neighborhood street?"
-    },
-    {
-        "filename": "images/science_journals/7.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Is it night or day time?"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Is this an ad for a very specific skiing community? "
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Where are they at?"
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What is the purpose of the picture? "
-    },
-    {
-        "filename": "images/travel/4.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Are they by themselves?"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "How is the woman dressed?"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Are there waterfalls in the mountains?"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "What kind of mountain is she running on?"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "What is the weather on the mountain"
-    },
-    {
-        "filename": "images/news_journals/25.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Did these people obtain consent?"
-    },
-    {
-        "filename": "images/news_journals/25.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Why are they at the table together?"
-    },
-    {
-        "filename": "images/news_journals/25.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What are they doing?"
-    },
-    {
-        "filename": "images/news_journals/25.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "Where are the people positioned?"
-    },
-    {
-        "filename": "images/news_journals/8.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "What is his speech about?"
-    },
-    {
-        "filename": "images/news_journals/8.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "What is the speech about?"
-    },
-    {
-        "filename": "images/news_journals/8.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What are the contents of the speech?"
-    },
-    {
-        "filename": "images/news_journals/8.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What does the man look like?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Male or female snowboarder?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "how long this company has been in business"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Is it an adult or a child or teenager"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Who is the person in the picture? "
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "what is a healthy food for a consistent runner?"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Why is the running on a mountain? "
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "How cold is it, where they are running?"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "Does the woman in the image look like she is physically fit?"
-    },
-    {
-        "filename": "images/news_journals/34.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "What happened in the beach?"
-    },
-    {
-        "filename": "images/news_journals/34.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Is this person a part of the story"
-    },
-    {
-        "filename": "images/news_journals/34.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What is she wearing? "
-    },
-    {
-        "filename": "images/news_journals/34.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What are her emotions? "
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "How many lbs or kg can the suitcase weigh?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "What is the recommended suitcase?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Where is she going?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "What does the woman look like?"
-    },
-    {
-        "filename": "images/travel/2.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Where is the scuba diver"
-    },
-    {
-        "filename": "images/travel/2.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "What would a vacation that involves scuba diving look like?\n"
-    },
-    {
-        "filename": "images/travel/2.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Why is the person scuba diving?"
-    },
-    {
-        "filename": "images/travel/2.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Is there something beautiful surrounding the scuba diver?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "Does the building represent something?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "why is it being destroyed"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "Are there people present?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Where is the location?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Was anyone injured in the incident"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What caused the building to collapse or be destroyed?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "Was anyone harmed with the building falling down?"
-    },
-    {
-        "filename": "images/science_journals/5.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Do they look like they're having fun?"
-    },
-    {
-        "filename": "images/science_journals/5.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Where are the people fishing?"
-    },
-    {
-        "filename": "images/science_journals/5.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "How big is the river?"
-    },
-    {
-        "filename": "images/science_journals/5.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "How many people?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Is the view from the hill nice?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Who is this person in the photo?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What's the weather like?"
-    },
-    {
-        "filename": "images/shopping/6.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Is he doing something related to social media?"
-    },
-    {
-        "filename": "images/social_media/1.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Where are they at?"
-    },
-    {
-        "filename": "images/social_media/1.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Who is this person?"
-    },
-    {
-        "filename": "images/social_media/1.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Why is there a young person leaning against a wall?"
-    },
-    {
-        "filename": "images/social_media/1.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "is he alone?"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "\nWhat can other athletes learn from this individual's running technique?"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "What is the physiological benefit of running on a mountain?\n\n\n"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Where is the woman running"
-    },
-    {
-        "filename": "images/health/2.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Where is this located?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Where is the location of the building?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Why did they go with a destroyed building to show change?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "What caused the destruction of the building?"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Where is the building located?"
-    },
-    {
-        "filename": "images/news_journals/4.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Is the seal dead or alive?"
-    },
-    {
-        "filename": "images/news_journals/4.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "What type of seal is shown?"
-    },
-    {
-        "filename": "images/news_journals/4.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "what is the location of the beach?"
-    },
-    {
-        "filename": "images/news_journals/4.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "what's behind the seal and how did he washup on the beach"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "Is this product authentic?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "Is this product something a non-Indian person would be interested in?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What colors are present?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "what is she wearing and what color?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Who is that woman?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Is it a busy street?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What does the street look like?"
-    },
-    {
-        "filename": "images/travel/5.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "Where is the woman at? "
-    },
-    {
-        "filename": "images/news_journals/4.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "What is wrong with seals at this time?"
-    },
-    {
-        "filename": "images/news_journals/4.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "what kind of seal is it?"
-    },
-    {
-        "filename": "images/news_journals/4.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "do seals like human contact?"
-    },
-    {
-        "filename": "images/travel/2.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "What is around the scuba diver?"
-    },
-    {
-        "filename": "images/travel/2.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "What is the context of the article?"
-    },
-    {
-        "filename": "images/travel/2.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Is there any fish or animals in the photograph?"
-    },
-    {
-        "filename": "images/travel/2.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Does the scuba diver have any specialized gear?"
-    },
-    {
-        "filename": "images/science_journals/5.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "How does this image pertain to the article?"
-    },
-    {
-        "filename": "images/science_journals/5.png",
-        "category": "science_journals",
-        "study_type": "textversion",
-        "question": "Is there a connection between recreational fishing and environmental decay?"
-    },
-    {
-        "filename": "images/science_journals/5.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "Where is the river?"
-    },
-    {
-        "filename": "images/science_journals/5.png",
-        "category": "science_journals",
-        "study_type": "imgversion",
-        "question": "What does the environment around them look like?"
-    },
-    {
-        "filename": "images/travel/7.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "what happened here?"
-    },
-    {
-        "filename": "images/travel/7.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Are there people in the alley?"
-    },
-    {
-        "filename": "images/travel/7.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What is taking place in the alley?"
-    },
-    {
-        "filename": "images/travel/7.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "Is the alley clean?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "The name of the restaurant or person who prepared it. "
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "The name of the dish."
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "What type of noodles are shown?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "What region do you think the food is from?"
-    },
-    {
-        "filename": "images/health/3.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "How much support does it offer?"
-    },
-    {
-        "filename": "images/health/3.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What's the website name"
-    },
-    {
-        "filename": "images/health/3.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What else is the woman wearing other than the sports bra top?"
-    },
-    {
-        "filename": "images/health/3.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "what style is the top"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "what kind of dance is the woman doing?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "What is it like traveling to india?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Is the woman performing on a stage?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "What is the setting in which the dance is being performed?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "How happy are the people in the pool? "
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "Is this a type of trip, and if so, what is it?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "Is it the kind of place you'd go to have a vacation?"
-    },
-    {
-        "filename": "images/shopping/4.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "How does the hotel look?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Where is this location?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "travel",
-        "study_type": "textversion",
-        "question": "Where is the boat?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Is it a popular tourist attraction?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "travel",
-        "study_type": "imgversion",
-        "question": "Where is this picture taken?"
-    },
-    {
-        "filename": "images/shopping/7.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What type of neck style is on the t-shirt"
-    },
-    {
-        "filename": "images/shopping/7.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "I would like to know the price"
-    },
-    {
-        "filename": "images/shopping/7.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What ethnicity is the man? "
-    },
-    {
-        "filename": "images/shopping/7.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "Does the t-shirt have any designs?"
-    },
-    {
-        "filename": "images/news_journals/11.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Is the photo an ad or is it part of an article?"
-    },
-    {
-        "filename": "images/news_journals/11.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "who are the players"
-    },
-    {
-        "filename": "images/news_journals/11.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "Is it the championship game."
-    },
-    {
-        "filename": "images/news_journals/11.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "what teams are in the picture?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "What are the nutritional facts about the soup?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "health",
-        "study_type": "textversion",
-        "question": "What would a healthy balanced meal include?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "Are they cooked? "
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "Is this a bowl of soup?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "Is it good?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "social_media",
-        "study_type": "textversion",
-        "question": "What type of ramen is it?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "What sort of cuisine is it?"
-    },
-    {
-        "filename": "images/travel/6.png",
-        "category": "social_media",
-        "study_type": "imgversion",
-        "question": "is it spicy?"
-    },
-    {
-        "filename": "images/shopping/2.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "what size does it come in?"
-    },
-    {
-        "filename": "images/shopping/2.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "Is this same sweater available for purchase?"
-    },
-    {
-        "filename": "images/shopping/2.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "what color is it?"
-    },
-    {
-        "filename": "images/shopping/2.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "Is this man standing in a field?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "I would like to know more of Indian dancing such as how the dance is performed."
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Why is she dancing?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What does the woman look like?"
-    },
-    {
-        "filename": "images/news_journals/15.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What is she doing?"
-    },
-    {
-        "filename": "images/shopping/3.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "Is the man relaxing or is he engaging in an activity?"
-    },
-    {
-        "filename": "images/shopping/3.png",
-        "category": "shopping",
-        "study_type": "textversion",
-        "question": "What clothes is the man wearing?"
-    },
-    {
-        "filename": "images/shopping/3.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What color are the things he is wearing?"
-    },
-    {
-        "filename": "images/shopping/3.png",
-        "category": "shopping",
-        "study_type": "imgversion",
-        "question": "What is the man wearing? "
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Why is crab in boat?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "news",
-        "study_type": "textversion",
-        "question": "Where are some good places to go eat crab in New Orleans?"
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "What is in the cage? "
-    },
-    {
-        "filename": "images/science_journals/4.png",
-        "category": "news",
-        "study_type": "imgversion",
-        "question": "Is the boat a commercial fisherman or a boat out for pleasure?"
-    }
-]
+        {
+            "filename": "images/shopping/4.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "How much seating is around the pool?"
+        },
+        {
+            "filename": "images/social_media/7.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "I would like to know why it was placed there?"
+        },
+        {
+            "filename": "images/health/7.png",
+            "category": "health",
+            "study_type": "imgversion",
+            "question": "The strength of the bands?"
+        },
+        {
+            "filename": "images/health/1.png",
+            "category": "health",
+            "study_type": "textversion",
+            "question": "Is the doctor in the photo related to the website?"
+        },
+        {
+            "filename": "images/health/1.png",
+            "category": "health",
+            "study_type": "imgversion",
+            "question": "is the woman alright?"
+        },
+        {
+            "filename": "images/science_journals/4.png",
+            "category": "science_journals",
+            "study_type": "textversion",
+            "question": "Where is the boat?"
+        },
+        {
+            "filename": "images/science_journals/4.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "How large is the boat?"
+        },
+        {
+            "filename": "images/social_media/7.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "What is he standing in front of?"
+        },
+        {
+            "filename": "images/social_media/7.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "What is he standing in front of?"
+        },
+        {
+            "filename": "images/health/3.png",
+            "category": "health",
+            "study_type": "textversion",
+            "question": "What is the person doing that promotes a healthier lifestyle?"
+        },
+        {
+            "filename": "images/health/3.png",
+            "category": "health",
+            "study_type": "imgversion",
+            "question": "What is she doing and why is she wearing that?"
+        },
+        {
+            "filename": "images/shopping/1.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "What color are the curtains?"
+        },
+        {
+            "filename": "images/shopping/1.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "What color is the bed?"
+        },
+        {
+            "filename": "images/shopping/1.png",
+            "category": "shopping",
+            "study_type": "imgversion",
+            "question": "What color is the bed?"
+        },
+        {
+            "filename": "images/social_media/1.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "What color are the pants?"
+        },
+        {
+            "filename": "images/social_media/1.png",
+            "category": "shopping",
+            "study_type": "imgversion",
+            "question": "is it sunny"
+        },
+        {
+            "filename": "images/social_media/1.png",
+            "category": "shopping",
+            "study_type": "imgversion",
+            "question": "What kind of clothing"
+        },
+        {
+            "filename": "images/social_media/5.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "How successful is the team?"
+        },
+        {
+            "filename": "images/social_media/5.png",
+            "category": "social_media",
+            "study_type": "imgversion",
+            "question": "how many women are there?"
+        },
+        {
+            "filename": "images/social_media/5.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "Were they in a plane crash?"
+        },
+        {
+            "filename": "images/shopping/4.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Are there any people in this picture?"
+        },
+        {
+            "filename": "images/shopping/4.png",
+            "category": "social_media",
+            "study_type": "imgversion",
+            "question": "Is there a lot of room for people and kids?"
+        },
+        {
+            "filename": "images/shopping/4.png",
+            "category": "social_media",
+            "study_type": "imgversion",
+            "question": "Is the pool indoors or outdoors?"
+        },
+        {
+            "filename": "images/health/6.png",
+            "category": "health",
+            "study_type": "textversion",
+            "question": "Does the image have to do with a recipe?"
+        },
+        {
+            "filename": "images/health/6.png",
+            "category": "health",
+            "study_type": "textversion",
+            "question": "Do they follow a particular diet?"
+        },
+        {
+            "filename": "images/health/6.png",
+            "category": "health",
+            "study_type": "imgversion",
+            "question": "Are they all the same kinds of foods?"
+        },
+        {
+            "filename": "images/health/6.png",
+            "category": "health",
+            "study_type": "imgversion",
+            "question": "What kinds of foods are in the bowls?"
+        },
+        {
+            "filename": "images/shopping/6.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "What does the site sell that relates to what the photo shows (is it an outdoor retailer, a travel agent etc.)?"
+        },
+        {
+            "filename": "images/travel/5.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "Where is this street?"
+        },
+        {
+            "filename": "images/shopping/5.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "What kind of vase is it?"
+        },
+        {
+            "filename": "images/shopping/5.png",
+            "category": "shopping",
+            "study_type": "imgversion",
+            "question": "What does the vases look like?"
+        },
+        {
+            "filename": "images/science_journals/2.png",
+            "category": "health",
+            "study_type": "textversion",
+            "question": "Where are they at?"
+        },
+        {
+            "filename": "images/science_journals/2.png",
+            "category": "health",
+            "study_type": "imgversion",
+            "question": "What should I wear when swimming"
+        },
+        {
+            "filename": "images/science_journals/3.png",
+            "category": "science_journals",
+            "study_type": "textversion",
+            "question": "Does this happen with all plants?"
+        },
+        {
+            "filename": "images/science_journals/3.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "Are the plants around the concert hall?"
+        },
+        {
+            "filename": "images/science_journals/3.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "Are there any people? "
+        },
+        {
+            "filename": "images/travel/4.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "Where is the mountain located?"
+        },
+        {
+            "filename": "images/travel/4.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "What is the weather like in the photo?"
+        },
+        {
+            "filename": "images/science_journals/2.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "where are they?"
+        },
+        {
+            "filename": "images/science_journals/2.png",
+            "category": "social_media",
+            "study_type": "imgversion",
+            "question": "What are they doing?"
+        },
+        {
+            "filename": "images/travel/4.png",
+            "category": "health",
+            "study_type": "textversion",
+            "question": "why does skiing help?"
+        },
+        {
+            "filename": "images/health/5.png",
+            "category": "health",
+            "study_type": "textversion",
+            "question": "How old is this woman? "
+        },
+        {
+            "filename": "images/health/5.png",
+            "category": "health",
+            "study_type": "imgversion",
+            "question": "Does she look like she is having fun?"
+        },
+        {
+            "filename": "images/science_journals/6.png",
+            "category": "science_journals",
+            "study_type": "textversion",
+            "question": "Why are these men standing at the wall?"
+        },
+        {
+            "filename": "images/science_journals/6.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "what age of men are they?"
+        },
+        {
+            "filename": "images/shopping/3.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Why is he there?"
+        },
+        {
+            "filename": "images/shopping/3.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "What's the man near?"
+        },
+        {
+            "filename": "images/shopping/3.png",
+            "category": "social_media",
+            "study_type": "imgversion",
+            "question": "What is the man doing?"
+        },
+        {
+            "filename": "images/science_journals/2.png",
+            "category": "science_journals",
+            "study_type": "textversion",
+            "question": "I would like to know why the man and woman are there."
+        },
+        {
+            "filename": "images/science_journals/2.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "why they picture was made?"
+        },
+        {
+            "filename": "images/science_journals/7.png",
+            "category": "science_journals",
+            "study_type": "textversion",
+            "question": "How informative and reliable?"
+        },
+        {
+            "filename": "images/science_journals/7.png",
+            "category": "science_journals",
+            "study_type": "textversion",
+            "question": "Where is the street sign located? "
+        },
+        {
+            "filename": "images/science_journals/7.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "Is it a city street or a neighborhood street?"
+        },
+        {
+            "filename": "images/science_journals/7.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "Is it night or day time?"
+        },
+        {
+            "filename": "images/travel/4.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Is this an ad for a very specific skiing community? "
+        },
+        {
+            "filename": "images/travel/4.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Where are they at?"
+        },
+        {
+            "filename": "images/health/2.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "Are there waterfalls in the mountains?"
+        },
+        {
+            "filename": "images/health/2.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "What kind of mountain is she running on?"
+        },
+        {
+            "filename": "images/news_journals/25.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "Did these people obtain consent?"
+        },
+        {
+            "filename": "images/news_journals/25.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "What are they doing?"
+        },
+        {
+            "filename": "images/news_journals/25.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "Where are the people positioned?"
+        },
+        {
+            "filename": "images/news_journals/8.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "What is his speech about?"
+        },
+        {
+            "filename": "images/news_journals/8.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "What does the man look like?"
+        },
+        {
+            "filename": "images/shopping/6.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "how long this company has been in business"
+        },
+        {
+            "filename": "images/shopping/6.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "Who is the person in the picture? "
+        },
+        {
+            "filename": "images/health/2.png",
+            "category": "health",
+            "study_type": "textversion",
+            "question": "what is a healthy food for a consistent runner?"
+        },
+        {
+            "filename": "images/health/2.png",
+            "category": "health",
+            "study_type": "imgversion",
+            "question": "How cold is it, where they are running?"
+        },
+        {
+            "filename": "images/news_journals/34.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "What happened in the beach?"
+        },
+        {
+            "filename": "images/news_journals/34.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "Is this person a part of the story"
+        },
+        {
+            "filename": "images/news_journals/34.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "What is she wearing? "
+        },
+        {
+            "filename": "images/news_journals/34.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "What are her emotions? "
+        },
+        {
+            "filename": "images/travel/5.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "How many lbs or kg can the suitcase weigh?"
+        },
+        {
+            "filename": "images/travel/5.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "Where is she going?"
+        },
+        {
+            "filename": "images/travel/5.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "What does the woman look like?"
+        },
+        {
+            "filename": "images/travel/2.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "Where is the scuba diver"
+        },
+        {
+            "filename": "images/travel/2.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "What would a vacation that involves scuba diving look like?\n"
+        },
+        {
+            "filename": "images/science_journals/1.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "Where is the location?"
+        },
+        {
+            "filename": "images/science_journals/1.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "Was anyone injured in the incident"
+        },
+        {
+            "filename": "images/science_journals/1.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "Was anyone harmed with the building falling down?"
+        },
+        {
+            "filename": "images/science_journals/5.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "How big is the river?"
+        },
+        {
+            "filename": "images/shopping/6.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Is the view from the hill nice?"
+        },
+        {
+            "filename": "images/shopping/6.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Who is this person in the photo?"
+        },
+        {
+            "filename": "images/shopping/6.png",
+            "category": "social_media",
+            "study_type": "imgversion",
+            "question": "What's the weather like?"
+        },
+        {
+            "filename": "images/shopping/6.png",
+            "category": "social_media",
+            "study_type": "imgversion",
+            "question": "Is he doing something related to social media?"
+        },
+        {
+            "filename": "images/social_media/1.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Where are they at?"
+        },
+        {
+            "filename": "images/social_media/1.png",
+            "category": "social_media",
+            "study_type": "imgversion",
+            "question": "is he alone?"
+        },
+        {
+            "filename": "images/health/2.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "Where is the woman running"
+        },
+        {
+            "filename": "images/news_journals/4.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "Is the seal dead or alive?"
+        },
+        {
+            "filename": "images/news_journals/4.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "What type of seal is shown?"
+        },
+        {
+            "filename": "images/news_journals/15.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "Is this product authentic?"
+        },
+        {
+            "filename": "images/travel/5.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Is it a busy street?"
+        },
+        {
+            "filename": "images/travel/2.png",
+            "category": "science_journals",
+            "study_type": "textversion",
+            "question": "What is the context of the article?"
+        },
+        {
+            "filename": "images/travel/2.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "Is there any fish or animals in the photograph?"
+        },
+        {
+            "filename": "images/science_journals/5.png",
+            "category": "science_journals",
+            "study_type": "textversion",
+            "question": "Is there a connection between recreational fishing and environmental decay?"
+        },
+        {
+            "filename": "images/science_journals/5.png",
+            "category": "science_journals",
+            "study_type": "imgversion",
+            "question": "What does the environment around them look like?"
+        },
+        {
+            "filename": "images/travel/7.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "what happened here?"
+        },
+        {
+            "filename": "images/travel/7.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "Is the alley clean?"
+        },
+        {
+            "filename": "images/travel/6.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "The name of the restaurant or person who prepared it. "
+        },
+        {
+            "filename": "images/health/3.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "What's the website name"
+        },
+        {
+            "filename": "images/news_journals/15.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "what kind of dance is the woman doing?"
+        },
+        {
+            "filename": "images/news_journals/15.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "What is it like traveling to india?"
+        },
+        {
+            "filename": "images/news_journals/15.png",
+            "category": "travel",
+            "study_type": "imgversion",
+            "question": "Is the woman performing on a stage?"
+        },
+        {
+            "filename": "images/shopping/4.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "Is this a type of trip, and if so, what is it?"
+        },
+        {
+            "filename": "images/shopping/4.png",
+            "category": "shopping",
+            "study_type": "imgversion",
+            "question": "How does the hotel look?"
+        },
+        {
+            "filename": "images/science_journals/4.png",
+            "category": "travel",
+            "study_type": "textversion",
+            "question": "Where is the boat?"
+        },
+        {
+            "filename": "images/shopping/7.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "What type of neck style is on the t-shirt"
+        },
+        {
+            "filename": "images/shopping/7.png",
+            "category": "shopping",
+            "study_type": "imgversion",
+            "question": "What ethnicity is the man? "
+        },
+        {
+            "filename": "images/news_journals/11.png",
+            "category": "news",
+            "study_type": "textversion",
+            "question": "who are the players"
+        },
+        {
+            "filename": "images/travel/6.png",
+            "category": "social_media",
+            "study_type": "textversion",
+            "question": "Is it good?"
+        },
+        {
+            "filename": "images/shopping/2.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "what size does it come in?"
+        },
+        {
+            "filename": "images/shopping/2.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "Is this same sweater available for purchase?"
+        },
+        {
+            "filename": "images/shopping/2.png",
+            "category": "shopping",
+            "study_type": "imgversion",
+            "question": "Is this man standing in a field?"
+        },
+        {
+            "filename": "images/news_journals/15.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "What does the woman look like?"
+        },
+        {
+            "filename": "images/news_journals/15.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "What is she doing?"
+        },
+        {
+            "filename": "images/shopping/3.png",
+            "category": "shopping",
+            "study_type": "textversion",
+            "question": "Is the man relaxing or is he engaging in an activity?"
+        },
+        {
+            "filename": "images/shopping/3.png",
+            "category": "shopping",
+            "study_type": "imgversion",
+            "question": "What is the man wearing? "
+        },
+        {
+            "filename": "images/science_journals/4.png",
+            "category": "news",
+            "study_type": "imgversion",
+            "question": "Is the boat a commercial fisherman or a boat out for pleasure?"
+        }
+    ]
 }

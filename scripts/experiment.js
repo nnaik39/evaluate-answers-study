@@ -13,6 +13,8 @@ exp.customize = function() {
         thanks
     ];
 
+    console.log("Main trials ", main_trials)
+
     imageSeenBefore = [];
 
     main_trials = _.shuffle(main_trials)[0]
