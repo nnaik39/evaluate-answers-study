@@ -64,12 +64,6 @@ var main_trials = {
         "filename": "images/social_media/7.png",
         "category": "social_media",
         "study_type": "imgversion",
-        "question": "What does the man look like?"
-    },
-    {
-        "filename": "images/social_media/7.png",
-        "category": "social_media",
-        "study_type": "imgversion",
         "question": "Is this an employment ad"
     },
     {
@@ -923,12 +917,6 @@ var main_trials = {
         "category": "health",
         "study_type": "textversion",
         "question": "why is it being destroyed"
-    },
-    {
-        "filename": "images/science_journals/1.png",
-        "category": "health",
-        "study_type": "imgversion",
-        "question": "Are there people around?"
     },
     {
         "filename": "images/science_journals/1.png",
