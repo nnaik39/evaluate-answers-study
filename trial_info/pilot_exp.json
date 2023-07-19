@@ -25,46 +25,10 @@ var main_trials = {
             "question": "Is the doctor in the photo related to the website?"
         },
         {
-            "filename": "images/health/1.png",
-            "category": "health",
-            "study_type": "imgversion",
-            "question": "is the woman alright?"
-        },
-        {
-            "filename": "images/science_journals/4.png",
-            "category": "science_journals",
-            "study_type": "textversion",
-            "question": "Where is the boat?"
-        },
-        {
-            "filename": "images/science_journals/4.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "How large is the boat?"
-        },
-        {
-            "filename": "images/social_media/7.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "What is he standing in front of?"
-        },
-        {
-            "filename": "images/social_media/7.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "What is he standing in front of?"
-        },
-        {
             "filename": "images/health/3.png",
             "category": "health",
             "study_type": "textversion",
             "question": "What is the person doing that promotes a healthier lifestyle?"
-        },
-        {
-            "filename": "images/health/3.png",
-            "category": "health",
-            "study_type": "imgversion",
-            "question": "What is she doing and why is she wearing that?"
         },
         {
             "filename": "images/shopping/1.png",
@@ -73,58 +37,16 @@ var main_trials = {
             "question": "What color are the curtains?"
         },
         {
-            "filename": "images/shopping/1.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "What color is the bed?"
-        },
-        {
-            "filename": "images/shopping/1.png",
-            "category": "shopping",
-            "study_type": "imgversion",
-            "question": "What color is the bed?"
-        },
-        {
-            "filename": "images/social_media/1.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "What color are the pants?"
-        },
-        {
             "filename": "images/social_media/1.png",
             "category": "shopping",
             "study_type": "imgversion",
             "question": "is it sunny"
         },
         {
-            "filename": "images/social_media/1.png",
-            "category": "shopping",
-            "study_type": "imgversion",
-            "question": "What kind of clothing"
-        },
-        {
-            "filename": "images/social_media/5.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "How successful is the team?"
-        },
-        {
             "filename": "images/social_media/5.png",
             "category": "social_media",
             "study_type": "imgversion",
             "question": "how many women are there?"
-        },
-        {
-            "filename": "images/social_media/5.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "Were they in a plane crash?"
-        },
-        {
-            "filename": "images/shopping/4.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "Are there any people in this picture?"
         },
         {
             "filename": "images/shopping/4.png",
@@ -142,31 +64,7 @@ var main_trials = {
             "filename": "images/health/6.png",
             "category": "health",
             "study_type": "textversion",
-            "question": "Does the image have to do with a recipe?"
-        },
-        {
-            "filename": "images/health/6.png",
-            "category": "health",
-            "study_type": "textversion",
             "question": "Do they follow a particular diet?"
-        },
-        {
-            "filename": "images/health/6.png",
-            "category": "health",
-            "study_type": "imgversion",
-            "question": "Are they all the same kinds of foods?"
-        },
-        {
-            "filename": "images/health/6.png",
-            "category": "health",
-            "study_type": "imgversion",
-            "question": "What kinds of foods are in the bowls?"
-        },
-        {
-            "filename": "images/shopping/6.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "What does the site sell that relates to what the photo shows (is it an outdoor retailer, a travel agent etc.)?"
         },
         {
             "filename": "images/travel/5.png",
@@ -185,12 +83,6 @@ var main_trials = {
             "category": "shopping",
             "study_type": "imgversion",
             "question": "What does the vases look like?"
-        },
-        {
-            "filename": "images/science_journals/2.png",
-            "category": "health",
-            "study_type": "textversion",
-            "question": "Where are they at?"
         },
         {
             "filename": "images/science_journals/2.png",
@@ -220,12 +112,6 @@ var main_trials = {
             "filename": "images/travel/4.png",
             "category": "travel",
             "study_type": "imgversion",
-            "question": "Where is the mountain located?"
-        },
-        {
-            "filename": "images/travel/4.png",
-            "category": "travel",
-            "study_type": "imgversion",
             "question": "What is the weather like in the photo?"
         },
         {
@@ -233,30 +119,6 @@ var main_trials = {
             "category": "social_media",
             "study_type": "textversion",
             "question": "where are they?"
-        },
-        {
-            "filename": "images/science_journals/2.png",
-            "category": "social_media",
-            "study_type": "imgversion",
-            "question": "What are they doing?"
-        },
-        {
-            "filename": "images/travel/4.png",
-            "category": "health",
-            "study_type": "textversion",
-            "question": "why does skiing help?"
-        },
-        {
-            "filename": "images/health/5.png",
-            "category": "health",
-            "study_type": "textversion",
-            "question": "How old is this woman? "
-        },
-        {
-            "filename": "images/health/5.png",
-            "category": "health",
-            "study_type": "imgversion",
-            "question": "Does she look like she is having fun?"
         },
         {
             "filename": "images/science_journals/6.png",
@@ -273,18 +135,6 @@ var main_trials = {
         {
             "filename": "images/shopping/3.png",
             "category": "social_media",
-            "study_type": "textversion",
-            "question": "Why is he there?"
-        },
-        {
-            "filename": "images/shopping/3.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "What's the man near?"
-        },
-        {
-            "filename": "images/shopping/3.png",
-            "category": "social_media",
             "study_type": "imgversion",
             "question": "What is the man doing?"
         },
@@ -295,28 +145,10 @@ var main_trials = {
             "question": "I would like to know why the man and woman are there."
         },
         {
-            "filename": "images/science_journals/2.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "why they picture was made?"
-        },
-        {
             "filename": "images/science_journals/7.png",
             "category": "science_journals",
             "study_type": "textversion",
             "question": "How informative and reliable?"
-        },
-        {
-            "filename": "images/science_journals/7.png",
-            "category": "science_journals",
-            "study_type": "textversion",
-            "question": "Where is the street sign located? "
-        },
-        {
-            "filename": "images/science_journals/7.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "Is it a city street or a neighborhood street?"
         },
         {
             "filename": "images/science_journals/7.png",
@@ -329,12 +161,6 @@ var main_trials = {
             "category": "social_media",
             "study_type": "textversion",
             "question": "Is this an ad for a very specific skiing community? "
-        },
-        {
-            "filename": "images/travel/4.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "Where are they at?"
         },
         {
             "filename": "images/health/2.png",
@@ -358,12 +184,6 @@ var main_trials = {
             "filename": "images/news_journals/25.png",
             "category": "news",
             "study_type": "imgversion",
-            "question": "What are they doing?"
-        },
-        {
-            "filename": "images/news_journals/25.png",
-            "category": "news",
-            "study_type": "imgversion",
             "question": "Where are the people positioned?"
         },
         {
@@ -371,12 +191,6 @@ var main_trials = {
             "category": "news",
             "study_type": "textversion",
             "question": "What is his speech about?"
-        },
-        {
-            "filename": "images/news_journals/8.png",
-            "category": "news",
-            "study_type": "imgversion",
-            "question": "What does the man look like?"
         },
         {
             "filename": "images/shopping/6.png",
@@ -397,18 +211,6 @@ var main_trials = {
             "question": "what is a healthy food for a consistent runner?"
         },
         {
-            "filename": "images/health/2.png",
-            "category": "health",
-            "study_type": "imgversion",
-            "question": "How cold is it, where they are running?"
-        },
-        {
-            "filename": "images/news_journals/34.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "What happened in the beach?"
-        },
-        {
             "filename": "images/news_journals/34.png",
             "category": "news",
             "study_type": "textversion",
@@ -421,12 +223,6 @@ var main_trials = {
             "question": "What is she wearing? "
         },
         {
-            "filename": "images/news_journals/34.png",
-            "category": "news",
-            "study_type": "imgversion",
-            "question": "What are her emotions? "
-        },
-        {
             "filename": "images/travel/5.png",
             "category": "travel",
             "study_type": "textversion",
@@ -436,25 +232,7 @@ var main_trials = {
             "filename": "images/travel/5.png",
             "category": "travel",
             "study_type": "imgversion",
-            "question": "Where is she going?"
-        },
-        {
-            "filename": "images/travel/5.png",
-            "category": "travel",
-            "study_type": "imgversion",
             "question": "What does the woman look like?"
-        },
-        {
-            "filename": "images/travel/2.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "Where is the scuba diver"
-        },
-        {
-            "filename": "images/travel/2.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "What would a vacation that involves scuba diving look like?\n"
         },
         {
             "filename": "images/science_journals/1.png",
@@ -467,18 +245,6 @@ var main_trials = {
             "category": "news",
             "study_type": "textversion",
             "question": "Was anyone injured in the incident"
-        },
-        {
-            "filename": "images/science_journals/1.png",
-            "category": "news",
-            "study_type": "imgversion",
-            "question": "Was anyone harmed with the building falling down?"
-        },
-        {
-            "filename": "images/science_journals/5.png",
-            "category": "travel",
-            "study_type": "imgversion",
-            "question": "How big is the river?"
         },
         {
             "filename": "images/shopping/6.png",
@@ -507,32 +273,14 @@ var main_trials = {
         {
             "filename": "images/social_media/1.png",
             "category": "social_media",
-            "study_type": "textversion",
-            "question": "Where are they at?"
-        },
-        {
-            "filename": "images/social_media/1.png",
-            "category": "social_media",
             "study_type": "imgversion",
             "question": "is he alone?"
-        },
-        {
-            "filename": "images/health/2.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "Where is the woman running"
         },
         {
             "filename": "images/news_journals/4.png",
             "category": "news",
             "study_type": "textversion",
             "question": "Is the seal dead or alive?"
-        },
-        {
-            "filename": "images/news_journals/4.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "What type of seal is shown?"
         },
         {
             "filename": "images/news_journals/15.png",
@@ -547,64 +295,16 @@ var main_trials = {
             "question": "Is it a busy street?"
         },
         {
-            "filename": "images/travel/2.png",
-            "category": "science_journals",
-            "study_type": "textversion",
-            "question": "What is the context of the article?"
-        },
-        {
-            "filename": "images/travel/2.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "Is there any fish or animals in the photograph?"
-        },
-        {
             "filename": "images/science_journals/5.png",
             "category": "science_journals",
             "study_type": "textversion",
             "question": "Is there a connection between recreational fishing and environmental decay?"
         },
         {
-            "filename": "images/science_journals/5.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "What does the environment around them look like?"
-        },
-        {
-            "filename": "images/travel/7.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "what happened here?"
-        },
-        {
-            "filename": "images/travel/7.png",
-            "category": "news",
-            "study_type": "imgversion",
-            "question": "Is the alley clean?"
-        },
-        {
-            "filename": "images/travel/6.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "The name of the restaurant or person who prepared it. "
-        },
-        {
             "filename": "images/health/3.png",
             "category": "shopping",
             "study_type": "textversion",
             "question": "What's the website name"
-        },
-        {
-            "filename": "images/news_journals/15.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "what kind of dance is the woman doing?"
-        },
-        {
-            "filename": "images/news_journals/15.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "What is it like traveling to india?"
         },
         {
             "filename": "images/news_journals/15.png",
@@ -617,18 +317,6 @@ var main_trials = {
             "category": "shopping",
             "study_type": "textversion",
             "question": "Is this a type of trip, and if so, what is it?"
-        },
-        {
-            "filename": "images/shopping/4.png",
-            "category": "shopping",
-            "study_type": "imgversion",
-            "question": "How does the hotel look?"
-        },
-        {
-            "filename": "images/science_journals/4.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "Where is the boat?"
         },
         {
             "filename": "images/shopping/7.png",
@@ -658,19 +346,7 @@ var main_trials = {
             "filename": "images/shopping/2.png",
             "category": "shopping",
             "study_type": "textversion",
-            "question": "what size does it come in?"
-        },
-        {
-            "filename": "images/shopping/2.png",
-            "category": "shopping",
-            "study_type": "textversion",
             "question": "Is this same sweater available for purchase?"
-        },
-        {
-            "filename": "images/shopping/2.png",
-            "category": "shopping",
-            "study_type": "imgversion",
-            "question": "Is this man standing in a field?"
         },
         {
             "filename": "images/news_journals/15.png",
@@ -695,12 +371,6 @@ var main_trials = {
             "category": "shopping",
             "study_type": "imgversion",
             "question": "What is the man wearing? "
-        },
-        {
-            "filename": "images/science_journals/4.png",
-            "category": "news",
-            "study_type": "imgversion",
-            "question": "Is the boat a commercial fisherman or a boat out for pleasure?"
         }
     ]
 }
