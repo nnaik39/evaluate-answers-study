@@ -13,7 +13,7 @@ exp.customize = function() {
         thanks
     ];
 
-    console.log("Study updated twice!")
+    console.log("Study updated third time!")
 
     console.log("Main trials ", main_trials)
 
