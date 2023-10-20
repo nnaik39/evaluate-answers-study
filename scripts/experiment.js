@@ -134,12 +134,6 @@ exp.customize = function() {
     news_journals = "You are browsing <strong>news websites</strong> (such as New York Times), with the goal of learning more about recent news developments."
 
     questions = _.shuffle([health, shopping, travel, social_media, science_journals, news_journals])
-    this.trial_info.q1 = "Why do you think this image appears within this context?"
-    this.trial_info.q2 = "What are two questions you'd want to have answered if you encountered this image when you were shopping? Each question should be more than 3 words. Please avoid questions that begin with Is there or How many."
-    this.trial_info.q3 = "A seal lies on a beach, looking towards the camera"
-    this.trial_info.q4 = "Write a question to fool an intelligent robot."
-    this.trial_info.q5 = questions.pop()
-    this.trial_info.q6 = questions.pop()
 
     // adds progress bars to the views listed
     // view's name is the same as object's name
@@ -150,7 +144,3 @@ exp.customize = function() {
     // the width of the progress bar or a single chunk
     this.progress_bar_width = 100;
 };
-
-// First, they'll be writing questions
-// Then, they'll be writing answers to the questions that other people generated
-// You'll need to generate questions and save them to an answer database

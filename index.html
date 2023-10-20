@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
 
-        <title>Browser-based Experiment</title>
+        <title>How Would You Answer This Question?</title>
 
         <!-- fonts from Google fonts -->
         <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700|Noto+Serif:400,700|Playfair+Display:700" rel="stylesheet">
@@ -198,9 +198,17 @@
                 {{/ q1 }}
 
                 <p id="slider1_box" class="answer-container blend-out">
-                    <textarea class="context-survey-question" id="context-justification"/>
+                    {{# slider_left }}
+                    <span class="slider_left">{{{ slider_left }}}</span>
+                    {{/ slider_left }}
+
+                    <input type="range" id="context-justification" class="slider-response" min="0" max="100" value="0"/>
+
+                    {{# slider_right }}
+                    <span class="slider_right">{{{ slider_right }}}</span>
+                    {{/ slider_right }}
                 </p>
-                    <br>
+                <br>
                 </p>
 
                 <br> 
@@ -208,6 +216,12 @@
                 {{# q2 }}
                 <p class="question" id="study-question-1">{{{ q2 }}} </p>
                 {{/ q2 }}
+                <div class="picture">
+                    <p class="bordered-text"> Image Description: {{{ description }}} </p>
+                </div>
+                {{# q3 }}
+                <p class="question">{{{ q3 }}} </p>
+                {{/ q3 }}
 
                 {{# question }}
                 <p class="question" id="study-question-2"> <strong> {{{ question }}} </strong> </p>

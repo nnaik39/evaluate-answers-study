@@ -182,45 +182,39 @@ var main = {
     //    console.log("Picture name ", exp.trial_info.main_trials[CT]['filename'])
       //  console.log("Current category ", exp.trial_info.main_trials[CT]['category'])
 
+        q1 = "How likely is it that you come across this image while browsing a "
         if (exp.trial_info.main_trials[CT]['category'] == 'health') {
             text = "Imagine that you are browsing a <strong>health website</strong>, with the goal of learning how to live a healthier lifestyle, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>health website </strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>health website</strong>?"
+            q1 += "<strong>health website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'shopping') {
             text = "Imagine that you are browsing a <strong>shopping website</strong>, with the goal of purchasing an item or experience, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>shopping website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>shopping website</strong>?"
+            q1 += "<strong>shopping website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'social_media') {
             text = "Imagine that you are browsing a <strong>social media website</strong>, with the goal of learning more about your connections, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>social media website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>social media website</strong>?"
+            q1 += "<strong>social media website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'news') {
             text = "Imagine that you are browsing a <strong>news website</strong> (such as the New York Times), with the goal of learning more about recent news developments, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>news website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>news website</strong>?"
+            q1 += "<strong>news website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'travel') {
             text = "Imagine that you are browsing a <strong>travel website</strong>, with the goal of traveling to a new location, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>travel website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>travel website</strong>?"
+            q1 += "<strong>travel website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'science_journals') {
             text = "Imagine that you are browsing a <strong>science magazine website</strong> (such as National Geographic), with the goal of learning more about recent science developments, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>science magazine website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>science magazine website</strong>?"
+            q1 += "<strong>science magazine website</strong>?"
         }
 
-        q2 = "Another user who can't see the image has the following question. Please answer based on the image. Your answer should allow the user to better understand and imagine the image."
-
-        q1 += " A response of 5-10 words should be sufficient."
+        q2 = "Another user cannot see the image directly but has access to this description:" 
+        q3 = "Based on this description, they asked this follow-up question. Please answer based on the image. Your answer should allow the user to better understand and imagine the image. If the question doesn't require the image to be answered or is unanswerable, please mark it as unanswerable."
 
         checkbox = 'The question cannot be answered from the image or otherwise has an error.';
 
-        slider_left = '';
-        slider_right = '';
+        slider_left = 'Not likely';
+        slider_right = 'Likely';
 
         console.log("Checkbox default ", $('checkbox').val())
 
@@ -235,6 +229,7 @@ var main = {
                 slider_right: slider_right,
                 q1: q1,
                 q2: q2,
+                q3: q3,
                 question: exp.trial_info.main_trials[CT]['question'],
                 checkbox: checkbox
             })
@@ -245,11 +240,8 @@ var main = {
         var context_justification = $('#context-justification');
         var context_justification_changed = false;
 
-        context_justification.on('keyup', function() {
-            value = context_justification.val();
-            if (value.length >= 10) context_justification_changed = true;
-            else if (value.length < 10) context_justification_changed = false;
-
+        context_justification.on('click', function() {
+            context_justification_changed = true;
             $("#error").css({"visibility": "hidden"});
         });
 
@@ -262,6 +254,11 @@ var main = {
             else if (value.length < 10) answer_changed = false;
 
             $("#error").css({"visibility": "hidden"});
+        });
+
+        answer.on('paste', function(e) {
+            e.preventDefault();
+            return false;
         });
 
         var box_checked = false;

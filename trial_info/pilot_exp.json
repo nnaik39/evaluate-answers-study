@@ -1,376 +1,292 @@
 var main_trials = {
     "images": [
         {
-            "filename": "images/shopping/4.png",
-            "category": "travel",
-            "study_type": "imgversion",
-            "question": "How much seating is around the pool?"
-        },
-        {
-            "filename": "images/social_media/7.png",
+            "filename": "images/14305.jpg",
             "category": "social_media",
-            "study_type": "textversion",
-            "question": "I would like to know why it was placed there?"
+            "question": "Where was this picture seemingly taken?",
+            "description": "a sign for a cycle path on the side of the road"
         },
         {
-            "filename": "images/health/7.png",
+            "filename": "images/14305.jpg",
+            "category": "social_media",
+            "question": "Is anyone present in the picture?",
+            "description": "a sign for a cycle path on the side of the road"
+        },
+        {
+            "filename": "images/49393.jpg",
             "category": "health",
-            "study_type": "imgversion",
-            "question": "The strength of the bands?"
+            "question": "Does the man have any obvious medical issues?",
+            "description": "a man in a blue jersey and sunglasses"
         },
         {
-            "filename": "images/health/1.png",
+            "filename": "images/49393.jpg",
             "category": "health",
-            "study_type": "textversion",
-            "question": "Is the doctor in the photo related to the website?"
+            "question": "Is there anyone else in the picture with the man?",
+            "description": "a man in a blue jersey and sunglasses"
         },
         {
-            "filename": "images/health/3.png",
+            "filename": "images/32924.jpg",
+            "category": "travel",
+            "question": "What season is it in the photo?",
+            "description": "a mountain range with a lake and trees on the side"
+        },
+        {
+            "filename": "images/32924.jpg",
+            "category": "travel",
+            "question": "Are there any visible landmarks in the photo?",
+            "description": "a mountain range with a lake and trees on the side"
+        },
+        {
+            "filename": "images/30808.jpg",
+            "category": "news",
+            "question": "What is happening in the image?",
+            "description": "the bridge over the river tay"
+        },
+        {
+            "filename": "images/30808.jpg",
+            "category": "news",
+            "question": "Are there people on the bridge?",
+            "description": "the bridge over the river tay"
+        },
+        {
+            "filename": "images/30168.jpg",
+            "category": "science_journals",
+            "question": "What sort of architecture is present?",
+            "description": "an aerial view of an ancient city in the desert"
+        },
+        {
+            "filename": "images/30168.jpg",
+            "category": "science_journals",
+            "question": "How old does the city seem to be?",
+            "description": "an aerial view of an ancient city in the desert"
+        },
+        {
+            "filename": "images/45508.jpg",
+            "category": "shopping",
+            "question": "What kind of food is being prepared?",
+            "description": "the kitchen at the restaurant is filled with people"
+        },
+        {
+            "filename": "images/45508.jpg",
+            "category": "shopping",
+            "question": "Are there lots of kitchen products visible?",
+            "description": "the kitchen at the restaurant is filled with people"
+        },
+        {
+            "filename": "images/31989.jpg",
+            "category": "shopping",
+            "question": "what color is the brick?",
+            "description": "a small brick building with a green awning"
+        },
+        {
+            "filename": "images/31989.jpg",
+            "category": "shopping",
+            "question": "Is there anything outside of the building?",
+            "description": "a small brick building with a green awning"
+        },
+        {
+            "filename": "images/53528.jpg",
             "category": "health",
-            "study_type": "textversion",
-            "question": "What is the person doing that promotes a healthier lifestyle?"
+            "question": "What are the people wearing?",
+            "description": "a group of people walking on a track"
         },
         {
-            "filename": "images/shopping/1.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "What color are the curtains?"
-        },
-        {
-            "filename": "images/social_media/1.png",
-            "category": "shopping",
-            "study_type": "imgversion",
-            "question": "is it sunny"
-        },
-        {
-            "filename": "images/social_media/5.png",
-            "category": "social_media",
-            "study_type": "imgversion",
-            "question": "how many women are there?"
-        },
-        {
-            "filename": "images/shopping/4.png",
-            "category": "social_media",
-            "study_type": "imgversion",
-            "question": "Is there a lot of room for people and kids?"
-        },
-        {
-            "filename": "images/shopping/4.png",
-            "category": "social_media",
-            "study_type": "imgversion",
-            "question": "Is the pool indoors or outdoors?"
-        },
-        {
-            "filename": "images/health/6.png",
+            "filename": "images/53528.jpg",
             "category": "health",
-            "study_type": "textversion",
-            "question": "Do they follow a particular diet?"
+            "question": "Is the track inside or outside?",
+            "description": "a group of people walking on a track"
         },
         {
-            "filename": "images/travel/5.png",
+            "filename": "images/60030.jpg",
+            "category": "science_journals",
+            "question": "What artwork is displayed?",
+            "description": "the metropolitan museum of art"
+        },
+        {
+            "filename": "images/60030.jpg",
+            "category": "science_journals",
+            "question": "Is anyone in the pictures?",
+            "description": "the metropolitan museum of art"
+        },
+        {
+            "filename": "images/14464.jpg",
+            "category": "travel",
+            "question": "What color is the car?",
+            "description": "a street with a few cars and people walking on it"
+        },
+        {
+            "filename": "images/14464.jpg",
+            "category": "travel",
+            "question": "What make is the car?",
+            "description": "a street with a few cars and people walking on it"
+        },
+        {
+            "filename": "images/55124.jpg",
+            "category": "news",
+            "question": "What part of winsor castle is shown?",
+            "description": "aerial view of windsor castle"
+        },
+        {
+            "filename": "images/55124.jpg",
+            "category": "news",
+            "question": "Is there anything else outside?",
+            "description": "aerial view of windsor castle"
+        },
+        {
+            "filename": "images/22769.jpg",
+            "category": "social_media",
+            "question": "What marathon are they running?",
+            "description": "a group of people running in a marathon"
+        },
+        {
+            "filename": "images/22769.jpg",
+            "category": "social_media",
+            "question": "What are they wearing?",
+            "description": "a group of people running in a marathon"
+        },
+        {
+            "filename": "images/23371.jpg",
+            "category": "science_journals",
+            "question": "what sort of day is it? cloudy? sunny?",
+            "description": "the view from an airplane window of mountains and water"
+        },
+        {
+            "filename": "images/23371.jpg",
+            "category": "science_journals",
+            "question": "how high are we in the air?",
+            "description": "the view from an airplane window of mountains and water"
+        },
+        {
+            "filename": "images/44485.jpg",
+            "category": "travel",
+            "question": "where on the road is it located?",
+            "description": "a sign that says 50 the longest road in america"
+        },
+        {
+            "filename": "images/44485.jpg",
+            "category": "travel",
+            "question": "is it in color? black and white? ",
+            "description": "a sign that says 50 the longest road in america"
+        },
+        {
+            "filename": "images/6908.jpg",
             "category": "shopping",
-            "study_type": "textversion",
-            "question": "Where is this street?"
+            "question": "Is it a sunny day? Rainy?",
+            "description": "a small town with shops and people walking around"
         },
         {
-            "filename": "images/shopping/5.png",
+            "filename": "images/6908.jpg",
             "category": "shopping",
-            "study_type": "textversion",
-            "question": "What kind of vase is it?"
+            "question": "Is it a large area in the photo or just a close up?",
+            "description": "a small town with shops and people walking around"
         },
         {
-            "filename": "images/shopping/5.png",
-            "category": "shopping",
-            "study_type": "imgversion",
-            "question": "What does the vases look like?"
+            "filename": "images/22145.jpg",
+            "category": "social_media",
+            "question": "Is there any other activity going on? Are there people around?",
+            "description": "a street with cars parked on both sides and a building in the background"
         },
         {
-            "filename": "images/science_journals/2.png",
+            "filename": "images/22145.jpg",
+            "category": "social_media",
+            "question": "Is it a clean place? Garbage around?",
+            "description": "a street with cars parked on both sides and a building in the background"
+        },
+        {
+            "filename": "images/7002.jpg",
+            "category": "news",
+            "question": "Are people very dressed up?",
+            "description": "leonardo dicaprio and person at the premiere of the movie 'the great gats"
+        },
+        {
+            "filename": "images/7002.jpg",
+            "category": "news",
+            "question": "Is there a big crowd around?",
+            "description": "leonardo dicaprio and person at the premiere of the movie 'the great gats"
+        },
+        {
+            "filename": "images/22698.jpg",
             "category": "health",
-            "study_type": "imgversion",
-            "question": "What should I wear when swimming"
+            "question": "what sort of sandwich is it?",
+            "description": "a plate with two sandwiches and a candle"
         },
         {
-            "filename": "images/science_journals/3.png",
-            "category": "science_journals",
-            "study_type": "textversion",
-            "question": "Does this happen with all plants?"
-        },
-        {
-            "filename": "images/science_journals/3.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "Are the plants around the concert hall?"
-        },
-        {
-            "filename": "images/science_journals/3.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "Are there any people? "
-        },
-        {
-            "filename": "images/travel/4.png",
-            "category": "travel",
-            "study_type": "imgversion",
-            "question": "What is the weather like in the photo?"
-        },
-        {
-            "filename": "images/science_journals/2.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "where are they?"
-        },
-        {
-            "filename": "images/science_journals/6.png",
-            "category": "science_journals",
-            "study_type": "textversion",
-            "question": "Why are these men standing at the wall?"
-        },
-        {
-            "filename": "images/science_journals/6.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "what age of men are they?"
-        },
-        {
-            "filename": "images/shopping/3.png",
-            "category": "social_media",
-            "study_type": "imgversion",
-            "question": "What is the man doing?"
-        },
-        {
-            "filename": "images/science_journals/2.png",
-            "category": "science_journals",
-            "study_type": "textversion",
-            "question": "I would like to know why the man and woman are there."
-        },
-        {
-            "filename": "images/science_journals/7.png",
-            "category": "science_journals",
-            "study_type": "textversion",
-            "question": "How informative and reliable?"
-        },
-        {
-            "filename": "images/science_journals/7.png",
-            "category": "science_journals",
-            "study_type": "imgversion",
-            "question": "Is it night or day time?"
-        },
-        {
-            "filename": "images/travel/4.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "Is this an ad for a very specific skiing community? "
-        },
-        {
-            "filename": "images/health/2.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "Are there waterfalls in the mountains?"
-        },
-        {
-            "filename": "images/health/2.png",
-            "category": "travel",
-            "study_type": "imgversion",
-            "question": "What kind of mountain is she running on?"
-        },
-        {
-            "filename": "images/news_journals/25.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "Did these people obtain consent?"
-        },
-        {
-            "filename": "images/news_journals/25.png",
-            "category": "news",
-            "study_type": "imgversion",
-            "question": "Where are the people positioned?"
-        },
-        {
-            "filename": "images/news_journals/8.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "What is his speech about?"
-        },
-        {
-            "filename": "images/shopping/6.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "how long this company has been in business"
-        },
-        {
-            "filename": "images/shopping/6.png",
-            "category": "travel",
-            "study_type": "imgversion",
-            "question": "Who is the person in the picture? "
-        },
-        {
-            "filename": "images/health/2.png",
+            "filename": "images/22698.jpg",
             "category": "health",
-            "study_type": "textversion",
-            "question": "what is a healthy food for a consistent runner?"
+            "question": "is the candle burning?",
+            "description": "a plate with two sandwiches and a candle"
         },
         {
-            "filename": "images/news_journals/34.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "Is this person a part of the story"
-        },
-        {
-            "filename": "images/news_journals/34.png",
-            "category": "news",
-            "study_type": "imgversion",
-            "question": "What is she wearing? "
-        },
-        {
-            "filename": "images/travel/5.png",
-            "category": "travel",
-            "study_type": "textversion",
-            "question": "How many lbs or kg can the suitcase weigh?"
-        },
-        {
-            "filename": "images/travel/5.png",
-            "category": "travel",
-            "study_type": "imgversion",
-            "question": "What does the woman look like?"
-        },
-        {
-            "filename": "images/science_journals/1.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "Where is the location?"
-        },
-        {
-            "filename": "images/science_journals/1.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "Was anyone injured in the incident"
-        },
-        {
-            "filename": "images/shopping/6.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "Is the view from the hill nice?"
-        },
-        {
-            "filename": "images/shopping/6.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "Who is this person in the photo?"
-        },
-        {
-            "filename": "images/shopping/6.png",
-            "category": "social_media",
-            "study_type": "imgversion",
-            "question": "What's the weather like?"
-        },
-        {
-            "filename": "images/shopping/6.png",
-            "category": "social_media",
-            "study_type": "imgversion",
-            "question": "Is he doing something related to social media?"
-        },
-        {
-            "filename": "images/social_media/1.png",
-            "category": "social_media",
-            "study_type": "imgversion",
-            "question": "is he alone?"
-        },
-        {
-            "filename": "images/news_journals/4.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "Is the seal dead or alive?"
-        },
-        {
-            "filename": "images/news_journals/15.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "Is this product authentic?"
-        },
-        {
-            "filename": "images/travel/5.png",
-            "category": "social_media",
-            "study_type": "textversion",
-            "question": "Is it a busy street?"
-        },
-        {
-            "filename": "images/science_journals/5.png",
+            "filename": "images/43668.jpg",
             "category": "science_journals",
-            "study_type": "textversion",
-            "question": "Is there a connection between recreational fishing and environmental decay?"
+            "question": "What material is the building made out of?",
+            "description": "the front of the building at the university of oklahoma"
         },
         {
-            "filename": "images/health/3.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "What's the website name"
+            "filename": "images/43668.jpg",
+            "category": "science_journals",
+            "question": "Is there a lot of green space? ",
+            "description": "the front of the building at the university of oklahoma"
         },
         {
-            "filename": "images/news_journals/15.png",
-            "category": "travel",
-            "study_type": "imgversion",
-            "question": "Is the woman performing on a stage?"
+            "filename": "images/33731.jpg",
+            "category": "health",
+            "question": "Is the baby healthy?",
+            "description": "a doctor holding a baby in a hospital room"
         },
         {
-            "filename": "images/shopping/4.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "Is this a type of trip, and if so, what is it?"
+            "filename": "images/33731.jpg",
+            "category": "health",
+            "question": "What color are the doctor's scrubs? ",
+            "description": "a doctor holding a baby in a hospital room"
         },
         {
-            "filename": "images/shopping/7.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "What type of neck style is on the t-shirt"
-        },
-        {
-            "filename": "images/shopping/7.png",
-            "category": "shopping",
-            "study_type": "imgversion",
-            "question": "What ethnicity is the man? "
-        },
-        {
-            "filename": "images/news_journals/11.png",
-            "category": "news",
-            "study_type": "textversion",
-            "question": "who are the players"
-        },
-        {
-            "filename": "images/travel/6.png",
+            "filename": "images/38596.jpg",
             "category": "social_media",
-            "study_type": "textversion",
-            "question": "Is it good?"
+            "question": "Is the white dress a wedding dress?",
+            "description": "a woman in a white dress posing for the camera"
         },
         {
-            "filename": "images/shopping/2.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "Is this same sweater available for purchase?"
+            "filename": "images/38596.jpg",
+            "category": "social_media",
+            "question": "Where is the woman taking this picture?",
+            "description": "a woman in a white dress posing for the camera"
         },
         {
-            "filename": "images/news_journals/15.png",
+            "filename": "images/43164.jpg",
             "category": "news",
-            "study_type": "imgversion",
-            "question": "What does the woman look like?"
+            "question": "Are there any banners on the building to indicate something going on?",
+            "description": "the one world trade center is seen in the sunset"
         },
         {
-            "filename": "images/news_journals/15.png",
+            "filename": "images/43164.jpg",
             "category": "news",
-            "study_type": "imgversion",
-            "question": "What is she doing?"
+            "question": "Can you see city streets below? ",
+            "description": "the one world trade center is seen in the sunset"
         },
         {
-            "filename": "images/shopping/3.png",
-            "category": "shopping",
-            "study_type": "textversion",
-            "question": "Is the man relaxing or is he engaging in an activity?"
+            "filename": "images/40249.jpg",
+            "category": "travel",
+            "question": "Are there any animals in the picture?",
+            "description": "the mountains are covered in snow and trees"
         },
         {
-            "filename": "images/shopping/3.png",
+            "filename": "images/40249.jpg",
+            "category": "travel",
+            "question": "What kind of trees are pictured? ",
+            "description": "the mountains are covered in snow and trees"
+        },
+        {
+            "filename": "images/44487.jpg",
             "category": "shopping",
-            "study_type": "imgversion",
-            "question": "What is the man wearing? "
+            "question": "Are there storefronts in the picture?",
+            "description": "the old town of las vegas, nevada"
+        },
+        {
+            "filename": "images/44487.jpg",
+            "category": "shopping",
+            "question": "Are people shopping in the picture?",
+            "description": "the old town of las vegas, nevada"
         }
     ]
 }
