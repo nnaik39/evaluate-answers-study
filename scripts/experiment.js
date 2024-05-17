@@ -112,7 +112,7 @@ exp.customize = function() {
         'description': 'A hummingbird flying midair next to some hibiscus flowers',
         'category': 'gardening',
         'question': 'Is the hummingbird drinking from one of the hibiscus flowers?',
-        'answer': 'Yes, the hummingbird is drinking from a hibiscus flower'
+        'answer': 'No, the hummingbird is not drinking from a hibiscus flower'
     }]
 
     attention_check_2 = [{

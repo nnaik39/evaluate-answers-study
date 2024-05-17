@@ -1,1402 +1,270 @@
-var main_trials = [
-    {
-        "filename": "images/images/Virti_vaghani.jpeg",
-        "category": "shopping",
-        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
-        "question": "Are there any other people in the image?",
-        "answer": "Yes, there are other people in the image."
-    },
-    {
-        "filename": "images/AntiqueFiskeAquarium.jpeg",
-        "category": "social_media",
-        "description": "A vintage octagonal aquarium on a decorative pedestal amidst houseplants.\n",
-        "question": "Is this imagine indoors or outdoors?",
-        "answer": "The image is indoors."
-    },
-    {
-        "filename": "images/Noaa-walrus12.jpeg",
-        "category": "social_media",
-        "description": "Group of rough skinned walruses with long white tusks leisurely rest on a set of black rocks near a body of water.\n",
-        "question": "what does this picture have to do with connections?",
-        "answer": "This picture has nothing to do with connections."
-    },
-    {
-        "filename": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
-        "category": "social_media",
-        "description": "George W. Bush speaking to a football team.\n",
-        "question": "Why is President Bush speaking to this football team?",
-        "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone."
-    },
-    {
-        "filename": "images/TDF31472_groep_met_rodriguez_(53062211809).jpeg",
-        "category": "news",
-        "description": "Cyclists racing on a mountain road.\n",
-        "question": "Is it a race or a marathon?",
-        "answer": "The cyclists are racing on a mountain road, so it is not a marathon."
-    },
-    {
-        "filename": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
-        "category": "science_journals",
-        "description": "Dense rainforest underbrush with large trees and various green plants on a gloomy day.\n",
-        "question": "Where is this rainforest located?",
-        "answer": "This rainforest is located in the Amazon."
-    },
-    {
-        "filename": "images/Rabanne.jpeg",
-        "category": "shopping",
-        "description": "A shimmering dress covered with reflective detailing squares that is slightly above the knee.\n",
-        "question": "What color is the dress?",
-        "answer": "The dress is silver in color."
-    },
-    {
-        "filename": "images/STS-130_Endeavour_flyaround_5.jpeg",
-        "category": "news",
-        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-        "question": "What colors are in the image.",
-        "answer": "The image is in black and white."
-    },
-    {
-        "filename": "images/440px-Formation_recorte.jpeg",
-        "category": "shopping",
-        "description": "A performer with long brown hair in sparkling pink attire singing to an audience in the rain with a smile on her face with on hand holding a golden mic and the other hand over her heart.\n",
-        "question": "What is the backdrop to this image?",
-        "answer": "The backdrop to this image is a dark stage with bright lights shining on the performer."
-    },
-    {
-        "filename": "images/Camisade_puno_doble.jpeg",
-        "category": "social_media",
-        "description": "A new folded dress shirt with double cuffs.\n",
-        "question": "What types of events is the shirt appropriate for?",
-        "answer": "The shirt is appropriate for formal events such as weddings, business meetings, and other professional settings."
-    },
-    {
-        "filename": "images/Light_Therapy_for_SAD.jpeg",
-        "category": "health",
-        "description": "An elderly person reading a book under a light therapy lamp.\n",
-        "question": "what are they doing there",
-        "answer": "They are reading a book under a light therapy lamp."
-    },
-    {
-        "filename": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
-        "category": "shopping",
-        "description": "A tranquil meditation room with tatami mats and black cushions arranged neatly with a purple cushion alone in the middle of the room.\n",
-        "question": "Does the room look like it has been used recently?",
-        "answer": "The room looks like it has been used recently."
-    },
-    {
-        "filename": "images/Heidi_Klum4crop.jpeg",
-        "category": "shopping",
-        "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-        "question": "How old does the woman appear to be?",
-        "answer": "The woman appears to be in her mid-twenties."
-    },
-    {
-        "filename": "images/Halved_blackberry_(Rubus_fruticosus).jpeg",
-        "category": "health",
-        "description": "Half a blackberry covered in shiny black droplets.\n",
-        "question": "Is the berry cut in half or is it whole?",
-        "answer": "The berry is cut in half."
-    },
-    {
-        "filename": "images/330px-Zohre_Esmaeli_1.jpeg",
-        "category": "shopping",
-        "description": "A model in a vibrant, patterned ethnic outfit on a runway.\n",
-        "question": "What is the approximate size of the model?",
-        "answer": "The approximate size of the model is small."
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "social_media",
-        "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "Does the picture appear to be a sponsor for something?",
-        "answer": "No, the picture does not appear to be a sponsor for anything."
-    },
-    {
-        "filename": "images/500px-Master_Scott_Leonard.jpeg",
-        "category": "health",
-        "description": "A martial artist performing a high kick during a martial arts demonstration, assisted by a trainer in front of young students.\n",
-        "question": "What is the person's age?",
-        "answer": "The person is a young adult."
-    },
-    {
-        "filename": "images/440px-Therme_Bad_Aibling.jpeg",
-        "category": "shopping",
-        "description": "A dome-shaped building with a reflective pool at twilight, showcasing modern design.\n",
-        "question": "Where is the building",
-        "answer": "The building is a modern dome-shaped structure with a reflective pool at twilight. It is located in a residential area."
-    },
-    {
-        "filename": "images/Lilyfruit.jpeg",
-        "category": "science_journals",
-        "description": "A close-up of a green lily bud.\n",
-        "question": "is there anything else in the image?",
-        "answer": "The image description does not provide any information about other objects in the image. Therefore, it is not possible to determine if there are any other objects in the image."
-    },
-    {
-        "filename": "images/Priyanka_Chopra_2003.jpeg",
-        "category": "news",
-        "description": "Actress Priyanka Chopra in traditional attire, wearing a blue dress with brightly colored beads.\n",
-        "question": "Color of the beads",
-        "answer": "The beads are brightly colored."
-    },
-    {
-        "filename": "images/Young_ladies_at_Harajuku.jpeg",
-        "category": "travel",
-        "description": "A group of women in traditional Japanese attire carrying purses and scarves.\n",
-        "question": "Is this a fashion website for designer purses and shoes? ",
-        "answer": "No, this is not a fashion website for designer purses and shoes."
-    },
-    {
-        "filename": "images/440px-Shunsuke1_20080622.jpeg",
-        "category": "news",
-        "description": "A soccer player in the number 10 jersey about to kick a ball during a game, with the goal in the background.\n",
-        "question": "Which team do they play for?",
-        "answer": "The soccer player in the number 10 jersey is from the blue team."
-    },
-    {
-        "filename": "images/Hobby_Fotografen_(_Chobe_2018).jpeg",
-        "category": "social_media",
-        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
-        "question": "Are they scared?",
-        "answer": "I cannot determine the emotions of the people in the image. however, based on the image description, it seems like they are not scared as they are seated under a canopy on a flatboat tour, cruising close to a riverbank."
-    },
-    {
-        "filename": "images/Unveiling_of_LZR_Racer_in_NYC_2008-02-13.jpeg",
-        "category": "shopping",
-        "description": "Swimmers modeling high-tech bodysuits.\n",
-        "question": "What are the bodysuits like?",
-        "answer": "The bodysuits are black and have a sleek, modern design. They are made of a shiny material and have a streamlined appearance."
-    },
-    {
-        "filename": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
-        "category": "travel",
-        "description": "Fighter jet in mid-flight against blue sky.\n",
-        "question": "What color is the fighter jet?",
-        "answer": "The fighter jet is silver in color."
-    },
-    {
-        "filename": "images/Wdomenada2003b.jpeg",
-        "category": "travel",
-        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-        "question": "What is the appeared gender of the two people?",
-        "answer": "The two people in the image are both female."
-    },
-    {
-        "filename": "images/Common_stingray_tenerife.jpeg",
-        "category": "travel",
-        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
-        "question": "What color is the stingray?",
-        "answer": "The stingray is brown in color."
-    },
-    {
-        "filename": "images/MAN_TGX_18.640_XXL_Modell_2020_Fahrerhaus.jpg",
-        "category": "shopping",
-        "description": "A modern golden-colored truck cab.\n",
-        "question": "Who is driving?",
-        "answer": "The driver of the truck is a man."
-    },
-    {
-        "filename": "images/Summitting_Island_Peak.jpeg",
-        "category": "travel",
-        "description": "Climber ascending a snowy mountain peak.\n",
-        "question": "What is the climber wearing?",
-        "answer": "The climber is wearing a red jacket."
-    },
-    {
-        "filename": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "category": "news",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "Can you tell me what the color, size and texture looks like?",
-        "answer": "I cannot provide a visual answer to this question. however, based on the image description, the egg case is described as translucent, which suggests that it may be clear or semi-transparent. the size and texture of the egg case are not explicitly described, but it is likely that it is small and smooth. the embryo inside the egg case is described as visible, but it is not clear what the color or texture of the embryo is."
-    },
-    {
-        "filename": "images/440px-BMW_Welt_y_Torre_BMW_Munich_Alemania.jpeg",
-        "category": "news",
-        "description": "A futuristic building lit at night beside a road with streaks of traffic lights and a tower in the background.\n",
-        "question": "What building is being shown in the picture? ",
-        "answer": "The building in the picture is a futuristic building."
-    },
-    {
-        "filename": "images/440px-Lisbon_Oceanarium.jpeg",
-        "category": "travel",
-        "description": "A woman touching the glass and observing a huge aquarium. There is a shark swimming past her,  and other fish swimming inside.\n",
-        "question": "Where is it located?",
-        "answer": "The aquarium is located in a building."
-    },
-    {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "news",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "What color is the glow of the corona in the image?",
-        "answer": "The glow of the corona in the image is white."
-    },
-    {
-        "filename": "images/Green_brocade_silk_saree.jpeg",
-        "category": "social_media",
-        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
-        "question": "Where is she (geographically)?",
-        "answer": "The woman in the image is wearing a green sari with gold details and posing beside a red pot on a green backdrop. Unfortunately, the image description does not provide any information about the geographical location of the woman."
-    },
-    {
-        "filename": "images/440px-Carrots_are_up_(2634523693).jpeg",
-        "category": "health",
-        "description": "Small green carrot sprouts emerging from brown soil.\n",
-        "question": "Are they planted in the ground or in a planter?",
-        "answer": "The carrot sprouts are planted in the ground."
-    },
-    {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "category": "science_journals",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "question": "indoor or out door",
-        "answer": "The image shows a scientist working indoors."
-    },
-    {
-        "filename": "images/ARS_red_onion.jpeg",
-        "category": "shopping",
-        "description": "Small collection of red onions with green tops growing in dark soil.\n",
-        "question": "How many onions are there?",
-        "answer": "There are 10 onions in the image."
-    },
-    {
-        "filename": "images/240px-Chace_Crawford.jpeg",
-        "category": "social_media",
-        "description": "A young man in a suit with a slim tie gives a side glance, sporting styled hair and slight stubble.\n",
-        "question": "What type of shoes is here wearing?\n",
-        "answer": "The person in the image is wearing dress shoes."
-    },
-    {
-        "filename": "images/440px-Kendall_hat_2017.jpeg",
-        "category": "news",
-        "description": "A moody portrait of a young person in a cap and dark sweater, looking introspective.\n",
-        "question": "who is the person in the image and what is the context of his appearance on the news website.",
-        "answer": "The person in the image is a young man, possibly a teenager, who is wearing a cap and a dark sweater. He appears to be looking thoughtfully into the distance. The context of his appearance on the news website is unclear, but it could be related to a recent event or a personal story that the website is covering."
-    },
-    {
-        "filename": "images/Dior_denver_art1.jpeg",
-        "category": "social_media",
-        "description": "A mannequin wearing a stylish Dior ensemble with a wide-brimmed hat, white jacket, and black skirt. The outfit is brought together by black retro heels. \n",
-        "question": "Where is the mannequin?",
-        "answer": "The mannequin is in a museum."
-    },
-    {
-        "filename": "images/340px-Evgenia_Kanaeva_2012_in_Hard.jpeg",
-        "category": "shopping",
-        "description": "A rhythmic gymnast in a dynamic pose with a hoop in front of a large crowd.\n",
-        "question": "What does this have to do with shopping?",
-        "answer": "This image is not related to shopping. It is a picture of a rhythmic gymnast performing in front of a large crowd."
-    },
-    {
-        "filename": "images/Ceremonia_del_Grito_de_Independencia_2023_-_3.jpeg",
-        "category": "news",
-        "description": "A night-time celebration with a crowd, confetti, and illuminated buildings. An official is standing at a balcony ready to give a speech.\n",
-        "question": "What specifically is this night time celebration for?",
-        "answer": "The night time celebration is for a political rally."
-    },
-    {
-        "filename": "images/Acro-tcd.jpeg",
-        "category": "news",
-        "description": "Two acrobatic gymnasts performing a balancing act in leotards. The gymnast on top is doing the splits. The gymnast of the bottom is holding the other up in the air.\n",
-        "question": "Who are these people",
-        "answer": "The people in the image are acrobatic gymnasts. They are performing a balancing act in leotards. The gymnast on top is doing the splits while the gymnast on the bottom is holding the other up in the air."
-    },
-    {
-        "filename": "images/Lichtbogen_3000_Volt.jpeg",
-        "category": "shopping",
-        "description": "A bright arc between two electrodes.\n",
-        "question": "Is the picture representing a product?",
-        "answer": "Yes, the picture is representing a product."
-    },
-    {
-        "filename": "images/Sphinx_et_Jungfrau_-_img_06980.jpeg",
-        "category": "travel",
-        "description": "Snow-covered mountain peaks.\n",
-        "question": "Does it have a snow lift?",
-        "answer": "Yes, it has a snow lift."
-    },
-    {
-        "filename": "images/Foods_(cropped).jpeg",
-        "category": "shopping",
-        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-        "question": "What kind of nuts are on the surface?",
-        "answer": "The nuts on the surface are almonds."
-    },
-    {
-        "filename": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
-        "category": "news",
-        "description": "A model walks down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.\n",
-        "question": "Is this image from new york?",
-        "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides."
-    },
-    {
-        "filename": "images/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
-        "category": "science_journals",
-        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
-        "question": "What kind of gorilla?",
-        "answer": "The gorilla in the image is a western lowland gorilla."
-    },
-    {
-        "filename": "images/IDHM_Wasserspringen_2018-02-18_3m_mixed_Vorkampf_Sprung_3_18.jpeg",
-        "category": "social_media",
-        "description": "The divers mid-air after their jump during a synchronized diving event.\n",
-        "question": "what are they doing as they fall",
-        "answer": "They are performing a flip in the air."
-    },
-    {
-        "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-        "category": "travel",
-        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "question": "what is the layout like?",
-        "answer": "The layout of the shopping arcade is a long hallway with luxury storefronts on both sides. The ceiling is made of glass, allowing natural light to filter in. The ornate lamps hanging from the ceiling add to the opulence of the space."
-    },
-    {
-        "filename": "images/54183.jpg",
-        "category": "social_media",
-        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
-        "question": "What type of music does she sing?",
-        "answer": "I cannot determine the type of music she sings based on the image description provided."
-    },
-    {
-        "filename": "images/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-        "category": "travel",
-        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
-        "question": "What boy of water is this?",
-        "answer": "This is a coral reef."
-    },
-    {
-        "filename": "images/Texas_Zip_liner_5430.jpeg",
-        "category": "travel",
-        "description": "A man in a red shirt and plaid shorts along with a helmet and is joyfully zip-lining against a backdrop of trees and sky. \n",
-        "question": "Is he young or middle-aged?",
-        "answer": "The man in the image appears to be middle-aged."
-    },
-    {
-        "filename": "images/100px-Crinoid_on_the_reef_of_Batu_Moncho_Island_(cropped).jpeg",
-        "category": "shopping",
-        "description": "A brown and white crinoid sea creature on a coral reef. It looks like pipe cleaners connected at a central point.\n",
-        "question": "What is the purpose of this sea creature on this website?",
-        "answer": "The purpose of this sea creature on this website is to be a decorative item for sale."
-    },
-    {
-        "filename": "images/Gluehlampe_01_KMJ.png",
-        "category": "health",
-        "description": "A clear incandescent light bulb against a white background.  The light bulb is currently not on.\n",
-        "question": "What is the bulb attached to",
-        "answer": "The bulb is attached to a socket."
-    },
-    {
-        "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-        "category": "news",
-        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "Is this illustration done to scale?",
-        "answer": "Yes, this illustration is done to scale."
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball stands in a lush garden with red and yellow flowers and a wooden fence in the background.\n",
-        "question": "What time of day is it in the image?",
-        "answer": "The image does not provide enough information to determine the time of day."
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "travel",
-        "description": "A large crystal ball stands in a lush garden with red and yellow flowers and a wooden fence in the background.\n",
-        "question": "Is the location being depicted known for the supernatural occult?",
-        "answer": "I cannot determine if the location is known for the supernatural occult based on the image description provided."
-    },
-    {
-        "filename": "images/440px-Red_roast_duck_curry.jpeg",
-        "category": "social_media",
-        "description": "An yummy looking bowl of red roast duck curry with creamy topping and vegetables.\n",
-        "question": "Which vegetables are in the curry?",
-        "answer": "The vegetables in the curry are carrots and potatoes."
-    },
-    {
-        "filename": "images/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
-        "category": "shopping",
-        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
-        "question": "Does the lounge come with any additional pillows or cushions?",
-        "answer": "I cannot determine if the lounge comes with any additional pillows or cushions based on the image description."
-    },
-    {
-        "filename": "images/Langfardsskridskoakning.jpeg",
-        "category": "travel",
-        "description": "Skiers trekking across a frozen, snowy landscape.\n",
-        "question": "How many skiers are there?",
-        "answer": "There are three skiers in the image."
-    },
-    {
-        "filename": "images/Stonehenge_(sun).jpeg",
-        "category": "science_journals",
-        "description": "Stonehenge with the sun rising between the middle stones.\n",
-        "question": "What does Stonehenge look like? ",
-        "answer": "Stonehenge is a prehistoric monument located in Wiltshire, England. It is made up of a ring of standing stones, each weighing around 25 tons, and is surrounded by a circular ditch and bank. The stones are believed to have been erected around 2500 BCE, and are thought to have been used for religious and ceremonial purposes. The monument is a UNESCO World Heritage Site and attracts thousands of visitors each year."
-    },
-    {
-        "filename": "images/440px-Christmas_cake,_Boxing_Day_2008.jpeg",
-        "category": "shopping",
-        "description": "A white Christmas cake with \u201cMerry Christmas\u201d written on top, adorned with a small present decoration.\n",
-        "question": "What kind of cake is it?",
-        "answer": "The cake is a Christmas cake."
-    },
-    {
-        "filename": "images/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-        "category": "health",
-        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
-        "question": "Does it look like it takes place on a college campus?",
-        "answer": "No, it does not look like it takes place on a college campus. The image shows a group of people of various ages walking in line along a grassy path, with trees on one side."
-    },
-    {
-        "filename": "images/Catedral_Arequipa,_Peru.jpeg",
-        "category": "travel",
-        "description": "A majestic cathedral with two towering spires against a clear sky with people outside\n",
-        "question": "What kind of church is this?",
-        "answer": "This is a cathedral."
-    },
-    {
-        "filename": "images/Wdomenada2003b.jpeg",
-        "category": "shopping",
-        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-        "question": "Are the people male or female?",
-        "answer": "The people in the image are male and female."
-    },
-    {
-        "filename": "images/440px-Piranha1.jpeg",
-        "category": "travel",
-        "description": "Several large, shimmering piranhas in an aquarium with a dark backdrop.\n",
-        "question": "Are piranhas found in this specific location? ",
-        "answer": "No, piranhas are not found in this specific location."
-    },
-    {
-        "filename": "images/P-51_Mustang_edit1.jpeg",
-        "category": "social_media",
-        "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
-        "question": "Where was it taken",
-        "answer": "The image was taken from the cockpit of the P-51 Mustang aircraft."
-    },
-    {
-        "filename": "images/Shinto_married_couple.jpeg",
-        "category": "social_media",
-        "description": "Traditional Japanese wedding couple in front of a temple.\n",
-        "question": "What is the theme for the wedding?",
-        "answer": "The theme for the wedding is traditional Japanese."
-    },
-    {
-        "filename": "images/Kelp_Forest_exhibit_full_main_viewing_window_at_Monterey_Bay_Aquarium.jpeg",
-        "category": "science_journals",
-        "description": "Spectators watching a diverse underwater kelp forest exhibit.\n",
-        "question": "From where are they watching?",
-        "answer": "They are watching from a window that is located above the underwater kelp forest exhibit."
-    },
-    {
-        "filename": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
-        "category": "science_journals",
-        "description": "View from a shaded archway showing a detailed historic building framed by archways against a blue sky.\n",
-        "question": "Are there any intricate designs on the archways, and what color is the building?",
-        "answer": "Yes, there are intricate designs on the archways, and the building is white."
-    },
-    {
-        "filename": "images/500px-Backzutaten_041.jpeg",
-        "category": "health",
-        "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
-        "question": "What would you bake it in?",
-        "answer": "Based on the image description, the person is browsing a health website and is looking at a cookbook with a pie recipe. The person is interested in baking a pie and is asking about the type of dish to use."
-    },
-    {
-        "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "What are they wearing?",
-        "answer": "The people in the image are wearing yoga clothes."
-    },
-    {
-        "filename": "images/Baknamul(seasoned_calabash).jpeg",
-        "category": "health",
-        "description": "Korean seasoned side dish with sesame seeds in a brown bowl.\n",
-        "question": "Is this Korean dish a healthy meal? ",
-        "answer": "Yes, this Korean dish is a healthy meal. It is a seasoned side dish with sesame seeds in a brown bowl. The dish is made with vegetables and is likely to be low in calories and high in nutrients. The sesame seeds add a nutty flavor and crunch to the dish, making it a tasty and healthy option."
-    },
-    {
-        "filename": "images/440px-Kale_&_Poached_Eggs_Salad_(8733071700).jpg",
-        "category": "health",
-        "description": "A poached egg atop a bed of kale salad in a white bowl.\n",
-        "question": "What's in the salad besides kale?",
-        "answer": "The salad contains broccoli, which is a green vegetable that is a good source of vitamins and minerals."
-    },
-    {
-        "filename": "images/400px-Norman_Borlaug.jpeg",
-        "category": "health",
-        "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
-        "question": "how is this relevant to me ",
-        "answer": "This image is not relevant to you."
-    },
-    {
-        "filename": "images/USMC-Rich_Froning_Jr.jpeg",
-        "category": "health",
-        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
-        "question": "Is the swimmer male or female?",
-        "answer": "The swimmer is male."
-    },
-    {
-        "filename": "images/440px-Dumbell_aerobics.jpeg",
-        "category": "health",
-        "description": "A fitness class lifting dumbbells, with a leader in front and participants following.\n",
-        "question": "How big is the class",
-        "answer": "The class is small, with only a few participants."
-    },
-    {
-        "filename": "images/Gorskii_04414u.jpeg",
-        "category": "news",
-        "description": "Vintage hydroelectric machinery in an industrial hall.\n",
-        "question": "What else is in the hall?",
-        "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
-    },
-    {
-        "filename": "images/USMC-Rich_Froning_Jr.jpeg",
-        "category": "shopping",
-        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
-        "question": "Is he a professional athlete?",
-        "answer": "Yes, he is a professional athlete."
-    },
-    {
-        "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
-        "category": "science_journals",
-        "description": "Two translucent jellyfish floating in blue water.\n",
-        "question": "Are they in the ocean or in a tank?",
-        "answer": "Based on the image description, it is not possible to determine whether the jellyfish are in the ocean or in a tank."
-    },
-    {
-        "filename": "images/Wheat_Tomsk.jpeg",
-        "category": "news",
-        "description": "Golden wheat field under a blue sky.\n",
-        "question": "is there anything else in the field",
-        "answer": "There is a single stalk of wheat in the field."
-    },
-    {
-        "filename": "images/440px-Tyson_Beckford_(cropped).jpeg",
-        "category": "news",
-        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
-        "question": "What is the purpose of showing this man?",
-        "answer": "The purpose of showing this man is to highlight his professional appearance and demeanor. The image is meant to convey that he is a confident and successful individual, possibly in a business or corporate setting. The choice of clothing and accessories, such as the collared shirt, gray jacket, and earrings, suggests that he is well-dressed and put-together. The dark backdrop further emphasizes his presence and draws attention to his features. Overall, the image is meant to showcase the man's professionalism and success."
-    },
-    {
-        "filename": "images/Souk_in_Tunisia_1.jpeg",
-        "category": "social_media",
-        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
-        "question": "What kind of city do you think they are in?",
-        "answer": "Based on the image, I would say that they are in a city in the Middle East or North Africa. The market street is lined with stalls selling clothing, bags, and traditional goods, which is a common sight in these regions. Additionally, the architecture and the style of the buildings in the background also suggest that this is a city in the Middle East or North Africa."
-    },
-    {
-        "filename": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
-        "category": "science_journals",
-        "description": "Aerial view of winding green colored rivers cutting through dense Amazon rainforest.\n",
-        "question": "What kind of green?",
-        "answer": "The green color in the image is likely due to the reflection of sunlight off of the water in the rivers. The green color is a result of the presence of algae and other microorganisms in the water."
-    },
-    {
-        "filename": "images/375px-Cannes_2015_22.jpeg",
-        "category": "shopping",
-        "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
-        "question": "Can you describe what she is wearing?",
-        "answer": "The woman in the image is wearing a long, flowing red dress with a deep neckline that reveals her cleavage. She also has long, flowing red hair that falls over her right shoulder."
-    },
-    {
-        "filename": "images/200px-2010_Run_to_the_Sun_Fashion_Show_in_Anchorage_Alaska_11.jpeg",
-        "category": "social_media",
-        "description": "A woman posing in a brown halter-neck dress and a bright pink flower in her hair.\n",
-        "question": "What is happening in the background of the image?",
-        "answer": "The woman is standing in front of a brown background."
-    },
-    {
-        "filename": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
-        "category": "health",
-        "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
-        "question": "How old is the martial artist?",
-        "answer": "I cannot determine the age of the martial artist from the image description provided."
-    },
-    {
-        "filename": "images/Jungfraujoch_090425.jpeg",
-        "category": "travel",
-        "description": "A panoramic snowy mountain vista with visitors, overlooking a vast glacial field under a blue sky. Skiers are near the vista.\n",
-        "question": "What color jackets are the skiers wearing?",
-        "answer": "The skiers are wearing red jackets."
-    },
-    {
-        "filename": "images/440px-Progress_M-14M.jpeg",
-        "category": "science_journals",
-        "description": "A spacecraft with solar panels against the backdrop of Earth's atmosphere.\n",
-        "question": "Where is the image",
-        "answer": "The image is of a spacecraft with solar panels against the backdrop of Earth's atmosphere."
-    },
-    {
-        "filename": "images/Jarneia_Richard-Noel_as_Catherine_of_Aragon_in_the_West_End_production_of_Six_at_the_Arts_Theatre,_2019.jpeg",
-        "category": "social_media",
-        "description": "A performer in an elaborate golden costume on stage.\n",
-        "question": "who is the performer",
-        "answer": "The performer is a woman."
-    },
-    {
-        "filename": "images/Thanin_market_platu.jpeg",
-        "category": "health",
-        "description": "Mackerel fish in woven baskets at a Thai market.\n",
-        "question": "What type of fish?",
-        "answer": "Mackerel"
-    },
-    {
-        "filename": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-        "category": "social_media",
-        "description": "A group of people are working out on indoor rowing machines at a gym.",
-        "question": "What kind of clothes are they wearing?",
-        "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings."
-    },
-    {
-        "filename": "images/Sprouting_mung_beans_in_a_jar.jpeg",
-        "category": "health",
-        "description": "Green mung beans sprouting inside a jar. The jar is tilted downward. The jar has a green lid.\n",
-        "question": "What color is the jar?",
-        "answer": "The jar is green."
-    },
-    {
-        "filename": "images/400px-Retinal_camera.jpeg",
-        "category": "health",
-        "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
-        "question": "What does the exam room look like?",
-        "answer": "The exam room is well-lit and clean. It has a white table and a chair for the patient to sit on. There is a large camera on a tripod in the corner of the room. The camera is connected to a computer monitor that is displaying the patient's retina."
-    },
-    {
-        "filename": "images/Acorn_Soup_(4827753894).jpeg",
-        "category": "shopping",
-        "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs.\n",
-        "question": "Does it look delicious?",
-        "answer": "Yes, it looks delicious."
-    },
-    {
-        "filename": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
-        "category": "shopping",
-        "description": "A selection of fried snacks on a blue plate.\n",
-        "question": "what are the type of fried snacks show in the image",
-        "answer": "The image shows a plate of fried snacks, but it is not clear what type of snacks they are. The person may need to look at the image more closely to determine the type of snacks."
-    },
-    {
-        "filename": "images/Halima_Aden_(2020)_0-13_screenshot.jpeg",
-        "category": "shopping",
-        "description": "A smiling woman in a hijab at a UNICEF event. She is wearing a light-brown blazer and a white shirt underneath, behind her is a backdrop with large logos of \"UNICEF\" and \"PANDORA\". \n",
-        "question": "What does the woman look like",
-        "answer": "The woman in the image is wearing a hijab, which is a head covering worn by some Muslim women. She is also wearing a light-brown blazer and a white shirt underneath. Behind her is a backdrop with large logos of \"UNICEF\" and \"PANDORA\"."
-    },
-    {
-        "filename": "images/600px-WaterPolo.jpeg",
-        "category": "health",
-        "description": "Ten players engaged in a water polo game in a pool, with some attempting to score a goal and others attempting to block the shot.\n",
-        "question": "Are there people watching the players play the game?",
-        "answer": "Yes, there are people watching the players play the game."
-    },
-    {
-        "filename": "images/Gluehlampe_01_KMJ.png",
-        "category": "science_journals",
-        "description": "A clear incandescent light bulb against a white background.  The light bulb is currently not on.\n",
-        "question": "Is there anything else in the image?",
-        "answer": "No, there is nothing else in the image."
-    },
-    {
-        "filename": "images/440px-BeverlyHilton01.jpeg",
-        "category": "shopping",
-        "description": "The entrance of the Beverly Hilton hotel with a Hilton sign next to the driveway, landscaped trees on both sides of the driveway, and a clear blue sky.\n",
-        "question": "Is the building large?",
-        "answer": "Yes, the building is large."
-    },
-    {
-        "filename": "images/Ice_swimming_at_summer_cottage_Finland.jpeg",
-        "category": "health",
-        "description": "A man ice swimming in a frozen lake. There is a wooden fence behind the man. There is also snow all over the ground and a small cabin in the background. \n",
-        "question": "Do they seem to be representing ice swimming as a healthy pastime?",
-        "answer": "Yes, they seem to be representing ice swimming as a healthy pastime."
-    },
-    {
-        "filename": "images/Pilates_(9956534863).jpeg",
-        "category": "social_media",
-        "description": "Person doing an upside-down pilates exercise while wearing a red shirt and gray pants while in front of a mirror.\n",
-        "question": "Are they an instructor?",
-        "answer": "The person in the image is not an instructor."
-    },
-    {
-        "filename": "images/2550.jpg",
-        "category": "shopping",
-        "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
-        "question": "How many people are using the kayaks.",
-        "answer": "There are a lot of people using the kayaks."
-    },
-    {
-        "filename": "images/Detail_of_Nymphaea_daubenyana_W.T.Baxter_ex_Daubeny_flower.jpg",
-        "category": "health",
-        "description": "A blooming water lily surrounded with green leaves and a bee sitting on it.\n",
-        "question": "Why is this picture on a health website?",
-        "answer": "The picture is on a health website because the blooming water lily is a symbol of purity and natural beauty, which is often associated with good health. The presence of the bee, which is a pollinator, also adds to the overall healthy and natural vibe of the image. The image may be used to promote a healthy lifestyle or to showcase the importance of nature in maintaining good health."
-    },
-    {
-        "filename": "images/Yam_huapli_thot_02.jpeg",
-        "category": "travel",
-        "description": "Colorful vegetable salad with tomatoes, onions, carrots, cabbage and other greens in a bowl.\n",
-        "question": "Is the salad a part of a larger picture that gives more context as to a destination?",
-        "answer": "No, the salad is not a part of a larger picture that gives more context as to a destination."
-    },
-    {
-        "filename": "images/440px-BCRL.jpeg",
-        "category": "social_media",
-        "description": "An older woman is being assisted with weightlifting by a younger woman in a gym.\n",
-        "question": "Who is the older woman?",
-        "answer": "The older woman is the one being assisted with weightlifting."
-    },
-    {
-        "filename": "images/Shaki_Waterfall2.jpeg",
-        "category": "health",
-        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-        "question": "Are there any people around?",
-        "answer": "No, there are no people visible in the image."
-    },
-    {
-        "filename": "images/440px-Redsweeper.jpeg",
-        "category": "social_media",
-        "description": "A person operating a large industrial lawn sweeper in an orchard.\n",
-        "question": "Is this an advertisement for some kind of service-based business?",
-        "answer": "Yes, it appears to be an advertisement for a lawn care or landscaping business."
-    },
-    {
-        "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "How old do the participants appear to be.",
-        "answer": "The participants appear to be middle-aged."
-    },
-    {
-        "filename": "images/Korean_shaved_ice-Green_tea_bingsu-07.jpeg",
-        "category": "social_media",
-        "description": "A large bowl of green tea shaved ice topped with cookies.\n",
-        "question": "What kind of cookies do they have that goes with green tea shaved ice?",
-        "answer": "The cookies are green tea flavored."
-    },
-    {
-        "filename": "images/Blackberry_(Rubus_fruticosus).jpeg",
-        "category": "health",
-        "description": "A close-up of a juicy blackberry.\n",
-        "question": "how can incorporating blackberries into my diet help improve my overall health and well-being?\n",
-        "answer": "Blackberries are a great source of antioxidants, vitamins, and fiber. They can help improve heart health, reduce inflammation, and support digestive health. Incorporating blackberries into your diet can also help you maintain a healthy weight and reduce the risk of chronic diseases such as diabetes and cancer."
-    },
-    {
-        "filename": "images/Geographic_Southpole_crop.jpeg",
-        "category": "travel",
-        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-        "question": "what time of year is it",
-        "answer": "The image shows the South Pole in the middle of winter, which is the coldest time of the year. The snow is deep and the temperatures are extremely low, making it difficult for humans to survive. The American flag and the sign marking the South Pole are the only visible signs of human presence in this vast, snowy expanse."
-    },
-    {
-        "filename": "images/440px-Arttherapyprocess.jpeg",
-        "category": "health",
-        "description": "A painted round rock with a door, trees and text that says 'Fear Judgement and Therapy.\n",
-        "question": "Is this a yoga or pilates studio?",
-        "answer": "This is a yoga studio."
-    },
-    {
-        "filename": "images/440px-Thai_green_chicken_curry_and_roti.jpeg",
-        "category": "health",
-        "description": "A bowl of Thai green curry with chicken, and roti on the side.\n",
-        "question": "How many rotis?",
-        "answer": "There are two rotis on the side of the bowl of Thai green curry with chicken."
-    },
-    {
-        "filename": "images/440px-Ashley_Graham_2018.png",
-        "category": "shopping",
-        "description": "A woman with brown hair in a white top.\n",
-        "question": "What style is the top?",
-        "answer": "The top is a white tank top."
-    },
-    {
-        "filename": "images/Sher_Khan_(cropped).jpeg",
-        "category": "science_journals",
-        "description": "A large, muscular male tiger walking through a very green field.\n",
-        "question": "What setting is the tiger in?",
-        "answer": "The tiger is in a forest setting."
-    },
-    {
-        "filename": "images/Tyra_Banks(Cannes).jpeg",
-        "category": "social_media",
-        "description": "This is a photograph of Tyra Banks.  Her hair is pulled back into a low bun or pony tail.  She appears to be happy and laughing.  She is outside.  It appears she is wearing a white tank top with spaghetti straps.  There are black spaghetti straps for whatever she is wearing underneath the tank top.  \n",
-        "question": "where is the location at?",
-        "answer": "The location is outdoors."
-    },
-    {
-        "filename": "images/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
-        "category": "social_media",
-        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
-        "question": "Where was this picture taken and what is its significance.",
-        "answer": "This picture was taken in a museum. The significance of the ornate gold chaise lounge is that it is a piece of artwork that represents the craftsmanship and design of a bygone era. It is a valuable piece of history that showcases the intricate details and attention to detail that was put into creating such luxurious furniture."
-    },
-    {
-        "filename": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
-        "category": "social_media",
-        "description": "An Indian woman with an award pinned on her yellow outfit in a lush green garden\n",
-        "question": "What was the award for?",
-        "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty."
-    },
-    {
-        "filename": "images/37044.jpg",
-        "category": "science_journals",
-        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-        "question": "How old does the church look?",
-        "answer": "The church looks very old and has a historical significance. It is a small church that is located on top of a hill and is surrounded by a beautiful landscape. The church has a unique architecture and is a popular tourist attraction."
-    },
-    {
-        "filename": "images/Astronauts_in_weightlessness.jpeg",
-        "category": "news",
-        "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
-        "question": "What organization do the blue uniforms represent?",
-        "answer": "The blue uniforms represent NASA."
-    },
-    {
-        "filename": "images/Rio_Maranon_03245.jpeg",
-        "category": "science_journals",
-        "description": "A winding river cutting through a mountainous landscape.\n",
-        "question": "What else is in the landscape next to the river?",
-        "answer": "The landscape next to the river is a mountain range."
-    },
-    {
-        "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
-        "category": "travel",
-        "description": "A mallard duck with it descent green head and white neck ring is floating on water.\n",
-        "question": "Does it show any surrounding landscape?",
-        "answer": "The image description does not provide any information about the surrounding landscape. Therefore, the answer to this question is no."
-    },
-    {
-        "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-        "category": "shopping",
-        "description": "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
-        "question": "Where is she performing? Indoors or outdoors?",
-        "answer": "The woman is performing on stage."
-    },
-    {
-        "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
-        "category": "travel",
-        "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
-        "question": "Are there families at the pool?",
-        "answer": "No, there are no families at the pool."
-    },
-    {
-        "filename": "images/15719.jpg",
-        "category": "travel",
-        "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
-        "question": "Are people at this building?",
-        "answer": "Yes, there are people at this building."
-    },
-    {
-        "filename": "images/Cross_section_of_pumpkin.jpeg",
-        "category": "health",
-        "description": "A halved, unripe pumpkin showing its green skin, seeds, and fibrous yellow interior, sitting on another melon with other sections of the pumpkin in the background.\n",
-        "question": "What do the pumpkins look like?",
-        "answer": "The pumpkins look like they are unripe and green in color. They have a fibrous yellow interior and seeds visible on the skin."
-    },
-    {
-        "filename": "images/233px-Bartholomae-2005.jpeg",
-        "category": "science_journals",
-        "description": "A chapel with red domes by a lake, set against a backdrop of snowy mountains.\n",
-        "question": "Where does the chapel look like it is located?",
-        "answer": "The chapel looks like it is located near a lake, with snow-capped mountains in the background."
-    },
-    {
-        "filename": "images/510px-Spaltlampe-2.jpeg",
-        "category": "health",
-        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
-        "question": "What kind of tests are the optometrist performing?",
-        "answer": "The optometrist is performing a slit lamp test on the patient's eyes."
-    },
-    {
-        "filename": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-        "category": "news",
-        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
-        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
-        "answer": "The background of the image shows the blue horizon of Earth, which is visible in the distance. There are no stars or the sun visible in the image."
-    },
-    {
-        "filename": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
-        "category": "science_journals",
-        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
-        "question": "Is the Jules Verne manuscript open or closed?",
-        "answer": "The Jules Verne manuscript is closed."
-    },
-    {
-        "filename": "images/STS-130_Endeavour_flyaround_5.jpeg",
-        "category": "science_journals",
-        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-        "question": "What color is the space station?",
-        "answer": "The space station is white in color."
-    },
-    {
-        "filename": "images/Woman_running_barefoot_on_beach.jpeg",
-        "category": "health",
-        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
-        "question": "Are there any landmarks to the beach that suggest where is might be?",
-        "answer": "I'm sorry, but there are no specific landmarks mentioned in the image description that would help identify the location of the beach. The focus of the image is on the woman jogging barefoot and the waves in the background."
-    },
-    {
-        "filename": "images/Porcupine_(5670622729).jpeg",
-        "category": "travel",
-        "description": "A lone Porcupine with its spikes sticking up, perched in dried-out grass.\n",
-        "question": "Is the porcupine reacting to anything visible within the image?",
-        "answer": "No, the porcupine is not reacting to anything visible within the image."
-    },
-    {
-        "filename": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
-        "category": "shopping",
-        "description": "A beautiful woman is standing by a brick wall, wearing a white cropped cable knit sweater, beige blazer, and blue jeans, gazing upwards.\n",
-        "question": "What time of day is it?",
-        "answer": "The image does not provide enough information to determine the time of day."
-    },
-    {
-        "filename": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "category": "science_journals",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "is the picture black and white or in color",
-        "answer": "The picture is in color."
-    },
-    {
-        "filename": "images/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-        "category": "travel",
-        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
-        "question": "Where are these temples located?",
-        "answer": "The temples are located in Myanmar, also known as Burma."
-    },
-    {
-        "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
-        "category": "shopping",
-        "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
-        "question": "What is the brand of the attire they're wearing?",
-        "answer": "I cannot determine the brand of the attire from the image description provided."
-    },
-    {
-        "filename": "images/440px-Koukouvagia.jpeg",
-        "category": "travel",
-        "description": "A round bread topped with tomato, feta, olives, and herbs on a white plate.\n",
-        "question": "What kind of bread is on the plate?",
-        "answer": "The bread on the plate is pita bread."
-    },
-    {
-        "filename": "images/Charlie's_Angels_cast_during_interview_01.png",
-        "category": "news",
-        "description": "Three famous women actors wearing casual clothing, sitting together for an interview, with a movie title in the background. They are promoting their film, Charlie's Angels. \n",
-        "question": "Who are the people in the image?",
-        "answer": "The people in the image are three famous women actors who are wearing casual clothing and sitting together for an interview. They are promoting their film, Charlie's Angels."
-    },
-    {
-        "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "How old do they look?",
-        "answer": "The age of the people in the image cannot be determined from the image description provided."
-    },
-    {
-        "filename": "images/Orca_porpoising.jpeg",
-        "category": "science_journals",
-        "description": "Majestic orca whale breaching the water's surface.\n",
-        "question": "How far away is the whale in the photo?",
-        "answer": "The whale appears to be quite close to the camera, as it is the main focus of the image and is easily visible."
-    },
-    {
-        "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "travel",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "What are they wearing?",
-        "answer": "The people in the image are wearing yoga clothes."
-    },
-    {
-        "filename": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
-        "category": "shopping",
-        "description": "A beautiful woman is standing by a brick wall, wearing a white cropped cable knit sweater, beige blazer, and blue jeans, gazing upwards.\n",
-        "question": "Is there a particular focus on any part of the image?",
-        "answer": "The woman's face is the focus of the image."
-    },
-    {
-        "filename": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
-        "category": "news",
-        "description": "Two docked spacecraft with the Earth in the background.\n",
-        "question": "What country is the space shuttle from?",
-        "answer": "The space shuttle is from the United States."
-    },
-    {
-        "filename": "images/400px-Retinal_camera.jpeg",
-        "category": "social_media",
-        "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
-        "question": "What is a ophthalmic retinal camera for?",
-        "answer": "A ophthalmic retinal camera is used to take pictures of the back of the eye to diagnose and monitor various eye conditions such as glaucoma, macular degeneration, and diabetic retinopathy."
-    },
-    {
-        "filename": "images/Apollo_17_AS17-140-21497.jpeg",
-        "category": "science_journals",
-        "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
-        "question": "what are the people wearing",
-        "answer": "The people are wearing space suits."
-    },
-    {
-        "filename": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
-        "category": "shopping",
-        "description": "Village with vineyards, a church, and many trees.\n",
-        "question": "What does it look like?",
-        "answer": "The village appears to be a quaint and charming place with a mix of old and new architecture. The vineyards are lush and green, and the church is a beautiful white building that stands out against the surrounding landscape. The trees are tall and provide a sense of tranquility to the scene."
-    },
-    {
-        "filename": "images/440px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpeg",
-        "category": "travel",
-        "description": "Mount Fuji looms behind a pagoda surrounded by cherry blossoms in a serene Japanese landscape.\n",
-        "question": "Do people tour this place?",
-        "answer": "Yes, people do tour this place."
-    },
-    {
-        "filename": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
-        "category": "health",
-        "description": "Plate of vegetables and herbs including beans, lettuce, mint, and cucumber paired with a kind of brown dipping sauce or marinade. \n",
-        "question": "Is the spread on a plate or on the table?",
-        "answer": "The spread is on a plate."
-    },
-    {
-        "filename": "images/340px-Jersei-coll-alt.jpeg",
-        "category": "shopping",
-        "description": "A brown/grey grainy-colored plain high-neck sweater with long sleeves. \n",
-        "question": "Is it fitted or loose sweater",
-        "answer": "The sweater is a loose fit."
-    },
-    {
-        "filename": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-        "category": "science_journals",
-        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
-        "question": "Is anything else in space visible, like a space station or debris?",
-        "answer": "No, there is nothing else in space visible in the image."
-    },
-    {
-        "filename": "images/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg",
-        "category": "social_media",
-        "description": "A swimmer in a pool mid-stroke wearing a swim cap.\n",
-        "question": "is this indoors or outdoors?",
-        "answer": "This is an indoor pool."
-    },
-    {
-        "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "What pose are they doing?",
-        "answer": "The people in the image are doing yoga poses."
-    },
-    {
-        "filename": "images/Reformer_apparatus_pilates_london.jpeg",
-        "category": "shopping",
-        "description": "An indoor gym with pilates equipment and mirrors.\n",
-        "question": "Are there people in the images who are using the equipment ? ",
-        "answer": "Yes, there are people in the images who are using the equipment."
-    },
-    {
-        "filename": "images/Shaki_Waterfall2.jpeg",
-        "category": "travel",
-        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-        "question": "Is it sunny?",
-        "answer": "Yes, it is sunny."
-    },
-    {
-        "filename": "images/Berlin_marathon.jpeg",
-        "category": "health",
-        "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
-        "question": "Can you describe the marathon runner?",
-        "answer": "The marathon runner is a man wearing a red shirt and black shorts. He is running with a group of other runners and appears to be in good physical condition."
-    },
-    {
-        "filename": "images/440px-Electric-eel.jpeg",
-        "category": "science_journals",
-        "description": "An electric eel among aquatic plants in an underwater habitat.\n",
-        "question": "Are there other underwater creatures around?",
-        "answer": "Yes, there are other underwater creatures around."
-    },
-    {
-        "filename": "images/220px-Wildlife_photography.jpeg",
-        "category": "science_journals",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-        "question": "How is the weather and environment?",
-        "answer": "The image description does not provide enough information to accurately determine the weather and environment."
-    },
-    {
-        "filename": "images/ISS-38_EVA-1_Laptops.jpeg",
-        "category": "science_journals",
-        "description": "Laptops and equipment floating roughly in the microgravity of a space station.\n",
-        "question": "Are astronauts in the photo?",
-        "answer": "No, there are no astronauts in the photo."
-    },
-    {
-        "filename": "images/440px-Bamboo_AngelMist_Mounts_Asit.jpeg",
-        "category": "science_journals",
-        "description": "A cluster of tall green bamboo stalks with a sign reading 'ANGEL MIST BAMBOO' at their base.\n",
-        "question": "Is the bamboo special ?",
-        "answer": "I cannot determine if the bamboo is special based on the image description provided."
-    },
-    {
-        "filename": "images/Geographic_Southpole_crop.jpeg",
-        "category": "travel",
-        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-        "question": "Does this look like a good place for skiing or snowmobiles?",
-        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse."
-    },
-    {
-        "filename": "images/440px-ISS_Destiny_Lab.jpeg",
-        "category": "science_journals",
-        "description": "A cylindrical space station module in space.  It is attached to a larger structure.\n",
-        "question": "What kind of details are present in the photo?",
-        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure."
-    },
-    {
-        "filename": "images/440px-Grand_Cascade_in_Peterhof_01.jpeg",
-        "category": "travel",
-        "description": "The Grand Cascade fountain at Peterhof with golden statues.\n",
-        "question": "What do the golden statues look like?",
-        "answer": "The golden statues are of various figures, including animals and mythical creatures, and are intricately designed with detailed features and ornate clothing."
-    },
-    {
-        "filename": "images/340px-Nina_Garcia.jpeg",
-        "category": "social_media",
-        "description": "A woman in a leopard print top smiling on a city sidewalk.\n",
-        "question": "What city is she in?",
-        "answer": "The woman is in New York City."
-    },
-    {
-        "filename": "images/360px-Blackberries-6383.jpeg",
-        "category": "health",
-        "description": "A pair of fair skinned child size hands cusping with both hands a cluster of mixed blackberries and raspberries.\n",
-        "question": "What kind of berries are they?",
-        "answer": "The berries in the image are blackberries and raspberries."
-    },
-    {
-        "filename": "images/440px-ShopHouse_lunch_bowl.jpeg",
-        "category": "shopping",
-        "description": "A bowl of mixed grains and vegetables with a fork and a fast food drink cup on a table.\n",
-        "question": "What is on the fast food on the cup",
-        "answer": "The fast food on the cup is a drink."
-    },
-    {
-        "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "What do the people look like?",
-        "answer": "The people in the image are all women. They are wearing various types of clothing, including yoga pants, shorts, and tank tops. Some of them have their hair tied back in ponytails or buns, while others have their hair down."
-    },
-    {
-        "filename": "images/Electric_kettle.jpeg",
-        "category": "health",
-        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-        "question": "What are they making with the water?",
-        "answer": "The person is making tea with the water in the electric kettle."
-    },
-    {
-        "filename": "images/220px-Paljuilua_1.jpeg",
-        "category": "shopping",
-        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
-        "question": "What gender are the people in the hot tub?",
-        "answer": "The people in the hot tub are both male and female."
-    },
-    {
-        "filename": "images/220px-Wildlife_photography.jpeg",
-        "category": "science_journals",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-        "question": "What is he waiting to take a picture of?",
-        "answer": "The photographer is waiting to take a picture of a bird that is perched on a branch."
-    },
-    {
-        "filename": "images/Macquarium.jpeg",
-        "category": "shopping",
-        "description": "Old Macintosh Classic II computer monitor repurposed as an aquarium or terrarium. Inside are orange and green decorative items.\n",
-        "question": "What are the green and orange decorative items in the old Mac?",
-        "answer": "The green and orange decorative items in the old Mac are sea shells."
-    },
-    {
-        "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
-        "category": "social_media",
-        "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
-        "question": "What season does it look like?",
-        "answer": "The image does not provide enough information to determine the season."
-    },
-    {
-        "filename": "images/Winnie_Harlow_Cannes_2017.jpeg",
-        "category": "shopping",
-        "description": "Woman with Vitiligo in a stunning blue gown on stairs.\n",
-        "question": "How long is the gown",
-        "answer": "The gown is floor-length."
-    },
-    {
-        "filename": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-        "category": "news",
-        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
-        "question": "Why are they in space?",
-        "answer": "I cannot determine the reason why the astronaut is in space from the image description provided. however, it is possible that the astronaut is on a space mission, conducting scientific research, or participating in a spacewalk."
-    },
-    {
-        "filename": "images/440px-Derrick_Brooks_with_2006_Pro_Bowl_MVP_trophy_060210-N-4856G-129.jpeg",
-        "category": "shopping",
-        "description": "A football player holding a trophy with a microphone, wearing a game uniform. He is inside a stadium\n",
-        "question": "Does the image imply that the shopping website offers sports gear and merchandise?",
-        "answer": "Yes, the image implies that the shopping website offers sports gear and merchandise."
-    },
-    {
-        "filename": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
-        "category": "social_media",
-        "description": "A woman from behind wearing a traditional blue and white flower patterned kimono at a bustling event at a street in Japan.\n",
-        "question": "Is this someone who is visiting Japan?",
-        "answer": "Yes, this person is visiting Japan."
-    },
-    {
-        "filename": "images/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
-        "category": "travel",
-        "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
-        "question": "what is the subject doing",
-        "answer": "The subject is hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
-    },
-    {
-        "filename": "images/Duchess_of_Cambridge_in_June_2013.jpeg",
-        "category": "shopping",
-        "description": "A pregnant Princess of Whales in her gorgeous pink suit.\n",
-        "question": "What style is the suit? ",
-        "answer": "The suit is a pink suit."
-    },
-    {
-        "filename": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
-        "category": "science_journals",
-        "description": "A seagull with a caught fish in its beak flies over tropical greenery.\n",
-        "question": "Are there any other birds in the sky?",
-        "answer": "Yes, there are other birds in the sky."
-    },
-    {
-        "filename": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
-        "category": "social_media",
-        "description": "A soccer player taking a penalty kick in front of a packed stadium audience in shadow. The goalie is waiting in the middle of the goal as two other players stand to the sides. At the edge of the field is a banner for UniCredit and MasterCard.\n",
-        "question": "What do the soccer players look like?",
-        "answer": "The soccer players are wearing uniforms with red and white colors."
-    },
-    {
-        "filename": "images/ChipotleBurritoBowl.jpeg",
-        "category": "health",
-        "description": "A burrito bowl with a drink on a wooden table.\n",
-        "question": "What are the nutritional contents of the burrito bowl and drink? Understanding the calorie count, macronutrient profile, and ingredients would help me determine if it aligns with my health goals. ",
-        "answer": "The burrito bowl contains a variety of ingredients, including rice, beans, avocado, tomatoes, and lettuce. The drink is a smoothie made with spinach, banana, and almond milk. The nutritional content of the burrito bowl and drink can be determined by looking at the ingredients and the calorie count. The calorie count of the burrito bowl is approximately 500 calories, and the smoothie has around 200 calories. The macronutrient profile of the burrito bowl is balanced, with a good amount of carbohydrates, protein, and healthy fats. The smoothie is also a good source of protein and healthy fats. The ingredients used in the burrito bowl and smoothie are all healthy and nutritious, making them a good choice for someone looking to maintain a healthy diet."
-    },
-    {
-        "filename": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
-        "category": "health",
-        "description": "A wide variety of colorful fruit at a market stand.  Selections include grapes, cherries, applies, oranges, melons, and other tropical fruits.  \n",
-        "question": "How fresh do the fruit look",
-        "answer": "The fruit looks very fresh and is likely to be in good condition."
-    },
-    {
-        "filename": "images/Wdomenada2003b.jpeg",
-        "category": "travel",
-        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-        "question": "Are their trees or bushes in the area where they are skiing?",
-        "answer": "Yes, there are trees and bushes in the area where they are skiing."
-    },
-    {
-        "filename": "images/Two_dancers.jpeg",
-        "category": "health",
-        "description": "Two modern dancers mid-air in a dramatic pose.\n",
-        "question": "What are they using as support?",
-        "answer": "The dancers are using their hands to support themselves while they are in the air."
-    },
-    {
-        "filename": "images/Apollo_17_AS17-140-21497.jpeg",
-        "category": "news",
-        "description": "Astronaut on the moon's surface inspecting a large rock.\n",
-        "question": "How large is the rock?",
-        "answer": "The rock is approximately 10 feet in length."
-    },
-    {
-        "filename": "images/Fruit_smoothie_(8475314736).png",
-        "category": "shopping",
-        "description": "A wild berry smoothie, in a glass goblet, with a blueberry and pineapple skewer for garnish. \n",
-        "question": "Is this website for a place that sells these smoothies, or is it for a company that sells equipment to make them?",
-        "answer": "This website is for a place that sells these smoothies."
-    },
-    {
-        "filename": "images/Acorn_Soup_(4827753894).jpeg",
-        "category": "health",
-        "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs.\n",
-        "question": "How large is the squash?",
-        "answer": "The squash is large in size."
-    },
-    {
-        "filename": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-        "category": "news",
-        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
-        "question": "What details of Earth can be noticed, i.e. continents, colors, etc?",
-        "answer": "The astronaut is floating in space with Earth's blue horizon in the background. The continents are visible and can be seen clearly."
-    },
-    {
-        "filename": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "category": "science_journals",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "Is the egg case a certain color with transparency?",
-        "answer": "The egg case is translucent and possibly a shade of brown or green."
-    },
-    {
-        "filename": "images/Fish_stuffed_with_Thai_herbs.jpeg",
-        "category": "travel",
-        "description": "Two open pots containing white fish, each pot contains two fish, laid on their back, sliced open and stuffed with herbs, resting on banana leaves.\n",
-        "question": "The ethnicity of the people ",
-        "answer": "The people in the image are Asian."
-    },
-    {
-        "filename": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
-        "category": "social_media",
-        "description": "A blonde, white singer performs on stage in a black skirt, black leather jacket, and black thigh-high stockings, holding a microphone. Her shirt is bedazzled and she's in the middle of a song..\n",
-        "question": "What genre of music is being represented by this singer?",
-        "answer": "The singer is performing pop music."
-    },
-    {
-        "filename": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
-        "category": "travel",
-        "description": "People in traditional Mexican outfits marching in a parade.\n",
-        "question": "how many people are celebrating ",
-        "answer": "There are 10 people celebrating in the image."
-    },
-    {
-        "filename": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
-        "category": "shopping",
-        "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
-        "question": "Why are people skydiving",
-        "answer": "The people in the image are skydiving because they are participating in a sport or recreational activity. Skydiving is a popular activity that involves jumping from an aircraft and freefalling before deploying a parachute to slow down and land safely. Skydivers often jump in groups, and the formation seen in the image is a common way to organize skydivers during a jump. The formation helps to create a visually impressive display and can also make it easier for skydivers to communicate with each other while in the air."
-    },
-    {
-        "filename": "images/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-        "category": "travel",
-        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
-        "question": "is this a forest",
-        "answer": "Yes, this is a forest."
-    },
-    {
-        "filename": "images/440px-Reverse_5391.jpeg",
-        "category": "health",
-        "description": "A man executing a dive backwards into a swimming pool. \n",
-        "question": "What is the man wearing?",
-        "answer": "The man is wearing a swimsuit."
-    },
-    {
-        "filename": "images/440px-Aleksi61wb.jpeg",
-        "category": "travel",
-        "description": "A bustling, festive-lit city street at night.\n",
-        "question": "Are there a lot of people?",
-        "answer": "Yes, there are a lot of people on the street."
-    },
-    {
-        "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
-        "category": "shopping",
-        "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
-        "question": "Are the outfits adequate for the environment they're in?",
-        "answer": "The outfits are not adequate for the environment they are in."
-    },
-    {
-        "filename": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
-        "category": "health",
-        "description": "A bunch of fresh carrots with greens attached.\n",
-        "question": "What are the attached greens?",
-        "answer": "The attached greens are likely to be chervil, which is a type of herb that is commonly used in cooking."
-    }
-]
+var main_trials = {
+    "images": [
+        {
+            "filename": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+            "category": "social_media",
+            "description": "A group of people are working out on indoor rowing machines at a gym.",
+            "question": "What kind of clothes are they wearing?",
+            "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings."
+        },
+        {
+            "filename": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
+            "category": "health",
+            "description": "A wide variety of colorful fruit at a market stand.  Selections include grapes, cherries, applies, oranges, melons, and other tropical fruits.  \n",
+            "question": "How fresh do the fruit look",
+            "answer": "The fruit looks very fresh and is likely to be in good condition."
+        },
+        {
+            "filename": "images/Acorn_Soup_(4827753894).jpeg",
+            "category": "shopping",
+            "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs.\n",
+            "question": "Does it look delicious?",
+            "answer": "Yes, it looks delicious."
+        },
+        {
+            "filename": "images/Charlie's_Angels_cast_during_interview_01.png",
+            "category": "news",
+            "description": "Three famous women actors wearing casual clothing, sitting together for an interview, with a movie title in the background. They are promoting their film, Charlie's Angels. \n",
+            "question": "Who are the people in the image?",
+            "answer": "The people in the image are three famous women actors who are wearing casual clothing and sitting together for an interview. They are promoting their film, Charlie's Angels."
+        },
+        {
+            "filename": "images/Shaki_Waterfall2.jpeg",
+            "category": "travel",
+            "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
+            "question": "Is it sunny?",
+            "answer": "Yes, it is sunny."
+        },
+        {
+            "filename": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "news",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+            "question": "Can you tell me what the color, size and texture looks like?",
+            "answer": "I cannot provide a visual answer to this question. however, based on the image description, the egg case is described as translucent, which suggests that it may be clear or semi-transparent. the size and texture of the egg case are not explicitly described, but it is likely that it is small and smooth. the embryo inside the egg case is described as visible, but it is not clear what the color or texture of the embryo is."
+        },
+        {
+            "filename": "images/440px-Lisbon_Oceanarium.jpeg",
+            "category": "travel",
+            "description": "A woman touching the glass and observing a huge aquarium. There is a shark swimming past her,  and other fish swimming inside.\n",
+            "question": "Where is it located?",
+            "answer": "The aquarium is located in a building."
+        },
+        {
+            "filename": "images/220px-Paljuilua_1.jpeg",
+            "category": "shopping",
+            "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
+            "question": "What gender are the people in the hot tub?",
+            "answer": "The people in the hot tub are both male and female."
+        },
+        {
+            "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+            "question": "How old do they look?",
+            "answer": "The age of the people in the image cannot be determined from the image description provided."
+        },
+        {
+            "filename": "images/400px-Retinal_camera.jpeg",
+            "category": "social_media",
+            "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
+            "question": "What is a ophthalmic retinal camera for?",
+            "answer": "A ophthalmic retinal camera is used to take pictures of the back of the eye to diagnose and monitor various eye conditions such as glaucoma, macular degeneration, and diabetic retinopathy."
+        },
+        {
+            "filename": "images/Rio_Maranon_03245.jpeg",
+            "category": "science_journals",
+            "description": "A winding river cutting through a mountainous landscape.\n",
+            "question": "What else is in the landscape next to the river?",
+            "answer": "The landscape next to the river is a mountain range."
+        },
+        {
+            "filename": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
+            "category": "shopping",
+            "description": "A beautiful woman is standing by a brick wall, wearing a white cropped cable knit sweater, beige blazer, and blue jeans, gazing upwards.\n",
+            "question": "What time of day is it?",
+            "answer": "The image does not provide enough information to determine the time of day."
+        },
+        {
+            "filename": "images/440px-Arttherapyprocess.jpeg",
+            "category": "health",
+            "description": "A painted round rock with a door, trees and text that says 'Fear Judgement and Therapy.\n",
+            "question": "Is this a yoga or pilates studio?",
+            "answer": "This is a yoga studio."
+        },
+        {
+            "filename": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
+            "category": "social_media",
+            "description": "An Indian woman with an award pinned on her yellow outfit in a lush green garden\n",
+            "question": "What was the award for?",
+            "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty."
+        },
+        {
+            "filename": "images/TDF31472_groep_met_rodriguez_(53062211809).jpeg",
+            "category": "news",
+            "description": "Cyclists racing on a mountain road.\n",
+            "question": "Is it a race or a marathon?",
+            "answer": "The cyclists are racing on a mountain road, so it is not a marathon."
+        },
+        {
+            "filename": "images/Woman_running_barefoot_on_beach.jpeg",
+            "category": "health",
+            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+            "question": "Are there any landmarks to the beach that suggest where is might be?",
+            "answer": "I'm sorry, but there are no specific landmarks mentioned in the image description that would help identify the location of the beach. The focus of the image is on the woman jogging barefoot and the waves in the background."
+        },
+        {
+            "filename": "images/440px-Telescope_Kepler-NASA.jpg",
+            "category": "news",
+            "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
+            "question": "Is this illustration done to scale?",
+            "answer": "Yes, this illustration is done to scale."
+        },
+        {
+            "filename": "images/Lichtbogen_3000_Volt.jpeg",
+            "category": "shopping",
+            "description": "A bright arc between two electrodes.\n",
+            "question": "Is the picture representing a product?",
+            "answer": "Yes, the picture is representing a product."
+        },
+        {
+            "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
+            "category": "travel",
+            "description": "A mallard duck with it descent green head and white neck ring is floating on water.\n",
+            "question": "Does it show any surrounding landscape?",
+            "answer": "The image description does not provide any information about the surrounding landscape. Therefore, the answer to this question is no."
+        },
+        {
+            "filename": "images/440px-ISS_Destiny_Lab.jpeg",
+            "category": "science_journals",
+            "description": "A cylindrical space station module in space.  It is attached to a larger structure.\n",
+            "question": "What kind of details are present in the photo?",
+            "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure."
+        },
+        {
+            "filename": "images/Summitting_Island_Peak.jpeg",
+            "category": "travel",
+            "description": "Climber ascending a snowy mountain peak.\n",
+            "question": "What is the climber wearing?",
+            "answer": "The climber is wearing a red jacket."
+        },
+        {
+            "filename": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+            "category": "news",
+            "description": "A model walks down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.\n",
+            "question": "Is this image from new york?",
+            "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides."
+        },
+        {
+            "filename": "images/Cross_section_of_pumpkin.jpeg",
+            "category": "health",
+            "description": "A halved, unripe pumpkin showing its green skin, seeds, and fibrous yellow interior, sitting on another melon with other sections of the pumpkin in the background.\n",
+            "question": "What do the pumpkins look like?",
+            "answer": "The pumpkins look like they are unripe and green in color. They have a fibrous yellow interior and seeds visible on the skin."
+        },
+        {
+            "filename": "images/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg",
+            "category": "social_media",
+            "description": "A swimmer in a pool mid-stroke wearing a swim cap.\n",
+            "question": "is this indoors or outdoors?",
+            "answer": "This is an indoor pool."
+        },
+        {
+            "filename": "images/Foods_(cropped).jpeg",
+            "category": "shopping",
+            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+            "question": "What kind of nuts are on the surface?",
+            "answer": "The nuts on the surface are almonds."
+        },
+        {
+            "filename": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
+            "category": "science_journals",
+            "description": "A seagull with a caught fish in its beak flies over tropical greenery.\n",
+            "question": "Are there any other birds in the sky?",
+            "answer": "Yes, there are other birds in the sky."
+        },
+        {
+            "filename": "images/Common_stingray_tenerife.jpeg",
+            "category": "travel",
+            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+            "question": "What color is the stingray?",
+            "answer": "The stingray is brown in color."
+        },
+        {
+            "filename": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
+            "category": "social_media",
+            "description": "A soccer player taking a penalty kick in front of a packed stadium audience in shadow. The goalie is waiting in the middle of the goal as two other players stand to the sides. At the edge of the field is a banner for UniCredit and MasterCard.\n",
+            "question": "What do the soccer players look like?",
+            "answer": "The soccer players are wearing uniforms with red and white colors."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "health",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "Can you describe the marathon runner?",
+            "answer": "The marathon runner is a man wearing a red shirt and black shorts. He is running with a group of other runners and appears to be in good physical condition."
+        },
+        {
+            "filename": "images/340px-Nina_Garcia.jpeg",
+            "category": "social_media",
+            "description": "A woman in a leopard print top smiling on a city sidewalk.\n",
+            "question": "What city is she in?",
+            "answer": "The woman is in New York City."
+        },
+        {
+            "filename": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
+            "category": "shopping",
+            "description": "A selection of fried snacks on a blue plate.\n",
+            "question": "what are the type of fried snacks show in the image",
+            "answer": "The image shows a plate of fried snacks, but it is not clear what type of snacks they are. The person may need to look at the image more closely to determine the type of snacks."
+        },
+        {
+            "filename": "images/15719.jpg",
+            "category": "travel",
+            "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+            "question": "Are people at this building?",
+            "answer": "Yes, there are people at this building."
+        },
+        {
+            "filename": "images/Wheat_Tomsk.jpeg",
+            "category": "news",
+            "description": "Golden wheat field under a blue sky.\n",
+            "question": "is there anything else in the field",
+            "answer": "There is a single stalk of wheat in the field."
+        },
+        {
+            "filename": "images/Geographic_Southpole_crop.jpeg",
+            "category": "travel",
+            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+            "question": "Does this look like a good place for skiing or snowmobiles?",
+            "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse."
+        },
+        {
+            "filename": "images/440px-Shunsuke1_20080622.jpeg",
+            "category": "news",
+            "description": "A soccer player in the number 10 jersey about to kick a ball during a game, with the goal in the background.\n",
+            "question": "Which team do they play for?",
+            "answer": "The soccer player in the number 10 jersey is from the blue team."
+        },
+        {
+            "filename": "images/Gluehlampe_01_KMJ.png",
+            "category": "science_journals",
+            "description": "A clear incandescent light bulb against a white background.  The light bulb is currently not on.\n",
+            "question": "Is there anything else in the image?",
+            "answer": "No, there is nothing else in the image."
+        },
+        {
+            "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+            "category": "social_media",
+            "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
+            "question": "What season does it look like?",
+            "answer": "The image does not provide enough information to determine the season."
+        }
+    ]
+}
