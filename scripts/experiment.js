@@ -13,13 +13,11 @@ exp.customize = function() {
         thanks
     ];
 
-    console.log("Study updated third time!")
-
     console.log("Main trials ", main_trials)
 
     imageSeenBefore = [];
 
-    main_trials = _.shuffle(main_trials)[0]
+    main_trials = _.shuffle(main_trials)
 
     console.log("Main trials ", main_trials)
 
@@ -31,15 +29,13 @@ exp.customize = function() {
         }
     }
 
+    console.log("Health before subsampling: ", health)
+
     health = _.sampleSize(health, 1);
 
     console.log("Health ", health)
 
     imageSeenBefore.push(health[0]['filename']);
-
-//    console.log("image seen before ", imageSeenBefore)
-
-//    console.log("Health ", health)
 
     news_journals = [];
 
@@ -49,13 +45,13 @@ exp.customize = function() {
         }
     }
 
-//    console.log("News journals ", news_journals)
+   console.log("News journals ", news_journals)
 
     news_journals = _.sampleSize(news_journals, 1);
 
     imageSeenBefore.push(news_journals[0]['filename']);
 
-//    console.log("news journals ", news_journals)
+   console.log("news journals ", news_journals)
 
     science_journals = [];
 
@@ -65,7 +61,7 @@ exp.customize = function() {
         }
     }
 
-//    console.log("Science journals ", science_journals)
+    console.log("Science journals ", science_journals)
 
     science_journals = _.sampleSize(science_journals, 1);
     imageSeenBefore.push(science_journals[0]['filename']);
@@ -78,7 +74,7 @@ exp.customize = function() {
         }
     }
 
-//    console.log("travel ", travel)
+    console.log("travel ", travel)
 
     travel = _.sampleSize(travel, 1);
 
@@ -92,7 +88,7 @@ exp.customize = function() {
         }
     }
 
-//    console.log("shopping ", shopping)
+    console.log("shopping ", shopping)
 
     shopping = _.sampleSize(shopping, 1);
 
@@ -106,10 +102,10 @@ exp.customize = function() {
         }
     }
 
-//    console.log("social media ", social_media)
+    console.log("social media ", social_media)
 
     social_media = _.sampleSize(social_media, 1);
-//    console.log('social_media chosen ', social_media)    
+    console.log('social_media chosen ', social_media)    
 
     main_trials.length = 0
     main_trials.push(...health)
@@ -126,13 +122,6 @@ exp.customize = function() {
     console.log(this.trial_info.main_trials);
 
     // sample question order
-    shopping = "Why did this image appear within this context?"
-    travel = "You are browsing a <strong> travel website</strong>, with the goal of traveling to a new location."
-    social_media = "You are browsing <strong> social media</strong>, with the goal of learning more about your connections."
-    health = "You are browsing a <strong> health website</strong>, with the goal of learning how to live a healthier lifestyle."
-    science_journals = "You are browsing <strong>science magazines</strong> (such as National Geographic), with the goal of learning more about recent science developments."
-    news_journals = "You are browsing <strong>news websites</strong> (such as New York Times), with the goal of learning more about recent news developments."
-
     questions = _.shuffle([health, shopping, travel, social_media, science_journals, news_journals])
 
     // adds progress bars to the views listed

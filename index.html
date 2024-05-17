@@ -149,10 +149,6 @@
                 </section>
                 {{/ text }}
                 <br>
-                <div class="picture">
-                    <img src={{ picture }} alt="A picture" height="300">
-                </div>
-                <br>
                 {{# paragraph2 }}
                 <section class="text-container">
                     <p class="text">{{{ paragraph2 }}}</p>
@@ -175,104 +171,64 @@
         <!-- main view (buttons response) -->
         <script id="main-view" type="text/html">
         <div class="view">
-            <!-- {{# context }}
-            <p class="question" style="font-size: 14px; font-style: italic;">
-            <strong>Excerpt of the article the image occurred in:</strong> {{{ context }}}
-            </p>
-            {{/ context }} -->
+            <h1>Is This Answer Correct?</h1>
             {{# critical_text }}
             <p class="critical_text">
             {{{ critical_text }}}
+            <br>
+            <br>
+            <strong> "{{{ description }}}" </strong>
             </p>
             {{/ critical_text }}
-
-            <div class="picture">
-                <img src={{ picture }} alt="a picture" height="300">
-            </div>
-            <br>
-            <hr>
-            <br>
             <div class="questions" id="questions">
+                <hr>
+                </p>
+                <p class="critical_text">
+                    Based on this description, they asked the following question.
+                    </p>
+
                 {{# q1 }}
-                <p class="question">{{{ q1 }}}</p>
+                <p class="question"> Question: <strong> "{{{ q1 }}}" </strong> </p> 
                 {{/ q1 }}
-
-                <p id="slider1_box" class="answer-container blend-out">
-                    {{# slider_left }}
-                    <span class="slider_left">{{{ slider_left }}}</span>
-                    {{/ slider_left }}
-
-                    <input type="range" id="context-justification" class="slider-response" min="0" max="100" value="0"/>
-
-                    {{# slider_right }}
-                    <span class="slider_right">{{{ slider_right }}}</span>
-                    {{/ slider_right }}
-                </p>
                 <br>
-                </p>
 
-                <br> 
-                
-                {{# q2 }}
-                <p class="question" id="study-question-1">{{{ q2 }}} </p>
-                {{/ q2 }}
                 <div class="picture">
-                    <p class="bordered-text"> Image Description: {{{ description }}} </p>
+                    <img src={{ picture }} alt="a picture" height="200">
                 </div>
-                {{# q3 }}
-                <p class="question">{{{ q3 }}} </p>
-                {{/ q3 }}
 
-                {{# question }}
-                <p class="question" id="study-question-2"> <strong> {{{ question }}} </strong> </p>
-                {{/ question }}
+                <p class="critical_text">Based on this image, someone gave the following answer:</p>
+                {{# answer }}
+                <p class="question"> Answer: <strong> "{{{ answer }}}"</strong></p>
+                {{/ answer }}
 
-                <p id="slider2_box" class="answer-container blend-out">
-                    <textarea class="image-question" id="answer"/>
-                    <br>
+                {{# answer }}
+                <p class="question"> Q1: Which one of the following options best describes the provided answer?</p>
+                {{/ answer }}
+
+                <!-- TODO: Make sure you add in some checks for going to the next page in this survey! -->
+                <p class="answer-container multchoice" style="text-align: left;">
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-1" value="correct">The answer is correct.</label><br>
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-2" value="wrong">The answer contains at least one piece of information that is wrong or clearly not apparent from the picture.</label><br>
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-3" value="idk">The correctness of the answer is hard to determine either because I'm lacking the context of the description or lacking knowledge of the depicted event.</label><br>
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-4" value="">Other <input type="text" name="other_reason" /></label>
                 </p>
+
+                {{# answer }}
+                <p class="question"> Q2: Is the image necessary to answer the question? </p>
+                {{/ answer }}
+                <p class="answer-container multchoice" style="text-align: left;">
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q2" id="q2-option-1" value="image_required">Yes, the image is required to answer the question.</label><br>
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q2" id="q2-option-2" value="image_not_required">No, the image is not required to answer the question.</label><br>
+                </p>
+            </p>
+            </p>
             </div>
 
-            <br> <br>
-            <p class="answer-container multchoice" style="text-align: center; color: black;">
-                {{# checkbox }}
-                <br>
-                <input type="checkbox" id="checkbox" name="checkbox"><label for="checkbox">{{{ checkbox }}}</label>
-                {{/ checkbox }}
-            </p>
-            
             <br>
-            <!-- 
-            <p class="question">Q3: Is the bold text <strong>human generated or computer generated</strong>?</p>
+
+            <p class="question"></p>
             <p class="answer-container multchoice" style="text-align: left;">
-                {{# generator_1 }}
-                <input type="radio" name="refexp" id="generator-1">{{ generator_1 }}<br>
-                {{/ generator_1 }}
-                {{# generator_2 }}
-                <input type="radio" name="refexp" id="generator-2">{{ generator_2 }}<br>
-                {{/ generator_2 }}
-                <input type="radio" name="refexp" id="generator-3">unclear<br>
             </p>
-            <br> 
-            <p class="question">Q4: How likely would a <strong>journalist</strong> be to choose the bold text to <strong>occur below the image as a caption</strong>?</p>
-            <p id="slider_box" class="answer-container blend-out">
-                <span class="slider_left">Not likely</span>
-
-                <input type="range" id="slider" class="slider-response" min="0" max="100" value="50"/>
-
-                <span class="slider_left">Very likely</span>
-                <br>
-            </p>
-            <p class="question">Q5: Does the bold text help you understand <strong>why the image is shown</strong> for the article?</p>
-            <p class="answer-container multchoice" style="text-align: left;">
-                <input type="radio" name="refexp" id="generator-1">Clearly yes<br>
-                <input type="radio" name="refexp" id="generator-2">A little<br>
-                <input type="radio" name="refexp" id="generator-3">Clearly no<br>
-                <input type="radio" name="refexp" id="generator-3">Uncertain<br>
-            </p>
-            <br>  -->
-
-            <br>
             <br>
             <p class="comment-sect-voluntary" style="text-align: center;">
                 <label for="comments">Optional: Is there something else you would like to add?</label>
@@ -287,7 +243,7 @@
             <button id="next">Next</button>
             {{/ button }}
 
-            <p id="error" class="help-text" style="visibility: hidden;">You haven't responded to all questions. To continue, please respond to all questions in more than 10 characters.</p>
+            <p id="error" class="help-text" style="visibility: hidden;">You haven't responded to all questions. To continue, please select an answer to each of the two questions.</p>
         </div>
         </script>
 

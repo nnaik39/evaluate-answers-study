@@ -1,0 +1,52 @@
+var main_trials = {
+    "images": [
+        {
+            "filename": "images/14305.jpg",
+            "category": "social_media",
+            "question": "Where was this picture seemingly taken?",
+            "description": "a sign for a cycle path on the side of the road",
+            "human_answer": "Test human answer 1",
+            "model_answer": "Test model answer 1"
+        },
+        {
+            "filename": "images/14305.jpg",
+            "category": "science_journals",
+            "question": "Is anyone present in the picture?",
+            "description": "a sign for a cycle path on the side of the road",
+            "human_answer": "Test human answer 2",
+            "model_answer": "Test model answer 2"
+        },
+        {
+            "filename": "images/49393.jpg",
+            "category": "health",
+            "question": "Does the man have any obvious medical issues?",
+            "description": "a man in a blue jersey and sunglasses",
+            "human_answer": "Test human answer 3",
+            "model_answer": "Test model answer 3"
+        },
+        {
+            "filename": "images/49393.jpg",
+            "category": "health",
+            "question": "Is there anyone else in the picture with the man?",
+            "description": "a man in a blue jersey and sunglasses",
+            "human_answer": "Test human answer 4",
+            "model_answer": "Test model answer 4"
+        },
+        {
+            "filename": "images/32924.jpg",
+            "category": "travel",
+            "question": "What season is it in the photo?",
+            "description": "a mountain range with a lake and trees on the side",
+            "human_answer": "Test human answer 5",
+            "model_answer": "Test model answer 5"
+        },
+        {
+            "filename": "images/32924.jpg",
+            "category": "travel",
+            "question": "Are there any visible landmarks in the photo?",
+            "description": "a mountain range with a lake and trees on the side",
+            "human_answer": "Test human answer 6",
+            "model_answer": "Test model answer 6"
+        }
+    ]
+}

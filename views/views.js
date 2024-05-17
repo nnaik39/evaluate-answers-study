@@ -77,7 +77,7 @@ var intro = {
     title: "Stanford NLP Lab",
     // introduction text
     text:
-        "Thank you for participating in our study. In this study, you will see six images, each associated with a question and a type of website where the image appears. For each image and question, you will write answers for the given question based on the image. The whole study should take about six minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
+        "Thank you for participating in our study. In this study, you will see six images, each associated with a question, an answer, and a type of website where the image appears. For each question-answer pair, you will evaluate the quality of the answer. The whole study should take about seven minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
     legal_info:
         "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at (650) 723-4284. <br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
     // introduction's slide proceeding button text
@@ -139,7 +139,7 @@ var instruction_screen = {
     title: "Instructions",
     text:
         "<strong>Online images</strong> can be a useful resource, but there are cases where people <strong>cannot directly see</strong> the image--for instance, if you’re browsing a speech-enabled website where the site content is narrated. In this case, people might ask <strong>questions </strong> to understand the image further. ",
-    paragraph2: "In this study, you’ll see six <strong>images</strong>, each paired with a <strong>question</strong> and a type of website where you might see the image. You’ll be asked to <strong> guess why </strong> the image appears on this type of website, and to <strong> write an answer </strong> to the question.",
+    paragraph2: "In this study, you’ll see six <strong>images</strong>, each paired with a <strong>question</strong>, an <strong>answer</strong>, and a type of website where you might see the image. You’ll be asked to <strong> answer two questions about the answer </strong> to the question.",
     readyText: "Are you ready?",
     buttonText: "Begin experiment",
     // render function renders the view
@@ -183,41 +183,43 @@ var main = {
       //  console.log("Current category ", exp.trial_info.main_trials[CT]['category'])
 
         q1 = "How likely is it that you come across this image while browsing a "
+
+        text = "Imagine that a person is browsing a "
         if (exp.trial_info.main_trials[CT]['category'] == 'health') {
-            text = "Imagine that you are browsing a <strong>health website</strong>, with the goal of learning how to live a healthier lifestyle, when you encounter the following image."
+            text+= "<strong>health website</strong>, with the goal of learning how to live a healthier lifestyle"
             q1 += "<strong>health website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'shopping') {
-            text = "Imagine that you are browsing a <strong>shopping website</strong>, with the goal of purchasing an item or experience, when you encounter the following image."
+            text += "<strong>shopping website</strong>, with the goal of purchasing an item or experience"
             q1 += "<strong>shopping website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'social_media') {
-            text = "Imagine that you are browsing a <strong>social media website</strong>, with the goal of learning more about your connections, when you encounter the following image."
+            text += "<strong>social media website</strong>, with the goal of learning more about your connections"
             q1 += "<strong>social media website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'news') {
-            text = "Imagine that you are browsing a <strong>news website</strong> (such as the New York Times), with the goal of learning more about recent news developments, when you encounter the following image."
+            text += "<strong>news website</strong> (such as the New York Times), with the goal of learning more about recent news developments"
             q1 += "<strong>news website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'travel') {
-            text = "Imagine that you are browsing a <strong>travel website</strong>, with the goal of traveling to a new location, when you encounter the following image."
+            text += "<strong>travel website</strong>, with the goal of traveling to a new location"
             q1 += "<strong>travel website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'science_journals') {
-            text = "Imagine that you are browsing a <strong>science magazine website</strong> (such as National Geographic), with the goal of learning more about recent science developments, when you encounter the following image."
+            text += "<strong>science magazine website</strong> (such as National Geographic), with the goal of learning more about recent science developments"
             q1 += "<strong>science magazine website</strong>?"
         }
 
-        q2 = "Another user cannot see the image directly but has access to the following image description:" 
-        q3 = "Based on this description, they asked a follow-up question. Please answer based on the image. Your answer should allow the user to better understand and imagine the image."
+        text += ". There is an image which they cannot see but which has the following description:"
+        
+        q2 = "It’s hard to determine whether the answer was correct either because I'm lacking the context of the description or lacking knowledge of the depicted event."
+        q3 = "This answer appears correct."
 
-        checkbox = 'The question cannot be answered from the image or otherwise has an error.';
+        checkbox = 'Is the answer on the left accurate?';
 
-        slider_left = 'Not likely';
-        slider_right = 'Likely';
-
+        q1 = exp.trial_info.main_trials[CT]['question'];
+        
         console.log("Checkbox default ", $('checkbox').val())
-
         console.log("Current question ", exp.trial_info.main_trials[CT]['question']);
 
         $("#main").html(
@@ -225,8 +227,7 @@ var main = {
                 critical_text: text,
                 picture: exp.trial_info.main_trials[CT]['filename'],
                 description: exp.trial_info.main_trials[CT]['description'],
-                slider_left: slider_left,
-                slider_right: slider_right,
+                answer: exp.trial_info.main_trials[CT]['answer'],
                 q1: q1,
                 q2: q2,
                 q3: q3,
@@ -245,68 +246,22 @@ var main = {
             $("#error").css({"visibility": "hidden"});
         });
 
-        var answer = $('#answer');
-        var answer_changed = false;
-
-        answer.on('keyup', function() {
-            value = answer.val();
-            if (value.length >= 10) answer_changed = true;
-            else if (value.length < 10) answer_changed = false;
-
-            $("#error").css({"visibility": "hidden"});
-        });
-
-        answer.on('paste', function(e) {
-            e.preventDefault();
-            return false;
-        });
-
-        var box_checked = false;
-
-        $('input[id=checkbox]').change(function(){
-            console.log("Box checked value ", box_checked)
-            if($(this).is(':checked')) {
-                box_checked = true;
-                let element1 = document.getElementById('study-question-1');
-
-                element1.style.color = 'grey';
-
-                let element2 = document.getElementById('study-question-2');
-
-                element2.style.color = 'grey';
-
-                let element3 = document.getElementById('answer');
-
-                element3.style.visibility = 'hidden';
-                
-            } else {
-                box_checked = false;
-                let element1 = document.getElementById('study-question-1');
-                
-                element1.style.color = 'black';
-
-                let element2 = document.getElementById('study-question-2');
-
-                element2.style.color = 'black';
-
-                let element3 = document.getElementById('answer');
-
-                element3.style.visibility = 'visible';
-            }
-        });
-
-        // event listener for buttons; when an input is selected, the response
-        // and additional information are stored in exp.trial_info
         $("#hint").on("click", function() {
             var popup = document.getElementById("myPopup");
             popup.classList.toggle("show");
         });
+        
 
         $("#next").on("click", function() {
-            console.log("checkbox value ", box_checked)
+            console.log("next button clicked")
+            var r1_checked = document.querySelector('input[name="q1"]:checked');
+            console.log("r1 checked value: ", r1_checked.value)
+            var r2_checked = document.querySelector('input[name="q2"]:checked');
+            console.log("r2 checked value: ", r2_checked.value)
 
-            if ((context_justification_changed & answer_changed) || (context_justification_changed & box_checked)) {
+            if (Boolean(r1_checked) & Boolean(r2_checked)) {
                 var RT = Date.now() - startingTime; // measure RT before anything else
+
                 var trial_data = {
                     trial_number: CT + 1,
                     reactionTime: RT,
@@ -315,12 +270,11 @@ var main = {
                     description: exp.trial_info.main_trials[CT]['description'],
                     category: exp.trial_info.main_trials[CT]['category'],
                     question: exp.trial_info.main_trials[CT]['question'],
-                    context_justification: $('#context-justification').val(),
-                    answer: $('#answer').val(),
-                    checkbox: box_checked,
+                    q1: r1_checked.value,
+                    q2: r2_checked.value,
                     comments: $('#comments').val()
                 };
-//                console.log('Trial data ', trial_data)
+                console.log('Trial data ', trial_data)
 
                 exp.trial_data.push(trial_data);
                 exp.findNextView();
