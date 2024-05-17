@@ -210,15 +210,16 @@
                     <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-1" value="correct">The answer is correct.</label><br>
                     <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-2" value="wrong">The answer contains at least one piece of information that is wrong or clearly not apparent from the picture.</label><br>
                     <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-3" value="idk">The correctness of the answer is hard to determine either because I'm lacking the context of the description or lacking knowledge of the depicted event.</label><br>
-                    <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-4" value="">Other <input type="text" name="other_reason" /></label>
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q1" id="q1-option-4" value="">Other <input type="text" id="other_reason_q1" /></label>
                 </p>
 
                 {{# answer }}
-                <p class="question"> Q2: Is the image necessary to answer the question? </p>
+                <p class="question"> Q2: Is seeing the image necessary to answer the question? </p>
                 {{/ answer }}
                 <p class="answer-container multchoice" style="text-align: left;">
-                    <label style="color:black;font-size:18px;"><input type="radio" name="q2" id="q2-option-1" value="image_required">Yes, the image is required to answer the question.</label><br>
-                    <label style="color:black;font-size:18px;"><input type="radio" name="q2" id="q2-option-2" value="image_not_required">No, the image is not required to answer the question.</label><br>
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q2" id="q2-option-1" value="image_required">Yes, it is necessary to see the image in order to answer the question.</label><br>
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q2" id="q2-option-2" value="image_not_required">No, the question can be entirely answered from the description or by looking up from an external source.</label><br>
+                    <label style="color:black;font-size:18px;"><input type="radio" name="q2" id="q2-option-3" value="">Other <input type="text" id="other_reason_q2" /></label>
                 </p>
             </p>
             </p>

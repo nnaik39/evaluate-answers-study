@@ -107,6 +107,22 @@ exp.customize = function() {
     social_media = _.sampleSize(social_media, 1);
     console.log('social_media chosen ', social_media)    
 
+    attention_check_1 = [{
+        'filename': 'images/hummingbird.jpeg',
+        'description': 'A hummingbird flying midair next to some hibiscus flowers',
+        'category': 'gardening',
+        'question': 'Is the hummingbird drinking from one of the hibiscus flowers?',
+        'answer': 'Yes, the hummingbird is drinking from a hibiscus flower'
+    }]
+
+    attention_check_2 = [{
+        'filename': 'images/house.jpeg',
+        'category': 'housing',
+        'description': 'A small cottage with green grass on the roof and grass in front of it',
+        'question': 'What is behind the cottage?',
+        'answer': 'A mountain and a body of water.'
+    }]
+
     main_trials.length = 0
     main_trials.push(...health)
     main_trials.push(...news_journals)
@@ -114,6 +130,8 @@ exp.customize = function() {
     main_trials.push(...travel)
     main_trials.push(...shopping)
     main_trials.push(...social_media)
+    main_trials.push(...attention_check_1)
+    main_trials.push(...attention_check_2)
 
     // randomize main trial order, but keep practice trial order fixed
     this.trial_info.main_trials = _.shuffle(main_trials);

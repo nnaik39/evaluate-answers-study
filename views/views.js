@@ -77,7 +77,7 @@ var intro = {
     title: "Stanford NLP Lab",
     // introduction text
     text:
-        "Thank you for participating in our study. In this study, you will see six images, each associated with a question, an answer, and a type of website where the image appears. For each question-answer pair, you will evaluate the quality of the answer. The whole study should take around seven minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
+        "Thank you for participating in our study. In this study, you will see eight images, each associated with a question, an answer, and a type of website where the image appears. For each question-answer pair, you will evaluate the quality of the answer. The whole study should take around seven minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
     legal_info:
         "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at (650) 723-4284. <br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
     // introduction's slide proceeding button text
@@ -139,7 +139,7 @@ var instruction_screen = {
     title: "Instructions",
     text:
         "<strong>Online images</strong> can be a useful resource, but there are cases where people <strong>cannot directly see</strong> the image--for instance, if you’re browsing a speech-enabled website where the site content is narrated. In this case, people might ask <strong>questions </strong> to understand the image further. ",
-    paragraph2: "In this study, you’ll see six <strong>images</strong>, each paired with a <strong>question</strong>, an <strong>answer</strong>, and a type of website where you might see the image. You’ll be asked to <strong> answer two questions about the answer </strong> to the question.",
+    paragraph2: "In this study, you’ll see eight <strong>images</strong>, each paired with a <strong>question</strong>, an <strong>answer</strong>, and a type of website where you might see the image. You’ll be asked to <strong> answer two questions about the answer </strong> to the question.",
     readyText: "Are you ready?",
     buttonText: "Begin experiment",
     // render function renders the view
@@ -209,7 +209,12 @@ var main = {
             text += "<strong>science magazine website</strong> (such as National Geographic), with the goal of learning more about recent science developments"
             q1 += "<strong>science magazine website</strong>?"
         }
-
+        else if (exp.trial_info.main_trials[CT]['category'] == 'gardening') {
+            text += "<strong>gardening website</strong>, with the goal of learning how to cultivate your garden"
+        }
+        else if (exp.trial_info.main_trials[CT]['category'] == 'housing') {
+            text += "<strong>housing website</strong>, with the goal of finding a place to live"
+        }
         text += ". There is an image which they cannot see but which has the following description:"
         
         q2 = "It’s hard to determine whether the answer was correct either because I'm lacking the context of the description or lacking knowledge of the depicted event."
@@ -259,6 +264,12 @@ var main = {
             var r2_checked = document.querySelector('input[name="q2"]:checked');
             console.log("r2 checked value: ", r2_checked.value)
 
+            var q1OtherValue = document.getElementById('other_reason_q1').value;
+            var q2OtherValue = document.getElementById('other_reason_q2').value;
+
+            console.log("q1 other value ", q1OtherValue)
+            console.log("q2 other value ", q2OtherValue)
+
             if (Boolean(r1_checked) & Boolean(r2_checked)) {
                 var RT = Date.now() - startingTime; // measure RT before anything else
 
@@ -272,6 +283,8 @@ var main = {
                     question: exp.trial_info.main_trials[CT]['question'],
                     q1: r1_checked.value,
                     q2: r2_checked.value,
+                    q1OtherValue: q1OtherValue,
+                    q2OtherValue: q2OtherValue,
                     comments: $('#comments').val()
                 };
                 console.log('Trial data ', trial_data)
@@ -287,7 +300,7 @@ var main = {
         // record trial starting time
         var startingTime = Date.now();
     },
-    trials: 6
+    trials: 8
 };
 
 var postTest = {
