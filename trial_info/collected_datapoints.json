@@ -1,0 +1,4712 @@
+[
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "",
+        "q1_other": "The answer is incorrect, it is drinking ",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "",
+        "q1_other": "The answer is incorrect. The hummingbird appears to be drinking from the hibiscus. ",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
+        "context": "science_journals",
+        "question": "Are there any intricate designs on the archways, and what color is the building?",
+        "answer": "Yes, there are intricate designs on the archways, and the building is white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
+        "context": "science_journals",
+        "question": "Are there any intricate designs on the archways, and what color is the building?",
+        "answer": "Yes, there are intricate designs on the archways, and the building is white.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
+        "context": "science_journals",
+        "question": "Are there any intricate designs on the archways, and what color is the building?",
+        "answer": "Yes, there are intricate designs on the archways, and the building is white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
+        "context": "health",
+        "question": "How fresh do the fruit look",
+        "answer": "The fruit looks very fresh and is likely to be in good condition.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
+        "context": "health",
+        "question": "How fresh do the fruit look",
+        "answer": "The fruit looks very fresh and is likely to be in good condition.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
+        "context": "health",
+        "question": "How fresh do the fruit look",
+        "answer": "The fruit looks very fresh and is likely to be in good condition.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
+        "context": "health",
+        "question": "How fresh do the fruit look",
+        "answer": "The fruit looks very fresh and is likely to be in good condition.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Acorn_Soup_(4827753894).jpeg",
+        "context": "shopping",
+        "question": "Does it look delicious?",
+        "answer": "Yes, it looks delicious.",
+        "q1": "",
+        "q1_other": "This answer is entirely dependent on what the viewer considers to be \"delicious\"",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Acorn_Soup_(4827753894).jpeg",
+        "context": "shopping",
+        "question": "Does it look delicious?",
+        "answer": "Yes, it looks delicious.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Acorn_Soup_(4827753894).jpeg",
+        "context": "shopping",
+        "question": "Does it look delicious?",
+        "answer": "Yes, it looks delicious.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Charlie's_Angels_cast_during_interview_01.png",
+        "context": "news",
+        "question": "Who are the people in the image?",
+        "answer": "The people in the image are three famous women actors who are wearing casual clothing and sitting together for an interview. They are promoting their film, Charlie's Angels.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Charlie's_Angels_cast_during_interview_01.png",
+        "context": "news",
+        "question": "Who are the people in the image?",
+        "answer": "The people in the image are three famous women actors who are wearing casual clothing and sitting together for an interview. They are promoting their film, Charlie's Angels.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Charlie's_Angels_cast_during_interview_01.png",
+        "context": "news",
+        "question": "Who are the people in the image?",
+        "answer": "The people in the image are three famous women actors who are wearing casual clothing and sitting together for an interview. They are promoting their film, Charlie's Angels.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": "no"
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "question": "Can you tell me what the color, size and texture looks like?",
+        "answer": "I cannot provide a visual answer to this question. however, based on the image description, the egg case is described as translucent, which suggests that it may be clear or semi-transparent. the size and texture of the egg case are not explicitly described, but it is likely that it is small and smooth. the embryo inside the egg case is described as visible, but it is not clear what the color or texture of the embryo is.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "question": "Can you tell me what the color, size and texture looks like?",
+        "answer": "I cannot provide a visual answer to this question. however, based on the image description, the egg case is described as translucent, which suggests that it may be clear or semi-transparent. the size and texture of the egg case are not explicitly described, but it is likely that it is small and smooth. the embryo inside the egg case is described as visible, but it is not clear what the color or texture of the embryo is.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "question": "Can you tell me what the color, size and texture looks like?",
+        "answer": "I cannot provide a visual answer to this question. however, based on the image description, the egg case is described as translucent, which suggests that it may be clear or semi-transparent. the size and texture of the egg case are not explicitly described, but it is likely that it is small and smooth. the embryo inside the egg case is described as visible, but it is not clear what the color or texture of the embryo is.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Lisbon_Oceanarium.jpeg",
+        "context": "travel",
+        "question": "Where is it located?",
+        "answer": "The aquarium is located in a building.",
+        "q1": "",
+        "q1_other": "It's technically correct, but probably not what they were asking for",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Lisbon_Oceanarium.jpeg",
+        "context": "travel",
+        "question": "Where is it located?",
+        "answer": "The aquarium is located in a building.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Lisbon_Oceanarium.jpeg",
+        "context": "travel",
+        "question": "Where is it located?",
+        "answer": "The aquarium is located in a building.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "question": "What gender are the people in the hot tub?",
+        "answer": "The people in the hot tub are both male and female.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "question": "What gender are the people in the hot tub?",
+        "answer": "The people in the hot tub are both male and female.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "question": "What gender are the people in the hot tub?",
+        "answer": "The people in the hot tub are both male and female.",
+        "q1": "",
+        "q1_other": "The image is too small for me to tell.",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "question": "What gender are the people in the hot tub?",
+        "answer": "The people in the hot tub are both male and female.",
+        "q1": "",
+        "q1_other": "The people are partially obscured so the question can not be answered.",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "question": "What gender are the people in the hot tub?",
+        "answer": "The people in the hot tub are both male and female.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "question": "What gender are the people in the hot tub?",
+        "answer": "The people in the hot tub are both male and female.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do they look?",
+        "answer": "The age of the people in the image cannot be determined from the image description provided.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do they look?",
+        "answer": "The age of the people in the image cannot be determined from the image description provided.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do they look?",
+        "answer": "The age of the people in the image cannot be determined from the image description provided.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do they look?",
+        "answer": "The age of the people in the image cannot be determined from the image description provided.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do they look?",
+        "answer": "The age of the people in the image cannot be determined from the image description provided.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "social_media",
+        "question": "What is a ophthalmic retinal camera for?",
+        "answer": "A ophthalmic retinal camera is used to take pictures of the back of the eye to diagnose and monitor various eye conditions such as glaucoma, macular degeneration, and diabetic retinopathy.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "social_media",
+        "question": "What is a ophthalmic retinal camera for?",
+        "answer": "A ophthalmic retinal camera is used to take pictures of the back of the eye to diagnose and monitor various eye conditions such as glaucoma, macular degeneration, and diabetic retinopathy.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "social_media",
+        "question": "What is a ophthalmic retinal camera for?",
+        "answer": "A ophthalmic retinal camera is used to take pictures of the back of the eye to diagnose and monitor various eye conditions such as glaucoma, macular degeneration, and diabetic retinopathy.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "social_media",
+        "question": "What is a ophthalmic retinal camera for?",
+        "answer": "A ophthalmic retinal camera is used to take pictures of the back of the eye to diagnose and monitor various eye conditions such as glaucoma, macular degeneration, and diabetic retinopathy.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "social_media",
+        "question": "What is a ophthalmic retinal camera for?",
+        "answer": "A ophthalmic retinal camera is used to take pictures of the back of the eye to diagnose and monitor various eye conditions such as glaucoma, macular degeneration, and diabetic retinopathy.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Rio_Maranon_03245.jpeg",
+        "context": "science_journals",
+        "question": "What else is in the landscape next to the river?",
+        "answer": "The landscape next to the river is a mountain range.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Rio_Maranon_03245.jpeg",
+        "context": "science_journals",
+        "question": "What else is in the landscape next to the river?",
+        "answer": "The landscape next to the river is a mountain range.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Rio_Maranon_03245.jpeg",
+        "context": "science_journals",
+        "question": "What else is in the landscape next to the river?",
+        "answer": "The landscape next to the river is a mountain range.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
+        "context": "shopping",
+        "question": "What time of day is it?",
+        "answer": "The image does not provide enough information to determine the time of day.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
+        "context": "shopping",
+        "question": "What time of day is it?",
+        "answer": "The image does not provide enough information to determine the time of day.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
+        "context": "shopping",
+        "question": "What time of day is it?",
+        "answer": "The image does not provide enough information to determine the time of day.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
+        "context": "shopping",
+        "question": "What time of day is it?",
+        "answer": "The image does not provide enough information to determine the time of day.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Arttherapyprocess.jpeg",
+        "context": "health",
+        "question": "Is this a yoga or pilates studio?",
+        "answer": "This is a yoga studio.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Arttherapyprocess.jpeg",
+        "context": "health",
+        "question": "Is this a yoga or pilates studio?",
+        "answer": "This is a yoga studio.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Arttherapyprocess.jpeg",
+        "context": "health",
+        "question": "Is this a yoga or pilates studio?",
+        "answer": "This is a yoga studio.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Arttherapyprocess.jpeg",
+        "context": "health",
+        "question": "Is this a yoga or pilates studio?",
+        "answer": "This is a yoga studio.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Arttherapyprocess.jpeg",
+        "context": "health",
+        "question": "Is this a yoga or pilates studio?",
+        "answer": "This is a yoga studio.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Arttherapyprocess.jpeg",
+        "context": "health",
+        "question": "Is this a yoga or pilates studio?",
+        "answer": "This is a yoga studio.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
+        "context": "social_media",
+        "question": "What was the award for?",
+        "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
+        "context": "social_media",
+        "question": "What was the award for?",
+        "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
+        "context": "social_media",
+        "question": "What was the award for?",
+        "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
+        "context": "social_media",
+        "question": "What was the award for?",
+        "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/TDF31472_groep_met_rodriguez_(53062211809).jpeg",
+        "context": "news",
+        "question": "Is it a race or a marathon?",
+        "answer": "The cyclists are racing on a mountain road, so it is not a marathon.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/TDF31472_groep_met_rodriguez_(53062211809).jpeg",
+        "context": "news",
+        "question": "Is it a race or a marathon?",
+        "answer": "The cyclists are racing on a mountain road, so it is not a marathon.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/TDF31472_groep_met_rodriguez_(53062211809).jpeg",
+        "context": "news",
+        "question": "Is it a race or a marathon?",
+        "answer": "The cyclists are racing on a mountain road, so it is not a marathon.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Woman_running_barefoot_on_beach.jpeg",
+        "context": "health",
+        "question": "Are there any landmarks to the beach that suggest where is might be?",
+        "answer": "I'm sorry, but there are no specific landmarks mentioned in the image description that would help identify the location of the beach. The focus of the image is on the woman jogging barefoot and the waves in the background.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Woman_running_barefoot_on_beach.jpeg",
+        "context": "health",
+        "question": "Are there any landmarks to the beach that suggest where is might be?",
+        "answer": "I'm sorry, but there are no specific landmarks mentioned in the image description that would help identify the location of the beach. The focus of the image is on the woman jogging barefoot and the waves in the background.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Woman_running_barefoot_on_beach.jpeg",
+        "context": "health",
+        "question": "Are there any landmarks to the beach that suggest where is might be?",
+        "answer": "I'm sorry, but there are no specific landmarks mentioned in the image description that would help identify the location of the beach. The focus of the image is on the woman jogging barefoot and the waves in the background.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Telescope_Kepler-NASA.jpg",
+        "context": "news",
+        "question": "Is this illustration done to scale?",
+        "answer": "Yes, this illustration is done to scale.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Telescope_Kepler-NASA.jpg",
+        "context": "news",
+        "question": "Is this illustration done to scale?",
+        "answer": "Yes, this illustration is done to scale.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Telescope_Kepler-NASA.jpg",
+        "context": "news",
+        "question": "Is this illustration done to scale?",
+        "answer": "Yes, this illustration is done to scale.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Telescope_Kepler-NASA.jpg",
+        "context": "news",
+        "question": "Is this illustration done to scale?",
+        "answer": "Yes, this illustration is done to scale.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Telescope_Kepler-NASA.jpg",
+        "context": "news",
+        "question": "Is this illustration done to scale?",
+        "answer": "Yes, this illustration is done to scale.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Lichtbogen_3000_Volt.jpeg",
+        "context": "shopping",
+        "question": "Is the picture representing a product?",
+        "answer": "Yes, the picture is representing a product.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Lichtbogen_3000_Volt.jpeg",
+        "context": "shopping",
+        "question": "Is the picture representing a product?",
+        "answer": "Yes, the picture is representing a product.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Lichtbogen_3000_Volt.jpeg",
+        "context": "shopping",
+        "question": "Is the picture representing a product?",
+        "answer": "Yes, the picture is representing a product.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
+        "context": "travel",
+        "question": "Does it show any surrounding landscape?",
+        "answer": "The image description does not provide any information about the surrounding landscape. Therefore, the answer to this question is no.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
+        "context": "travel",
+        "question": "Does it show any surrounding landscape?",
+        "answer": "The image description does not provide any information about the surrounding landscape. Therefore, the answer to this question is no.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
+        "context": "travel",
+        "question": "Does it show any surrounding landscape?",
+        "answer": "The image description does not provide any information about the surrounding landscape. Therefore, the answer to this question is no.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ISS_Destiny_Lab.jpeg",
+        "context": "science_journals",
+        "question": "What kind of details are present in the photo?",
+        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ISS_Destiny_Lab.jpeg",
+        "context": "science_journals",
+        "question": "What kind of details are present in the photo?",
+        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ISS_Destiny_Lab.jpeg",
+        "context": "science_journals",
+        "question": "What kind of details are present in the photo?",
+        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ISS_Destiny_Lab.jpeg",
+        "context": "science_journals",
+        "question": "What kind of details are present in the photo?",
+        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ISS_Destiny_Lab.jpeg",
+        "context": "science_journals",
+        "question": "What kind of details are present in the photo?",
+        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ISS_Destiny_Lab.jpeg",
+        "context": "science_journals",
+        "question": "What kind of details are present in the photo?",
+        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ISS_Destiny_Lab.jpeg",
+        "context": "science_journals",
+        "question": "What kind of details are present in the photo?",
+        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ISS_Destiny_Lab.jpeg",
+        "context": "science_journals",
+        "question": "What kind of details are present in the photo?",
+        "answer": "The photo is a close-up of a cylindrical space station module in space. It is attached to a larger structure.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Summitting_Island_Peak.jpeg",
+        "context": "travel",
+        "question": "What is the climber wearing?",
+        "answer": "The climber is wearing a red jacket.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Summitting_Island_Peak.jpeg",
+        "context": "travel",
+        "question": "What is the climber wearing?",
+        "answer": "The climber is wearing a red jacket.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Summitting_Island_Peak.jpeg",
+        "context": "travel",
+        "question": "What is the climber wearing?",
+        "answer": "The climber is wearing a red jacket.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+        "context": "news",
+        "question": "Is this image from new york?",
+        "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+        "context": "news",
+        "question": "Is this image from new york?",
+        "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+        "context": "news",
+        "question": "Is this image from new york?",
+        "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+        "context": "news",
+        "question": "Is this image from new york?",
+        "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+        "context": "news",
+        "question": "Is this image from new york?",
+        "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+        "context": "news",
+        "question": "Is this image from new york?",
+        "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Cross_section_of_pumpkin.jpeg",
+        "context": "health",
+        "question": "What do the pumpkins look like?",
+        "answer": "The pumpkins look like they are unripe and green in color. They have a fibrous yellow interior and seeds visible on the skin.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Cross_section_of_pumpkin.jpeg",
+        "context": "health",
+        "question": "What do the pumpkins look like?",
+        "answer": "The pumpkins look like they are unripe and green in color. They have a fibrous yellow interior and seeds visible on the skin.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Cross_section_of_pumpkin.jpeg",
+        "context": "health",
+        "question": "What do the pumpkins look like?",
+        "answer": "The pumpkins look like they are unripe and green in color. They have a fibrous yellow interior and seeds visible on the skin.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Cross_section_of_pumpkin.jpeg",
+        "context": "health",
+        "question": "What do the pumpkins look like?",
+        "answer": "The pumpkins look like they are unripe and green in color. They have a fibrous yellow interior and seeds visible on the skin.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg",
+        "context": "social_media",
+        "question": "is this indoors or outdoors?",
+        "answer": "This is an indoor pool.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg",
+        "context": "social_media",
+        "question": "is this indoors or outdoors?",
+        "answer": "This is an indoor pool.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg",
+        "context": "social_media",
+        "question": "is this indoors or outdoors?",
+        "answer": "This is an indoor pool.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg",
+        "context": "social_media",
+        "question": "is this indoors or outdoors?",
+        "answer": "This is an indoor pool.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "question": "What kind of nuts are on the surface?",
+        "answer": "The nuts on the surface are almonds.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "question": "What kind of nuts are on the surface?",
+        "answer": "The nuts on the surface are almonds.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "question": "What kind of nuts are on the surface?",
+        "answer": "The nuts on the surface are almonds.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "question": "What kind of nuts are on the surface?",
+        "answer": "The nuts on the surface are almonds.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "question": "What kind of nuts are on the surface?",
+        "answer": "The nuts on the surface are almonds.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "question": "What kind of nuts are on the surface?",
+        "answer": "The nuts on the surface are almonds.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
+        "context": "science_journals",
+        "question": "Are there any other birds in the sky?",
+        "answer": "Yes, there are other birds in the sky.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
+        "context": "science_journals",
+        "question": "Are there any other birds in the sky?",
+        "answer": "Yes, there are other birds in the sky.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
+        "context": "science_journals",
+        "question": "Are there any other birds in the sky?",
+        "answer": "Yes, there are other birds in the sky.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
+        "context": "science_journals",
+        "question": "Are there any other birds in the sky?",
+        "answer": "Yes, there are other birds in the sky.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Common_stingray_tenerife.jpeg",
+        "context": "travel",
+        "question": "What color is the stingray?",
+        "answer": "The stingray is brown in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Common_stingray_tenerife.jpeg",
+        "context": "travel",
+        "question": "What color is the stingray?",
+        "answer": "The stingray is brown in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Common_stingray_tenerife.jpeg",
+        "context": "travel",
+        "question": "What color is the stingray?",
+        "answer": "The stingray is brown in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
+        "context": "social_media",
+        "question": "What do the soccer players look like?",
+        "answer": "The soccer players are wearing uniforms with red and white colors.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
+        "context": "social_media",
+        "question": "What do the soccer players look like?",
+        "answer": "The soccer players are wearing uniforms with red and white colors.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
+        "context": "social_media",
+        "question": "What do the soccer players look like?",
+        "answer": "The soccer players are wearing uniforms with red and white colors.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
+        "context": "social_media",
+        "question": "What do the soccer players look like?",
+        "answer": "The soccer players are wearing uniforms with red and white colors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gorskii_04414u.jpeg",
+        "context": "news",
+        "question": "What else is in the hall?",
+        "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gorskii_04414u.jpeg",
+        "context": "news",
+        "question": "What else is in the hall?",
+        "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gorskii_04414u.jpeg",
+        "context": "news",
+        "question": "What else is in the hall?",
+        "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gorskii_04414u.jpeg",
+        "context": "news",
+        "question": "What else is in the hall?",
+        "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Berlin_marathon.jpeg",
+        "context": "health",
+        "question": "Can you describe the marathon runner?",
+        "answer": "The marathon runner is a man wearing a red shirt and black shorts. He is running with a group of other runners and appears to be in good physical condition.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Berlin_marathon.jpeg",
+        "context": "health",
+        "question": "Can you describe the marathon runner?",
+        "answer": "The marathon runner is a man wearing a red shirt and black shorts. He is running with a group of other runners and appears to be in good physical condition.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Berlin_marathon.jpeg",
+        "context": "health",
+        "question": "Can you describe the marathon runner?",
+        "answer": "The marathon runner is a man wearing a red shirt and black shorts. He is running with a group of other runners and appears to be in good physical condition.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Nina_Garcia.jpeg",
+        "context": "social_media",
+        "question": "What city is she in?",
+        "answer": "The woman is in New York City.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Nina_Garcia.jpeg",
+        "context": "social_media",
+        "question": "What city is she in?",
+        "answer": "The woman is in New York City.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Nina_Garcia.jpeg",
+        "context": "social_media",
+        "question": "What city is she in?",
+        "answer": "The woman is in New York City.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Nina_Garcia.jpeg",
+        "context": "social_media",
+        "question": "What city is she in?",
+        "answer": "The woman is in New York City.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Nina_Garcia.jpeg",
+        "context": "social_media",
+        "question": "What city is she in?",
+        "answer": "The woman is in New York City.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Nina_Garcia.jpeg",
+        "context": "social_media",
+        "question": "What city is she in?",
+        "answer": "The woman is in New York City.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
+        "context": "shopping",
+        "question": "what are the type of fried snacks show in the image",
+        "answer": "The image shows a plate of fried snacks, but it is not clear what type of snacks they are. The person may need to look at the image more closely to determine the type of snacks.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
+        "context": "shopping",
+        "question": "what are the type of fried snacks show in the image",
+        "answer": "The image shows a plate of fried snacks, but it is not clear what type of snacks they are. The person may need to look at the image more closely to determine the type of snacks.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
+        "context": "shopping",
+        "question": "what are the type of fried snacks show in the image",
+        "answer": "The image shows a plate of fried snacks, but it is not clear what type of snacks they are. The person may need to look at the image more closely to determine the type of snacks.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wheat_Tomsk.jpeg",
+        "context": "news",
+        "question": "is there anything else in the field",
+        "answer": "There is a single stalk of wheat in the field.",
+        "q1": "",
+        "q1_other": "Wrong",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wheat_Tomsk.jpeg",
+        "context": "news",
+        "question": "is there anything else in the field",
+        "answer": "There is a single stalk of wheat in the field.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wheat_Tomsk.jpeg",
+        "context": "news",
+        "question": "is there anything else in the field",
+        "answer": "There is a single stalk of wheat in the field.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "Does this look like a good place for skiing or snowmobiles?",
+        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "Does this look like a good place for skiing or snowmobiles?",
+        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "Does this look like a good place for skiing or snowmobiles?",
+        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "Does this look like a good place for skiing or snowmobiles?",
+        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "Does this look like a good place for skiing or snowmobiles?",
+        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "Does this look like a good place for skiing or snowmobiles?",
+        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "Does this look like a good place for skiing or snowmobiles?",
+        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "Does this look like a good place for skiing or snowmobiles?",
+        "answer": "Based on the image description, it is not possible to determine if this is a good place for skiing or snowmobiles. The image only shows a white sign marking the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Shunsuke1_20080622.jpeg",
+        "context": "news",
+        "question": "Which team do they play for?",
+        "answer": "The soccer player in the number 10 jersey is from the blue team.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Shunsuke1_20080622.jpeg",
+        "context": "news",
+        "question": "Which team do they play for?",
+        "answer": "The soccer player in the number 10 jersey is from the blue team.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Shunsuke1_20080622.jpeg",
+        "context": "news",
+        "question": "Which team do they play for?",
+        "answer": "The soccer player in the number 10 jersey is from the blue team.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Shunsuke1_20080622.jpeg",
+        "context": "news",
+        "question": "Which team do they play for?",
+        "answer": "The soccer player in the number 10 jersey is from the blue team.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gluehlampe_01_KMJ.png",
+        "context": "science_journals",
+        "question": "Is there anything else in the image?",
+        "answer": "No, there is nothing else in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gluehlampe_01_KMJ.png",
+        "context": "science_journals",
+        "question": "Is there anything else in the image?",
+        "answer": "No, there is nothing else in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gluehlampe_01_KMJ.png",
+        "context": "science_journals",
+        "question": "Is there anything else in the image?",
+        "answer": "No, there is nothing else in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gluehlampe_01_KMJ.png",
+        "context": "science_journals",
+        "question": "Is there anything else in the image?",
+        "answer": "No, there is nothing else in the image.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gluehlampe_01_KMJ.png",
+        "context": "science_journals",
+        "question": "Is there anything else in the image?",
+        "answer": "No, there is nothing else in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Gluehlampe_01_KMJ.png",
+        "context": "science_journals",
+        "question": "Is there anything else in the image?",
+        "answer": "No, there is nothing else in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+        "context": "social_media",
+        "question": "What season does it look like?",
+        "answer": "The image does not provide enough information to determine the season.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+        "context": "social_media",
+        "question": "What season does it look like?",
+        "answer": "The image does not provide enough information to determine the season.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+        "context": "social_media",
+        "question": "What season does it look like?",
+        "answer": "The image does not provide enough information to determine the season.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
+        "context": "social_media",
+        "question": "What genre of music is being represented by this singer?",
+        "answer": "The singer is performing pop music.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
+        "context": "social_media",
+        "question": "What genre of music is being represented by this singer?",
+        "answer": "The singer is performing pop music.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
+        "context": "social_media",
+        "question": "What genre of music is being represented by this singer?",
+        "answer": "The singer is performing pop music.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
+        "context": "social_media",
+        "question": "What genre of music is being represented by this singer?",
+        "answer": "The singer is performing pop music.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/233px-Bartholomae-2005.jpeg",
+        "context": "science_journals",
+        "question": "Where does the chapel look like it is located?",
+        "answer": "The chapel looks like it is located near a lake, with snow-capped mountains in the background.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/233px-Bartholomae-2005.jpeg",
+        "context": "science_journals",
+        "question": "Where does the chapel look like it is located?",
+        "answer": "The chapel looks like it is located near a lake, with snow-capped mountains in the background.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/233px-Bartholomae-2005.jpeg",
+        "context": "science_journals",
+        "question": "Where does the chapel look like it is located?",
+        "answer": "The chapel looks like it is located near a lake, with snow-capped mountains in the background.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Fruit_smoothie_(8475314736).png",
+        "context": "shopping",
+        "question": "Is this website for a place that sells these smoothies, or is it for a company that sells equipment to make them?",
+        "answer": "This website is for a place that sells these smoothies.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Fruit_smoothie_(8475314736).png",
+        "context": "shopping",
+        "question": "Is this website for a place that sells these smoothies, or is it for a company that sells equipment to make them?",
+        "answer": "This website is for a place that sells these smoothies.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Fruit_smoothie_(8475314736).png",
+        "context": "shopping",
+        "question": "Is this website for a place that sells these smoothies, or is it for a company that sells equipment to make them?",
+        "answer": "This website is for a place that sells these smoothies.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Fruit_smoothie_(8475314736).png",
+        "context": "shopping",
+        "question": "Is this website for a place that sells these smoothies, or is it for a company that sells equipment to make them?",
+        "answer": "This website is for a place that sells these smoothies.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
+        "context": "travel",
+        "question": "What color is the fighter jet?",
+        "answer": "The fighter jet is silver in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
+        "context": "travel",
+        "question": "What color is the fighter jet?",
+        "answer": "The fighter jet is silver in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
+        "context": "travel",
+        "question": "What color is the fighter jet?",
+        "answer": "The fighter jet is silver in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
+        "context": "travel",
+        "question": "What color is the fighter jet?",
+        "answer": "The fighter jet is silver in color.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
+        "answer": "The background of the image shows the blue horizon of Earth, which is visible in the distance. There are no stars or the sun visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
+        "answer": "The background of the image shows the blue horizon of Earth, which is visible in the distance. There are no stars or the sun visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
+        "answer": "The background of the image shows the blue horizon of Earth, which is visible in the distance. There are no stars or the sun visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
+        "answer": "The background of the image shows the blue horizon of Earth, which is visible in the distance. There are no stars or the sun visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
+        "answer": "The background of the image shows the blue horizon of Earth, which is visible in the distance. There are no stars or the sun visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
+        "answer": "The background of the image shows the blue horizon of Earth, which is visible in the distance. There are no stars or the sun visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
+        "answer": "The background of the image shows the blue horizon of Earth, which is visible in the distance. There are no stars or the sun visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/360px-Blackberries-6383.jpeg",
+        "context": "health",
+        "question": "What kind of berries are they?",
+        "answer": "The berries in the image are blackberries and raspberries.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/360px-Blackberries-6383.jpeg",
+        "context": "health",
+        "question": "What kind of berries are they?",
+        "answer": "The berries in the image are blackberries and raspberries.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/360px-Blackberries-6383.jpeg",
+        "context": "health",
+        "question": "What kind of berries are they?",
+        "answer": "The berries in the image are blackberries and raspberries.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
+        "context": "social_media",
+        "question": "Is this someone who is visiting Japan?",
+        "answer": "Yes, this person is visiting Japan.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
+        "context": "social_media",
+        "question": "Is this someone who is visiting Japan?",
+        "answer": "Yes, this person is visiting Japan.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
+        "context": "social_media",
+        "question": "Is this someone who is visiting Japan?",
+        "answer": "Yes, this person is visiting Japan.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
+        "context": "social_media",
+        "question": "Is this someone who is visiting Japan?",
+        "answer": "Yes, this person is visiting Japan.",
+        "q1": "",
+        "q1_other": "this person looks like a japanese local ",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
+        "context": "science_journals",
+        "question": "Where is this rainforest located?",
+        "answer": "This rainforest is located in the Amazon.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "",
+        "q2_other": "no"
+    },
+    {
+        "image": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
+        "context": "science_journals",
+        "question": "Where is this rainforest located?",
+        "answer": "This rainforest is located in the Amazon.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
+        "context": "science_journals",
+        "question": "Where is this rainforest located?",
+        "answer": "This rainforest is located in the Amazon.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Backzutaten_041.jpeg",
+        "context": "health",
+        "question": "What would you bake it in?",
+        "answer": "Based on the image description, the person is browsing a health website and is looking at a cookbook with a pie recipe. The person is interested in baking a pie and is asking about the type of dish to use.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Backzutaten_041.jpeg",
+        "context": "health",
+        "question": "What would you bake it in?",
+        "answer": "Based on the image description, the person is browsing a health website and is looking at a cookbook with a pie recipe. The person is interested in baking a pie and is asking about the type of dish to use.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Backzutaten_041.jpeg",
+        "context": "health",
+        "question": "What would you bake it in?",
+        "answer": "Based on the image description, the person is browsing a health website and is looking at a cookbook with a pie recipe. The person is interested in baking a pie and is asking about the type of dish to use.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BMW_Welt_y_Torre_BMW_Munich_Alemania.jpeg",
+        "context": "news",
+        "question": "What building is being shown in the picture? ",
+        "answer": "The building in the picture is a futuristic building.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BMW_Welt_y_Torre_BMW_Munich_Alemania.jpeg",
+        "context": "news",
+        "question": "What building is being shown in the picture? ",
+        "answer": "The building in the picture is a futuristic building.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BMW_Welt_y_Torre_BMW_Munich_Alemania.jpeg",
+        "context": "news",
+        "question": "What building is being shown in the picture? ",
+        "answer": "The building in the picture is a futuristic building.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/ARS_red_onion.jpeg",
+        "context": "shopping",
+        "question": "How many onions are there?",
+        "answer": "There are 10 onions in the image.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/ARS_red_onion.jpeg",
+        "context": "shopping",
+        "question": "How many onions are there?",
+        "answer": "There are 10 onions in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/ARS_red_onion.jpeg",
+        "context": "shopping",
+        "question": "How many onions are there?",
+        "answer": "There are 10 onions in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Electric-eel.jpeg",
+        "context": "science_journals",
+        "question": "Are there other underwater creatures around?",
+        "answer": "Yes, there are other underwater creatures around.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Electric-eel.jpeg",
+        "context": "science_journals",
+        "question": "Are there other underwater creatures around?",
+        "answer": "Yes, there are other underwater creatures around.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Electric-eel.jpeg",
+        "context": "science_journals",
+        "question": "Are there other underwater creatures around?",
+        "answer": "Yes, there are other underwater creatures around.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Electric-eel.jpeg",
+        "context": "science_journals",
+        "question": "Are there other underwater creatures around?",
+        "answer": "Yes, there are other underwater creatures around.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "question": "What is the appeared gender of the two people?",
+        "answer": "The two people in the image are both female.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "question": "What is the appeared gender of the two people?",
+        "answer": "The two people in the image are both female.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "question": "What is the appeared gender of the two people?",
+        "answer": "The two people in the image are both female.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What details of Earth can be noticed, i.e. continents, colors, etc?",
+        "answer": "The astronaut is floating in space with Earth's blue horizon in the background. The continents are visible and can be seen clearly.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What details of Earth can be noticed, i.e. continents, colors, etc?",
+        "answer": "The astronaut is floating in space with Earth's blue horizon in the background. The continents are visible and can be seen clearly.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What details of Earth can be noticed, i.e. continents, colors, etc?",
+        "answer": "The astronaut is floating in space with Earth's blue horizon in the background. The continents are visible and can be seen clearly.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Baknamul(seasoned_calabash).jpeg",
+        "context": "health",
+        "question": "Is this Korean dish a healthy meal? ",
+        "answer": "Yes, this Korean dish is a healthy meal. It is a seasoned side dish with sesame seeds in a brown bowl. The dish is made with vegetables and is likely to be low in calories and high in nutrients. The sesame seeds add a nutty flavor and crunch to the dish, making it a tasty and healthy option.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Baknamul(seasoned_calabash).jpeg",
+        "context": "health",
+        "question": "Is this Korean dish a healthy meal? ",
+        "answer": "Yes, this Korean dish is a healthy meal. It is a seasoned side dish with sesame seeds in a brown bowl. The dish is made with vegetables and is likely to be low in calories and high in nutrients. The sesame seeds add a nutty flavor and crunch to the dish, making it a tasty and healthy option.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Baknamul(seasoned_calabash).jpeg",
+        "context": "health",
+        "question": "Is this Korean dish a healthy meal? ",
+        "answer": "Yes, this Korean dish is a healthy meal. It is a seasoned side dish with sesame seeds in a brown bowl. The dish is made with vegetables and is likely to be low in calories and high in nutrients. The sesame seeds add a nutty flavor and crunch to the dish, making it a tasty and healthy option.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Baknamul(seasoned_calabash).jpeg",
+        "context": "health",
+        "question": "Is this Korean dish a healthy meal? ",
+        "answer": "Yes, this Korean dish is a healthy meal. It is a seasoned side dish with sesame seeds in a brown bowl. The dish is made with vegetables and is likely to be low in calories and high in nutrients. The sesame seeds add a nutty flavor and crunch to the dish, making it a tasty and healthy option.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Jarneia_Richard-Noel_as_Catherine_of_Aragon_in_the_West_End_production_of_Six_at_the_Arts_Theatre,_2019.jpeg",
+        "context": "social_media",
+        "question": "who is the performer",
+        "answer": "The performer is a woman.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Jarneia_Richard-Noel_as_Catherine_of_Aragon_in_the_West_End_production_of_Six_at_the_Arts_Theatre,_2019.jpeg",
+        "context": "social_media",
+        "question": "who is the performer",
+        "answer": "The performer is a woman.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Jarneia_Richard-Noel_as_Catherine_of_Aragon_in_the_West_End_production_of_Six_at_the_Arts_Theatre,_2019.jpeg",
+        "context": "social_media",
+        "question": "who is the performer",
+        "answer": "The performer is a woman.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Acro-tcd.jpeg",
+        "context": "news",
+        "question": "Who are these people",
+        "answer": "The people in the image are acrobatic gymnasts. They are performing a balancing act in leotards. The gymnast on top is doing the splits while the gymnast on the bottom is holding the other up in the air.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Acro-tcd.jpeg",
+        "context": "news",
+        "question": "Who are these people",
+        "answer": "The people in the image are acrobatic gymnasts. They are performing a balancing act in leotards. The gymnast on top is doing the splits while the gymnast on the bottom is holding the other up in the air.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Acro-tcd.jpeg",
+        "context": "news",
+        "question": "Who are these people",
+        "answer": "The people in the image are acrobatic gymnasts. They are performing a balancing act in leotards. The gymnast on top is doing the splits while the gymnast on the bottom is holding the other up in the air.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/AntiqueFiskeAquarium.jpeg",
+        "context": "social_media",
+        "question": "Is this imagine indoors or outdoors?",
+        "answer": "The image is indoors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/AntiqueFiskeAquarium.jpeg",
+        "context": "social_media",
+        "question": "Is this imagine indoors or outdoors?",
+        "answer": "The image is indoors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/AntiqueFiskeAquarium.jpeg",
+        "context": "social_media",
+        "question": "Is this imagine indoors or outdoors?",
+        "answer": "The image is indoors.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/AntiqueFiskeAquarium.jpeg",
+        "context": "social_media",
+        "question": "Is this imagine indoors or outdoors?",
+        "answer": "The image is indoors.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Stonehenge_(sun).jpeg",
+        "context": "science_journals",
+        "question": "What does Stonehenge look like? ",
+        "answer": "Stonehenge is a prehistoric monument located in Wiltshire, England. It is made up of a ring of standing stones, each weighing around 25 tons, and is surrounded by a circular ditch and bank. The stones are believed to have been erected around 2500 BCE, and are thought to have been used for religious and ceremonial purposes. The monument is a UNESCO World Heritage Site and attracts thousands of visitors each year.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Stonehenge_(sun).jpeg",
+        "context": "science_journals",
+        "question": "What does Stonehenge look like? ",
+        "answer": "Stonehenge is a prehistoric monument located in Wiltshire, England. It is made up of a ring of standing stones, each weighing around 25 tons, and is surrounded by a circular ditch and bank. The stones are believed to have been erected around 2500 BCE, and are thought to have been used for religious and ceremonial purposes. The monument is a UNESCO World Heritage Site and attracts thousands of visitors each year.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Stonehenge_(sun).jpeg",
+        "context": "science_journals",
+        "question": "What does Stonehenge look like? ",
+        "answer": "Stonehenge is a prehistoric monument located in Wiltshire, England. It is made up of a ring of standing stones, each weighing around 25 tons, and is surrounded by a circular ditch and bank. The stones are believed to have been erected around 2500 BCE, and are thought to have been used for religious and ceremonial purposes. The monument is a UNESCO World Heritage Site and attracts thousands of visitors each year.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Porcupine_(5670622729).jpeg",
+        "context": "travel",
+        "question": "Is the porcupine reacting to anything visible within the image?",
+        "answer": "No, the porcupine is not reacting to anything visible within the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Porcupine_(5670622729).jpeg",
+        "context": "travel",
+        "question": "Is the porcupine reacting to anything visible within the image?",
+        "answer": "No, the porcupine is not reacting to anything visible within the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Porcupine_(5670622729).jpeg",
+        "context": "travel",
+        "question": "Is the porcupine reacting to anything visible within the image?",
+        "answer": "No, the porcupine is not reacting to anything visible within the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do the participants appear to be.",
+        "answer": "The participants appear to be middle-aged.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do the participants appear to be.",
+        "answer": "The participants appear to be middle-aged.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do the participants appear to be.",
+        "answer": "The participants appear to be middle-aged.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do the participants appear to be.",
+        "answer": "The participants appear to be middle-aged.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/330px-Zohre_Esmaeli_1.jpeg",
+        "context": "shopping",
+        "question": "What is the approximate size of the model?",
+        "answer": "The approximate size of the model is small.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/330px-Zohre_Esmaeli_1.jpeg",
+        "context": "shopping",
+        "question": "What is the approximate size of the model?",
+        "answer": "The approximate size of the model is small.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/330px-Zohre_Esmaeli_1.jpeg",
+        "context": "shopping",
+        "question": "What is the approximate size of the model?",
+        "answer": "The approximate size of the model is small.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "news",
+        "question": "What color is the glow of the corona in the image?",
+        "answer": "The glow of the corona in the image is white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "news",
+        "question": "What color is the glow of the corona in the image?",
+        "answer": "The glow of the corona in the image is white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "news",
+        "question": "What color is the glow of the corona in the image?",
+        "answer": "The glow of the corona in the image is white.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "news",
+        "question": "What color is the glow of the corona in the image?",
+        "answer": "The glow of the corona in the image is white.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
+        "context": "science_journals",
+        "question": "Is the Jules Verne manuscript open or closed?",
+        "answer": "The Jules Verne manuscript is closed.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
+        "context": "science_journals",
+        "question": "Is the Jules Verne manuscript open or closed?",
+        "answer": "The Jules Verne manuscript is closed.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
+        "context": "science_journals",
+        "question": "Is the Jules Verne manuscript open or closed?",
+        "answer": "The Jules Verne manuscript is closed.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "what time of year is it",
+        "answer": "The image shows the South Pole in the middle of winter, which is the coldest time of the year. The snow is deep and the temperatures are extremely low, making it difficult for humans to survive. The American flag and the sign marking the South Pole are the only visible signs of human presence in this vast, snowy expanse.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "what time of year is it",
+        "answer": "The image shows the South Pole in the middle of winter, which is the coldest time of the year. The snow is deep and the temperatures are extremely low, making it difficult for humans to survive. The American flag and the sign marking the South Pole are the only visible signs of human presence in this vast, snowy expanse.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "what time of year is it",
+        "answer": "The image shows the South Pole in the middle of winter, which is the coldest time of the year. The snow is deep and the temperatures are extremely low, making it difficult for humans to survive. The American flag and the sign marking the South Pole are the only visible signs of human presence in this vast, snowy expanse.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "",
+        "q2_other": "Can't be determined exactly from the picture."
+    },
+    {
+        "image": "images/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "question": "what time of year is it",
+        "answer": "The image shows the South Pole in the middle of winter, which is the coldest time of the year. The snow is deep and the temperatures are extremely low, making it difficult for humans to survive. The American flag and the sign marking the South Pole are the only visible signs of human presence in this vast, snowy expanse.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+        "context": "travel",
+        "question": "what is the layout like?",
+        "answer": "The layout of the shopping arcade is a long hallway with luxury storefronts on both sides. The ceiling is made of glass, allowing natural light to filter in. The ornate lamps hanging from the ceiling add to the opulence of the space.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+        "context": "travel",
+        "question": "what is the layout like?",
+        "answer": "The layout of the shopping arcade is a long hallway with luxury storefronts on both sides. The ceiling is made of glass, allowing natural light to filter in. The ornate lamps hanging from the ceiling add to the opulence of the space.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+        "context": "travel",
+        "question": "what is the layout like?",
+        "answer": "The layout of the shopping arcade is a long hallway with luxury storefronts on both sides. The ceiling is made of glass, allowing natural light to filter in. The ornate lamps hanging from the ceiling add to the opulence of the space.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+        "context": "travel",
+        "question": "what is the layout like?",
+        "answer": "The layout of the shopping arcade is a long hallway with luxury storefronts on both sides. The ceiling is made of glass, allowing natural light to filter in. The ornate lamps hanging from the ceiling add to the opulence of the space.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "Why are they in space?",
+        "answer": "I cannot determine the reason why the astronaut is in space from the image description provided. however, it is possible that the astronaut is on a space mission, conducting scientific research, or participating in a spacewalk.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "Why are they in space?",
+        "answer": "I cannot determine the reason why the astronaut is in space from the image description provided. however, it is possible that the astronaut is on a space mission, conducting scientific research, or participating in a spacewalk.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "Why are they in space?",
+        "answer": "I cannot determine the reason why the astronaut is in space from the image description provided. however, it is possible that the astronaut is on a space mission, conducting scientific research, or participating in a spacewalk.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "Why are they in space?",
+        "answer": "I cannot determine the reason why the astronaut is in space from the image description provided. however, it is possible that the astronaut is on a space mission, conducting scientific research, or participating in a spacewalk.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
+        "context": "science_journals",
+        "question": "What kind of green?",
+        "answer": "The green color in the image is likely due to the reflection of sunlight off of the water in the rivers. The green color is a result of the presence of algae and other microorganisms in the water.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
+        "context": "science_journals",
+        "question": "What kind of green?",
+        "answer": "The green color in the image is likely due to the reflection of sunlight off of the water in the rivers. The green color is a result of the presence of algae and other microorganisms in the water.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
+        "context": "science_journals",
+        "question": "What kind of green?",
+        "answer": "The green color in the image is likely due to the reflection of sunlight off of the water in the rivers. The green color is a result of the presence of algae and other microorganisms in the water.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
+        "context": "science_journals",
+        "question": "What kind of green?",
+        "answer": "The green color in the image is likely due to the reflection of sunlight off of the water in the rivers. The green color is a result of the presence of algae and other microorganisms in the water.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Kendall_hat_2017.jpeg",
+        "context": "news",
+        "question": "who is the person in the image and what is the context of his appearance on the news website.",
+        "answer": "The person in the image is a young man, possibly a teenager, who is wearing a cap and a dark sweater. He appears to be looking thoughtfully into the distance. The context of his appearance on the news website is unclear, but it could be related to a recent event or a personal story that the website is covering.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Kendall_hat_2017.jpeg",
+        "context": "news",
+        "question": "who is the person in the image and what is the context of his appearance on the news website.",
+        "answer": "The person in the image is a young man, possibly a teenager, who is wearing a cap and a dark sweater. He appears to be looking thoughtfully into the distance. The context of his appearance on the news website is unclear, but it could be related to a recent event or a personal story that the website is covering.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Kendall_hat_2017.jpeg",
+        "context": "news",
+        "question": "who is the person in the image and what is the context of his appearance on the news website.",
+        "answer": "The person in the image is a young man, possibly a teenager, who is wearing a cap and a dark sweater. He appears to be looking thoughtfully into the distance. The context of his appearance on the news website is unclear, but it could be related to a recent event or a personal story that the website is covering.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Thanin_market_platu.jpeg",
+        "context": "health",
+        "question": "What type of fish?",
+        "answer": "Mackerel",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Thanin_market_platu.jpeg",
+        "context": "health",
+        "question": "What type of fish?",
+        "answer": "Mackerel",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Thanin_market_platu.jpeg",
+        "context": "health",
+        "question": "What type of fish?",
+        "answer": "Mackerel",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "travel",
+        "question": "is this a forest",
+        "answer": "Yes, this is a forest.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "travel",
+        "question": "is this a forest",
+        "answer": "Yes, this is a forest.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "travel",
+        "question": "is this a forest",
+        "answer": "Yes, this is a forest.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "question": "is the picture black and white or in color",
+        "answer": "The picture is in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "question": "is the picture black and white or in color",
+        "answer": "The picture is in color.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "question": "is the picture black and white or in color",
+        "answer": "The picture is in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "question": "is the picture black and white or in color",
+        "answer": "The picture is in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Evgenia_Kanaeva_2012_in_Hard.jpeg",
+        "context": "shopping",
+        "question": "What does this have to do with shopping?",
+        "answer": "This image is not related to shopping. It is a picture of a rhythmic gymnast performing in front of a large crowd.",
+        "q1": "",
+        "q1_other": "The answer is incorrect",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Evgenia_Kanaeva_2012_in_Hard.jpeg",
+        "context": "shopping",
+        "question": "What does this have to do with shopping?",
+        "answer": "This image is not related to shopping. It is a picture of a rhythmic gymnast performing in front of a large crowd.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/340px-Evgenia_Kanaeva_2012_in_Hard.jpeg",
+        "context": "shopping",
+        "question": "What does this have to do with shopping?",
+        "answer": "This image is not related to shopping. It is a picture of a rhythmic gymnast performing in front of a large crowd.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
+        "context": "news",
+        "question": "How large is the rock?",
+        "answer": "The rock is approximately 10 feet in length.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
+        "context": "news",
+        "question": "How large is the rock?",
+        "answer": "The rock is approximately 10 feet in length.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
+        "context": "news",
+        "question": "How large is the rock?",
+        "answer": "The rock is approximately 10 feet in length.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
+        "context": "news",
+        "question": "How large is the rock?",
+        "answer": "The rock is approximately 10 feet in length.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpeg",
+        "context": "travel",
+        "question": "Do people tour this place?",
+        "answer": "Yes, people do tour this place.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpeg",
+        "context": "travel",
+        "question": "Do people tour this place?",
+        "answer": "Yes, people do tour this place.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpeg",
+        "context": "travel",
+        "question": "Do people tour this place?",
+        "answer": "Yes, people do tour this place.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Astronauts_in_weightlessness.jpeg",
+        "context": "news",
+        "question": "What organization do the blue uniforms represent?",
+        "answer": "The blue uniforms represent NASA.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Astronauts_in_weightlessness.jpeg",
+        "context": "news",
+        "question": "What organization do the blue uniforms represent?",
+        "answer": "The blue uniforms represent NASA.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Astronauts_in_weightlessness.jpeg",
+        "context": "news",
+        "question": "What organization do the blue uniforms represent?",
+        "answer": "The blue uniforms represent NASA.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Astronauts_in_weightlessness.jpeg",
+        "context": "news",
+        "question": "What organization do the blue uniforms represent?",
+        "answer": "The blue uniforms represent NASA.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Astronauts_in_weightlessness.jpeg",
+        "context": "news",
+        "question": "What organization do the blue uniforms represent?",
+        "answer": "The blue uniforms represent NASA.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/USMC-Rich_Froning_Jr.jpeg",
+        "context": "health",
+        "question": "Is the swimmer male or female?",
+        "answer": "The swimmer is male.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/USMC-Rich_Froning_Jr.jpeg",
+        "context": "health",
+        "question": "Is the swimmer male or female?",
+        "answer": "The swimmer is male.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/USMC-Rich_Froning_Jr.jpeg",
+        "context": "health",
+        "question": "Is the swimmer male or female?",
+        "answer": "The swimmer is male.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BCRL.jpeg",
+        "context": "social_media",
+        "question": "Who is the older woman?",
+        "answer": "The older woman is the one being assisted with weightlifting.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BCRL.jpeg",
+        "context": "social_media",
+        "question": "Who is the older woman?",
+        "answer": "The older woman is the one being assisted with weightlifting.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BCRL.jpeg",
+        "context": "social_media",
+        "question": "Who is the older woman?",
+        "answer": "The older woman is the one being assisted with weightlifting.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Ceremonia_del_Grito_de_Independencia_2023_-_3.jpeg",
+        "context": "news",
+        "question": "What specifically is this night time celebration for?",
+        "answer": "The night time celebration is for a political rally.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Ceremonia_del_Grito_de_Independencia_2023_-_3.jpeg",
+        "context": "news",
+        "question": "What specifically is this night time celebration for?",
+        "answer": "The night time celebration is for a political rally.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Ceremonia_del_Grito_de_Independencia_2023_-_3.jpeg",
+        "context": "news",
+        "question": "What specifically is this night time celebration for?",
+        "answer": "The night time celebration is for a political rally.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/P-51_Mustang_edit1.jpeg",
+        "context": "social_media",
+        "question": "Where was it taken",
+        "answer": "The image was taken from the cockpit of the P-51 Mustang aircraft.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/P-51_Mustang_edit1.jpeg",
+        "context": "social_media",
+        "question": "Where was it taken",
+        "answer": "The image was taken from the cockpit of the P-51 Mustang aircraft.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/P-51_Mustang_edit1.jpeg",
+        "context": "social_media",
+        "question": "Where was it taken",
+        "answer": "The image was taken from the cockpit of the P-51 Mustang aircraft.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+        "context": "science_journals",
+        "question": "indoor or out door",
+        "answer": "The image shows a scientist working indoors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+        "context": "science_journals",
+        "question": "indoor or out door",
+        "answer": "The image shows a scientist working indoors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+        "context": "science_journals",
+        "question": "indoor or out door",
+        "answer": "The image shows a scientist working indoors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Tyra_Banks(Cannes).jpeg",
+        "context": "social_media",
+        "question": "where is the location at?",
+        "answer": "The location is outdoors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Tyra_Banks(Cannes).jpeg",
+        "context": "social_media",
+        "question": "where is the location at?",
+        "answer": "The location is outdoors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Tyra_Banks(Cannes).jpeg",
+        "context": "social_media",
+        "question": "where is the location at?",
+        "answer": "The location is outdoors.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
+        "context": "news",
+        "question": "What country is the space shuttle from?",
+        "answer": "The space shuttle is from the United States.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
+        "context": "news",
+        "question": "What country is the space shuttle from?",
+        "answer": "The space shuttle is from the United States.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
+        "context": "news",
+        "question": "What country is the space shuttle from?",
+        "answer": "The space shuttle is from the United States.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ShopHouse_lunch_bowl.jpeg",
+        "context": "shopping",
+        "question": "What is on the fast food on the cup",
+        "answer": "The fast food on the cup is a drink.",
+        "q1": "",
+        "q1_other": "The questions is unclear and difficult to answer",
+        "q2": "",
+        "q2_other": "unclear"
+    },
+    {
+        "image": "images/440px-ShopHouse_lunch_bowl.jpeg",
+        "context": "shopping",
+        "question": "What is on the fast food on the cup",
+        "answer": "The fast food on the cup is a drink.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-ShopHouse_lunch_bowl.jpeg",
+        "context": "shopping",
+        "question": "What is on the fast food on the cup",
+        "answer": "The fast food on the cup is a drink.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Souk_in_Tunisia_1.jpeg",
+        "context": "social_media",
+        "question": "What kind of city do you think they are in?",
+        "answer": "Based on the image, I would say that they are in a city in the Middle East or North Africa. The market street is lined with stalls selling clothing, bags, and traditional goods, which is a common sight in these regions. Additionally, the architecture and the style of the buildings in the background also suggest that this is a city in the Middle East or North Africa.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Souk_in_Tunisia_1.jpeg",
+        "context": "social_media",
+        "question": "What kind of city do you think they are in?",
+        "answer": "Based on the image, I would say that they are in a city in the Middle East or North Africa. The market street is lined with stalls selling clothing, bags, and traditional goods, which is a common sight in these regions. Additionally, the architecture and the style of the buildings in the background also suggest that this is a city in the Middle East or North Africa.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Souk_in_Tunisia_1.jpeg",
+        "context": "social_media",
+        "question": "What kind of city do you think they are in?",
+        "answer": "Based on the image, I would say that they are in a city in the Middle East or North Africa. The market street is lined with stalls selling clothing, bags, and traditional goods, which is a common sight in these regions. Additionally, the architecture and the style of the buildings in the background also suggest that this is a city in the Middle East or North Africa.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Koukouvagia.jpeg",
+        "context": "travel",
+        "question": "What kind of bread is on the plate?",
+        "answer": "The bread on the plate is pita bread.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Koukouvagia.jpeg",
+        "context": "travel",
+        "question": "What kind of bread is on the plate?",
+        "answer": "The bread on the plate is pita bread.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Koukouvagia.jpeg",
+        "context": "travel",
+        "question": "What kind of bread is on the plate?",
+        "answer": "The bread on the plate is pita bread.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Shaki_Waterfall2.jpeg",
+        "context": "health",
+        "question": "Are there any people around?",
+        "answer": "No, there are no people visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Shaki_Waterfall2.jpeg",
+        "context": "health",
+        "question": "Are there any people around?",
+        "answer": "No, there are no people visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Shaki_Waterfall2.jpeg",
+        "context": "health",
+        "question": "Are there any people around?",
+        "answer": "No, there are no people visible in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Reformer_apparatus_pilates_london.jpeg",
+        "context": "shopping",
+        "question": "Are there people in the images who are using the equipment ? ",
+        "answer": "Yes, there are people in the images who are using the equipment.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Reformer_apparatus_pilates_london.jpeg",
+        "context": "shopping",
+        "question": "Are there people in the images who are using the equipment ? ",
+        "answer": "Yes, there are people in the images who are using the equipment.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "",
+        "q2_other": "Question cannot be answered without external knowlege of the event at the exact time pf the photograph "
+    },
+    {
+        "image": "images/Reformer_apparatus_pilates_london.jpeg",
+        "context": "shopping",
+        "question": "Are there people in the images who are using the equipment ? ",
+        "answer": "Yes, there are people in the images who are using the equipment.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Green_brocade_silk_saree.jpeg",
+        "context": "social_media",
+        "question": "Where is she (geographically)?",
+        "answer": "The woman in the image is wearing a green sari with gold details and posing beside a red pot on a green backdrop. Unfortunately, the image description does not provide any information about the geographical location of the woman.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Green_brocade_silk_saree.jpeg",
+        "context": "social_media",
+        "question": "Where is she (geographically)?",
+        "answer": "The woman in the image is wearing a green sari with gold details and posing beside a red pot on a green backdrop. Unfortunately, the image description does not provide any information about the geographical location of the woman.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Green_brocade_silk_saree.jpeg",
+        "context": "social_media",
+        "question": "Where is she (geographically)?",
+        "answer": "The woman in the image is wearing a green sari with gold details and posing beside a red pot on a green backdrop. Unfortunately, the image description does not provide any information about the geographical location of the woman.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    }
+]
