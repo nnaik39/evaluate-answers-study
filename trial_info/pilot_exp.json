@@ -57,6 +57,20 @@ var main_trials = {
             "answer": "Based on the image description, it is not possible to determine whether the jellyfish are in the ocean or in a tank."
         },
         {
+            "filename": "images/STS-130_Endeavour_flyaround_5.jpeg",
+            "category": "news",
+            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
+            "question": "What colors are in the image.",
+            "answer": "The image is in black and white."
+        },
+        {
+            "filename": "images/Priyanka_Chopra_2003.jpeg",
+            "category": "news",
+            "description": "Actress Priyanka Chopra in traditional attire, wearing a blue dress with brightly colored beads.\n",
+            "question": "Color of the beads",
+            "answer": "The beads are brightly colored."
+        },
+        {
             "filename": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
             "category": "shopping",
             "description": "Village with vineyards, a church, and many trees.\n",
