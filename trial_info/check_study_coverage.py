@@ -1,6 +1,6 @@
 import json 
 
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (5).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (6).json'))
 pilot_exp = json.load(open('pilot_exp.json'))
 
 all_original_answers = json.load(open('all_answers.json'))
@@ -46,10 +46,9 @@ for (img, ctxt, q) in coverage_pair:
     if (len(coverage_pair[(img, ctxt, q)]) >= 3):
         num_covered += 1
 
-        print("Coverage pair: ", coverage_pair)
+#        print("Coverage pair: ", coverage_pair)
         for i in range(0, len(coverage_pair[(img, ctxt, q)])):
-            print("ith coverage pair: ", coverage_pair[(img, ctxt, q)][i])
-
+#            print("ith coverage pair: ", coverage_pair[(img, ctxt, q)][i])
             collected_datapoints.append({
                 'image': img,
                 'context': ctxt,
@@ -64,7 +63,6 @@ for (img, ctxt, q) in coverage_pair:
         new_pilot_exp['images'].append(pilot_exp_entry)
 
 for answer in all_original_answers:
-    # If it's not in the coverage pair, then add it!
     found = False 
 
     for (img, ctxt, q) in coverage_pair:
