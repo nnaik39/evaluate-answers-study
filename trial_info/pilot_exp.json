@@ -1,41 +1,6 @@
 var main_trials = {
     "images": [
         {
-            "filename": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-            "category": "social_media",
-            "description": "A group of people are working out on indoor rowing machines at a gym.",
-            "question": "What kind of clothes are they wearing?",
-            "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings."
-        },
-        {
-            "filename": "images/Light_Therapy_for_SAD.jpeg",
-            "category": "health",
-            "description": "An elderly person reading a book under a light therapy lamp.\n",
-            "question": "what are they doing there",
-            "answer": "They are reading a book under a light therapy lamp."
-        },
-        {
-            "filename": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
-            "category": "travel",
-            "description": "People in traditional Mexican outfits marching in a parade.\n",
-            "question": "how many people are celebrating ",
-            "answer": "There are 10 people celebrating in the image."
-        },
-        {
-            "filename": "images/240px-Chace_Crawford.jpeg",
-            "category": "social_media",
-            "description": "A young man in a suit with a slim tie gives a side glance, sporting styled hair and slight stubble.\n",
-            "question": "What type of shoes is here wearing?\n",
-            "answer": "The person in the image is wearing dress shoes."
-        },
-        {
-            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
-            "category": "shopping",
-            "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
-            "question": "What is the brand of the attire they're wearing?",
-            "answer": "I cannot determine the brand of the attire from the image description provided."
-        },
-        {
             "filename": "images/Halved_blackberry_(Rubus_fruticosus).jpeg",
             "category": "health",
             "description": "Half a blackberry covered in shiny black droplets.\n",
@@ -48,76 +13,6 @@ var main_trials = {
             "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
             "question": "what is the subject doing",
             "answer": "The subject is hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
-        },
-        {
-            "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
-            "category": "science_journals",
-            "description": "Two translucent jellyfish floating in blue water.\n",
-            "question": "Are they in the ocean or in a tank?",
-            "answer": "Based on the image description, it is not possible to determine whether the jellyfish are in the ocean or in a tank."
-        },
-        {
-            "filename": "images/STS-130_Endeavour_flyaround_5.jpeg",
-            "category": "news",
-            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-            "question": "What colors are in the image.",
-            "answer": "The image is in black and white."
-        },
-        {
-            "filename": "images/Priyanka_Chopra_2003.jpeg",
-            "category": "news",
-            "description": "Actress Priyanka Chopra in traditional attire, wearing a blue dress with brightly colored beads.\n",
-            "question": "Color of the beads",
-            "answer": "The beads are brightly colored."
-        },
-        {
-            "filename": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
-            "category": "shopping",
-            "description": "Village with vineyards, a church, and many trees.\n",
-            "question": "What does it look like?",
-            "answer": "The village appears to be a quaint and charming place with a mix of old and new architecture. The vineyards are lush and green, and the church is a beautiful white building that stands out against the surrounding landscape. The trees are tall and provide a sense of tranquility to the scene."
-        },
-        {
-            "filename": "images/STS-130_Endeavour_flyaround_5.jpeg",
-            "category": "science_journals",
-            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-            "question": "What color is the space station?",
-            "answer": "The space station is white in color."
-        },
-        {
-            "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "travel",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "What are they wearing?",
-            "answer": "The people in the image are wearing yoga clothes."
-        },
-        {
-            "filename": "images/Macquarium.jpeg",
-            "category": "shopping",
-            "description": "Old Macintosh Classic II computer monitor repurposed as an aquarium or terrarium. Inside are orange and green decorative items.\n",
-            "question": "What are the green and orange decorative items in the old Mac?",
-            "answer": "The green and orange decorative items in the old Mac are sea shells."
-        },
-        {
-            "filename": "images/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "category": "travel",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
-            "question": "What boy of water is this?",
-            "answer": "This is a coral reef."
-        },
-        {
-            "filename": "images/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "What is he waiting to take a picture of?",
-            "answer": "The photographer is waiting to take a picture of a bird that is perched on a branch."
-        },
-        {
-            "filename": "images/Catedral_Arequipa,_Peru.jpeg",
-            "category": "travel",
-            "description": "A majestic cathedral with two towering spires against a clear sky with people outside\n",
-            "question": "What kind of church is this?",
-            "answer": "This is a cathedral."
         },
         {
             "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
@@ -134,20 +29,6 @@ var main_trials = {
             "answer": "The bodysuits are black and have a sleek, modern design. They are made of a shiny material and have a streamlined appearance."
         },
         {
-            "filename": "images/Camisade_puno_doble.jpeg",
-            "category": "social_media",
-            "description": "A new folded dress shirt with double cuffs.\n",
-            "question": "What types of events is the shirt appropriate for?",
-            "answer": "The shirt is appropriate for formal events such as weddings, business meetings, and other professional settings."
-        },
-        {
-            "filename": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
-            "category": "shopping",
-            "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
-            "question": "Why are people skydiving",
-            "answer": "The people in the image are skydiving because they are participating in a sport or recreational activity. Skydiving is a popular activity that involves jumping from an aircraft and freefalling before deploying a parachute to slow down and land safely. Skydivers often jump in groups, and the formation seen in the image is a common way to organize skydivers during a jump. The formation helps to create a visually impressive display and can also make it easier for skydivers to communicate with each other while in the air."
-        },
-        {
             "filename": "images/Shinto_married_couple.jpeg",
             "category": "social_media",
             "description": "Traditional Japanese wedding couple in front of a temple.\n",
@@ -155,25 +36,11 @@ var main_trials = {
             "answer": "The theme for the wedding is traditional Japanese."
         },
         {
-            "filename": "images/500px-Master_Scott_Leonard.jpeg",
-            "category": "health",
-            "description": "A martial artist performing a high kick during a martial arts demonstration, assisted by a trainer in front of young students.\n",
-            "question": "What is the person's age?",
-            "answer": "The person is a young adult."
-        },
-        {
             "filename": "images/Electric_kettle.jpeg",
             "category": "health",
             "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
             "question": "What are they making with the water?",
             "answer": "The person is making tea with the water in the electric kettle."
-        },
-        {
-            "filename": "images/440px-Reverse_5391.jpeg",
-            "category": "health",
-            "description": "A man executing a dive backwards into a swimming pool. \n",
-            "question": "What is the man wearing?",
-            "answer": "The man is wearing a swimsuit."
         },
         {
             "filename": "images/100px-Crinoid_on_the_reef_of_Batu_Moncho_Island_(cropped).jpeg",
@@ -184,24 +51,10 @@ var main_trials = {
         },
         {
             "filename": "images/Wdomenada2003b.jpeg",
-            "category": "travel",
-            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-            "question": "Are their trees or bushes in the area where they are skiing?",
-            "answer": "Yes, there are trees and bushes in the area where they are skiing."
-        },
-        {
-            "filename": "images/Wdomenada2003b.jpeg",
             "category": "shopping",
             "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
             "question": "Are the people male or female?",
             "answer": "The people in the image are male and female."
-        },
-        {
-            "filename": "images/ISS-38_EVA-1_Laptops.jpeg",
-            "category": "science_journals",
-            "description": "Laptops and equipment floating roughly in the microgravity of a space station.\n",
-            "question": "Are astronauts in the photo?",
-            "answer": "No, there are no astronauts in the photo."
         },
         {
             "filename": "images/Gluehlampe_01_KMJ.png",
@@ -218,109 +71,11 @@ var main_trials = {
             "answer": "Yes, there are other people in the image."
         },
         {
-            "filename": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
-            "category": "health",
-            "description": "Plate of vegetables and herbs including beans, lettuce, mint, and cucumber paired with a kind of brown dipping sauce or marinade. \n",
-            "question": "Is the spread on a plate or on the table?",
-            "answer": "The spread is on a plate."
-        },
-        {
-            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-            "category": "social_media",
-            "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "Does the picture appear to be a sponsor for something?",
-            "answer": "No, the picture does not appear to be a sponsor for anything."
-        },
-        {
-            "filename": "images/440px-Ashley_Graham_2018.png",
-            "category": "shopping",
-            "description": "A woman with brown hair in a white top.\n",
-            "question": "What style is the top?",
-            "answer": "The top is a white tank top."
-        },
-        {
-            "filename": "images/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "How is the weather and environment?",
-            "answer": "The image description does not provide enough information to accurately determine the weather and environment."
-        },
-        {
-            "filename": "images/Lilyfruit.jpeg",
-            "category": "science_journals",
-            "description": "A close-up of a green lily bud.\n",
-            "question": "is there anything else in the image?",
-            "answer": "The image description does not provide any information about other objects in the image. Therefore, it is not possible to determine if there are any other objects in the image."
-        },
-        {
-            "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "What do the people look like?",
-            "answer": "The people in the image are all women. They are wearing various types of clothing, including yoga pants, shorts, and tank tops. Some of them have their hair tied back in ponytails or buns, while others have their hair down."
-        },
-        {
-            "filename": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
-            "category": "shopping",
-            "description": "A tranquil meditation room with tatami mats and black cushions arranged neatly with a purple cushion alone in the middle of the room.\n",
-            "question": "Does the room look like it has been used recently?",
-            "answer": "The room looks like it has been used recently."
-        },
-        {
-            "filename": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
-            "category": "social_media",
-            "description": "George W. Bush speaking to a football team.\n",
-            "question": "Why is President Bush speaking to this football team?",
-            "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone."
-        },
-        {
-            "filename": "images/440px-Piranha1.jpeg",
-            "category": "travel",
-            "description": "Several large, shimmering piranhas in an aquarium with a dark backdrop.\n",
-            "question": "Are piranhas found in this specific location? ",
-            "answer": "No, piranhas are not found in this specific location."
-        },
-        {
             "filename": "images/440px-Carrots_are_up_(2634523693).jpeg",
             "category": "health",
             "description": "Small green carrot sprouts emerging from brown soil.\n",
             "question": "Are they planted in the ground or in a planter?",
             "answer": "The carrot sprouts are planted in the ground."
-        },
-        {
-            "filename": "images/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-            "category": "travel",
-            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
-            "question": "Where are these temples located?",
-            "answer": "The temples are located in Myanmar, also known as Burma."
-        },
-        {
-            "filename": "images/440px-Grand_Cascade_in_Peterhof_01.jpeg",
-            "category": "travel",
-            "description": "The Grand Cascade fountain at Peterhof with golden statues.\n",
-            "question": "What do the golden statues look like?",
-            "answer": "The golden statues are of various figures, including animals and mythical creatures, and are intricately designed with detailed features and ornate clothing."
-        },
-        {
-            "filename": "images/200px-2010_Run_to_the_Sun_Fashion_Show_in_Anchorage_Alaska_11.jpeg",
-            "category": "social_media",
-            "description": "A woman posing in a brown halter-neck dress and a bright pink flower in her hair.\n",
-            "question": "What is happening in the background of the image?",
-            "answer": "The woman is standing in front of a brown background."
-        },
-        {
-            "filename": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
-            "category": "health",
-            "description": "A bunch of fresh carrots with greens attached.\n",
-            "question": "What are the attached greens?",
-            "answer": "The attached greens are likely to be chervil, which is a type of herb that is commonly used in cooking."
-        },
-        {
-            "filename": "images/Duchess_of_Cambridge_in_June_2013.jpeg",
-            "category": "shopping",
-            "description": "A pregnant Princess of Whales in her gorgeous pink suit.\n",
-            "question": "What style is the suit? ",
-            "answer": "The suit is a pink suit."
         },
         {
             "filename": "images/MAN_TGX_18.640_XXL_Modell_2020_Fahrerhaus.jpg",
@@ -330,32 +85,11 @@ var main_trials = {
             "answer": "The driver of the truck is a man."
         },
         {
-            "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "What pose are they doing?",
-            "answer": "The people in the image are doing yoga poses."
-        },
-        {
             "filename": "images/440px-Therme_Bad_Aibling.jpeg",
             "category": "shopping",
             "description": "A dome-shaped building with a reflective pool at twilight, showcasing modern design.\n",
             "question": "Where is the building",
             "answer": "The building is a modern dome-shaped structure with a reflective pool at twilight. It is located in a residential area."
-        },
-        {
-            "filename": "images/440px-BeverlyHilton01.jpeg",
-            "category": "shopping",
-            "description": "The entrance of the Beverly Hilton hotel with a Hilton sign next to the driveway, landscaped trees on both sides of the driveway, and a clear blue sky.\n",
-            "question": "Is the building large?",
-            "answer": "Yes, the building is large."
-        },
-        {
-            "filename": "images/Hobby_Fotografen_(_Chobe_2018).jpeg",
-            "category": "social_media",
-            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
-            "question": "Are they scared?",
-            "answer": "I cannot determine the emotions of the people in the image. however, based on the image description, it seems like they are not scared as they are seated under a canopy on a flatboat tour, cruising close to a riverbank."
         },
         {
             "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
@@ -372,25 +106,11 @@ var main_trials = {
             "answer": "The backdrop to this image is a dark stage with bright lights shining on the performer."
         },
         {
-            "filename": "images/440px-Progress_M-14M.jpeg",
-            "category": "science_journals",
-            "description": "A spacecraft with solar panels against the backdrop of Earth's atmosphere.\n",
-            "question": "Where is the image",
-            "answer": "The image is of a spacecraft with solar panels against the backdrop of Earth's atmosphere."
-        },
-        {
             "filename": "images/Sprouting_mung_beans_in_a_jar.jpeg",
             "category": "health",
             "description": "Green mung beans sprouting inside a jar. The jar is tilted downward. The jar has a green lid.\n",
             "question": "What color is the jar?",
             "answer": "The jar is green."
-        },
-        {
-            "filename": "images/Blackberry_(Rubus_fruticosus).jpeg",
-            "category": "health",
-            "description": "A close-up of a juicy blackberry.\n",
-            "question": "how can incorporating blackberries into my diet help improve my overall health and well-being?\n",
-            "answer": "Blackberries are a great source of antioxidants, vitamins, and fiber. They can help improve heart health, reduce inflammation, and support digestive health. Incorporating blackberries into your diet can also help you maintain a healthy weight and reduce the risk of chronic diseases such as diabetes and cancer."
         },
         {
             "filename": "images/Rabanne.jpeg",
@@ -428,13 +148,6 @@ var main_trials = {
             "answer": "The person in the image is not an instructor."
         },
         {
-            "filename": "images/440px-Christmas_cake,_Boxing_Day_2008.jpeg",
-            "category": "shopping",
-            "description": "A white Christmas cake with \u201cMerry Christmas\u201d written on top, adorned with a small present decoration.\n",
-            "question": "What kind of cake is it?",
-            "answer": "The cake is a Christmas cake."
-        },
-        {
             "filename": "images/Dior_denver_art1.jpeg",
             "category": "social_media",
             "description": "A mannequin wearing a stylish Dior ensemble with a wide-brimmed hat, white jacket, and black skirt. The outfit is brought together by black retro heels. \n",
@@ -449,11 +162,25 @@ var main_trials = {
             "answer": "There are two rotis on the side of the bowl of Thai green curry with chicken."
         },
         {
-            "filename": "images/Langfardsskridskoakning.jpeg",
-            "category": "travel",
-            "description": "Skiers trekking across a frozen, snowy landscape.\n",
-            "question": "How many skiers are there?",
-            "answer": "There are three skiers in the image."
+            "filename": "images/400px-Norman_Borlaug.jpeg",
+            "category": "health",
+            "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
+            "question": "how is this relevant to me ",
+            "answer": "This image is not relevant to you."
+        },
+        {
+            "filename": "images/Winnie_Harlow_Cannes_2017.jpeg",
+            "category": "shopping",
+            "description": "Woman with Vitiligo in a stunning blue gown on stairs.\n",
+            "question": "How long is the gown",
+            "answer": "The gown is floor-length."
+        },
+        {
+            "filename": "images/ChipotleBurritoBowl.jpeg",
+            "category": "health",
+            "description": "A burrito bowl with a drink on a wooden table.\n",
+            "question": "What are the nutritional contents of the burrito bowl and drink? Understanding the calorie count, macronutrient profile, and ingredients would help me determine if it aligns with my health goals. ",
+            "answer": "The burrito bowl contains a variety of ingredients, including rice, beans, avocado, tomatoes, and lettuce. The drink is a smoothie made with spinach, banana, and almond milk. The nutritional content of the burrito bowl and drink can be determined by looking at the ingredients and the calorie count. The calorie count of the burrito bowl is approximately 500 calories, and the smoothie has around 200 calories. The macronutrient profile of the burrito bowl is balanced, with a good amount of carbohydrates, protein, and healthy fats. The smoothie is also a good source of protein and healthy fats. The ingredients used in the burrito bowl and smoothie are all healthy and nutritious, making them a good choice for someone looking to maintain a healthy diet."
         },
         {
             "filename": "images/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
@@ -461,13 +188,6 @@ var main_trials = {
             "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
             "question": "Does the lounge come with any additional pillows or cushions?",
             "answer": "I cannot determine if the lounge comes with any additional pillows or cushions based on the image description."
-        },
-        {
-            "filename": "images/400px-Norman_Borlaug.jpeg",
-            "category": "health",
-            "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
-            "question": "how is this relevant to me ",
-            "answer": "This image is not relevant to you."
         },
         {
             "filename": "images/Jungfraujoch_090425.jpeg",
@@ -484,32 +204,11 @@ var main_trials = {
             "answer": "The woman in the image is wearing a hijab, which is a head covering worn by some Muslim women. She is also wearing a light-brown blazer and a white shirt underneath. Behind her is a backdrop with large logos of \"UNICEF\" and \"PANDORA\"."
         },
         {
-            "filename": "images/37044.jpg",
-            "category": "science_journals",
-            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-            "question": "How old does the church look?",
-            "answer": "The church looks very old and has a historical significance. It is a small church that is located on top of a hill and is surrounded by a beautiful landscape. The church has a unique architecture and is a popular tourist attraction."
-        },
-        {
             "filename": "images/510px-Spaltlampe-2.jpeg",
             "category": "health",
             "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
             "question": "What kind of tests are the optometrist performing?",
             "answer": "The optometrist is performing a slit lamp test on the patient's eyes."
-        },
-        {
-            "filename": "images/Winnie_Harlow_Cannes_2017.jpeg",
-            "category": "shopping",
-            "description": "Woman with Vitiligo in a stunning blue gown on stairs.\n",
-            "question": "How long is the gown",
-            "answer": "The gown is floor-length."
-        },
-        {
-            "filename": "images/ChipotleBurritoBowl.jpeg",
-            "category": "health",
-            "description": "A burrito bowl with a drink on a wooden table.\n",
-            "question": "What are the nutritional contents of the burrito bowl and drink? Understanding the calorie count, macronutrient profile, and ingredients would help me determine if it aligns with my health goals. ",
-            "answer": "The burrito bowl contains a variety of ingredients, including rice, beans, avocado, tomatoes, and lettuce. The drink is a smoothie made with spinach, banana, and almond milk. The nutritional content of the burrito bowl and drink can be determined by looking at the ingredients and the calorie count. The calorie count of the burrito bowl is approximately 500 calories, and the smoothie has around 200 calories. The macronutrient profile of the burrito bowl is balanced, with a good amount of carbohydrates, protein, and healthy fats. The smoothie is also a good source of protein and healthy fats. The ingredients used in the burrito bowl and smoothie are all healthy and nutritious, making them a good choice for someone looking to maintain a healthy diet."
         },
         {
             "filename": "images/440px-Aleksi61wb.jpeg",

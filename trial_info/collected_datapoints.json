@@ -980,6 +980,176 @@
         "q2_other": ""
     },
     {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "",
+        "q1_other": "Incorrect. it is a hummingbird drinking from a flower",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/hummingbird.jpeg",
+        "context": "gardening",
+        "question": "Is the hummingbird drinking from one of the hibiscus flowers?",
+        "answer": "",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
         "context": "science_journals",
         "question": "Are there any intricate designs on the archways, and what color is the building?",
@@ -1005,6 +1175,56 @@
         "question": "Are there any intricate designs on the archways, and what color is the building?",
         "answer": "Yes, there are intricate designs on the archways, and the building is white.",
         "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "question": "What kind of clothes are they wearing?",
+        "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "question": "What kind of clothes are they wearing?",
+        "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "question": "What kind of clothes are they wearing?",
+        "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "question": "What kind of clothes are they wearing?",
+        "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "question": "What kind of clothes are they wearing?",
+        "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings.",
+        "q1": "correct",
         "q1_other": "",
         "q2": "image_required",
         "q2_other": ""
@@ -2105,6 +2325,176 @@
         "question": "What is behind the cottage?",
         "answer": "",
         "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "",
+        "q1_other": "It is incorrect because it is not even close to the picture.",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/house.jpeg",
+        "context": "housing",
+        "question": "What is behind the cottage?",
+        "answer": "",
+        "q1": "wrong",
         "q1_other": "",
         "q2": "image_required",
         "q2_other": ""
@@ -3630,6 +4020,106 @@
         "q2_other": ""
     },
     {
+        "image": "images/Light_Therapy_for_SAD.jpeg",
+        "context": "health",
+        "question": "what are they doing there",
+        "answer": "They are reading a book under a light therapy lamp.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Light_Therapy_for_SAD.jpeg",
+        "context": "health",
+        "question": "what are they doing there",
+        "answer": "They are reading a book under a light therapy lamp.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Light_Therapy_for_SAD.jpeg",
+        "context": "health",
+        "question": "what are they doing there",
+        "answer": "They are reading a book under a light therapy lamp.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Light_Therapy_for_SAD.jpeg",
+        "context": "health",
+        "question": "what are they doing there",
+        "answer": "They are reading a book under a light therapy lamp.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
+        "context": "travel",
+        "question": "how many people are celebrating ",
+        "answer": "There are 10 people celebrating in the image.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
+        "context": "travel",
+        "question": "how many people are celebrating ",
+        "answer": "There are 10 people celebrating in the image.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
+        "context": "travel",
+        "question": "how many people are celebrating ",
+        "answer": "There are 10 people celebrating in the image.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
+        "context": "travel",
+        "question": "how many people are celebrating ",
+        "answer": "There are 10 people celebrating in the image.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
+        "context": "travel",
+        "question": "how many people are celebrating ",
+        "answer": "There are 10 people celebrating in the image.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
+        "context": "travel",
+        "question": "how many people are celebrating ",
+        "answer": "There are 10 people celebrating in the image.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/Fruit_smoothie_(8475314736).png",
         "context": "shopping",
         "question": "Is this website for a place that sells these smoothies, or is it for a company that sells equipment to make them?",
@@ -3670,6 +4160,76 @@
         "q2_other": ""
     },
     {
+        "image": "images/240px-Chace_Crawford.jpeg",
+        "context": "social_media",
+        "question": "What type of shoes is here wearing?\n",
+        "answer": "The person in the image is wearing dress shoes.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/240px-Chace_Crawford.jpeg",
+        "context": "social_media",
+        "question": "What type of shoes is here wearing?\n",
+        "answer": "The person in the image is wearing dress shoes.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "",
+        "q2_other": "The picture does not provide sufficient information to answer the question."
+    },
+    {
+        "image": "images/240px-Chace_Crawford.jpeg",
+        "context": "social_media",
+        "question": "What type of shoes is here wearing?\n",
+        "answer": "The person in the image is wearing dress shoes.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/240px-Chace_Crawford.jpeg",
+        "context": "social_media",
+        "question": "What type of shoes is here wearing?\n",
+        "answer": "The person in the image is wearing dress shoes.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+        "context": "shopping",
+        "question": "What is the brand of the attire they're wearing?",
+        "answer": "I cannot determine the brand of the attire from the image description provided.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+        "context": "shopping",
+        "question": "What is the brand of the attire they're wearing?",
+        "answer": "I cannot determine the brand of the attire from the image description provided.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+        "context": "shopping",
+        "question": "What is the brand of the attire they're wearing?",
+        "answer": "I cannot determine the brand of the attire from the image description provided.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/440px-Bamboo_AngelMist_Mounts_Asit.jpeg",
         "context": "science_journals",
         "question": "Is the bamboo special ?",
@@ -3810,13 +4370,73 @@
         "q2_other": ""
     },
     {
-        "image": "images/360px-Blackberries-6383.jpeg",
-        "context": "health",
-        "question": "What kind of berries are they?",
-        "answer": "The berries in the image are blackberries and raspberries.",
+        "image": "images/Aurelia_aurita_(auge24eu).jpeg",
+        "context": "science_journals",
+        "question": "Are they in the ocean or in a tank?",
+        "answer": "Based on the image description, it is not possible to determine whether the jellyfish are in the ocean or in a tank.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Aurelia_aurita_(auge24eu).jpeg",
+        "context": "science_journals",
+        "question": "Are they in the ocean or in a tank?",
+        "answer": "Based on the image description, it is not possible to determine whether the jellyfish are in the ocean or in a tank.",
         "q1": "correct",
         "q1_other": "",
         "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Aurelia_aurita_(auge24eu).jpeg",
+        "context": "science_journals",
+        "question": "Are they in the ocean or in a tank?",
+        "answer": "Based on the image description, it is not possible to determine whether the jellyfish are in the ocean or in a tank.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
+        "context": "shopping",
+        "question": "What does it look like?",
+        "answer": "The village appears to be a quaint and charming place with a mix of old and new architecture. The vineyards are lush and green, and the church is a beautiful white building that stands out against the surrounding landscape. The trees are tall and provide a sense of tranquility to the scene.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
+        "context": "shopping",
+        "question": "What does it look like?",
+        "answer": "The village appears to be a quaint and charming place with a mix of old and new architecture. The vineyards are lush and green, and the church is a beautiful white building that stands out against the surrounding landscape. The trees are tall and provide a sense of tranquility to the scene.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
+        "context": "shopping",
+        "question": "What does it look like?",
+        "answer": "The village appears to be a quaint and charming place with a mix of old and new architecture. The vineyards are lush and green, and the church is a beautiful white building that stands out against the surrounding landscape. The trees are tall and provide a sense of tranquility to the scene.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
+        "context": "shopping",
+        "question": "What does it look like?",
+        "answer": "The village appears to be a quaint and charming place with a mix of old and new architecture. The vineyards are lush and green, and the church is a beautiful white building that stands out against the surrounding landscape. The trees are tall and provide a sense of tranquility to the scene.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
         "q2_other": ""
     },
     {
@@ -3837,6 +4457,46 @@
         "q1": "correct",
         "q1_other": "",
         "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/360px-Blackberries-6383.jpeg",
+        "context": "health",
+        "question": "What kind of berries are they?",
+        "answer": "The berries in the image are blackberries and raspberries.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "science_journals",
+        "question": "What color is the space station?",
+        "answer": "The space station is white in color.",
+        "q1": "",
+        "q1_other": "I would say the space station is multi-colored.",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "science_journals",
+        "question": "What color is the space station?",
+        "answer": "The space station is white in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "science_journals",
+        "question": "What color is the space station?",
+        "answer": "The space station is white in color.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
         "q2_other": ""
     },
     {
@@ -3980,6 +4640,86 @@
         "q2_other": ""
     },
     {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "question": "What colors are in the image.",
+        "answer": "The image is in black and white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "question": "What colors are in the image.",
+        "answer": "The image is in black and white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "question": "What colors are in the image.",
+        "answer": "The image is in black and white.",
+        "q1": "wrong",
+        "q1_other": "incorrect",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "question": "What colors are in the image.",
+        "answer": "The image is in black and white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "question": "What colors are in the image.",
+        "answer": "The image is in black and white.",
+        "q1": "",
+        "q1_other": "incorrect",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "question": "What colors are in the image.",
+        "answer": "The image is in black and white.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "question": "What colors are in the image.",
+        "answer": "The image is in black and white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "question": "What colors are in the image.",
+        "answer": "The image is in black and white.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/Two_dancers.jpeg",
         "context": "health",
         "question": "What are they using as support?",
@@ -4100,6 +4840,36 @@
         "q2_other": ""
     },
     {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "travel",
+        "question": "What are they wearing?",
+        "answer": "The people in the image are wearing yoga clothes.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "travel",
+        "question": "What are they wearing?",
+        "answer": "The people in the image are wearing yoga clothes.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "travel",
+        "question": "What are they wearing?",
+        "answer": "The people in the image are wearing yoga clothes.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/500px-Backzutaten_041.jpeg",
         "context": "health",
         "question": "What would you bake it in?",
@@ -4230,6 +5000,36 @@
         "q2_other": ""
     },
     {
+        "image": "images/Macquarium.jpeg",
+        "context": "shopping",
+        "question": "What are the green and orange decorative items in the old Mac?",
+        "answer": "The green and orange decorative items in the old Mac are sea shells.",
+        "q1": "",
+        "q1_other": "They are not sea shells",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Macquarium.jpeg",
+        "context": "shopping",
+        "question": "What are the green and orange decorative items in the old Mac?",
+        "answer": "The green and orange decorative items in the old Mac are sea shells.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Macquarium.jpeg",
+        "context": "shopping",
+        "question": "What are the green and orange decorative items in the old Mac?",
+        "answer": "The green and orange decorative items in the old Mac are sea shells.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/Wdomenada2003b.jpeg",
         "context": "travel",
         "question": "What is the appeared gender of the two people?",
@@ -4317,6 +5117,36 @@
         "q1": "correct",
         "q1_other": "",
         "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "travel",
+        "question": "What boy of water is this?",
+        "answer": "This is a coral reef.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "travel",
+        "question": "What boy of water is this?",
+        "answer": "This is a coral reef.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "travel",
+        "question": "What boy of water is this?",
+        "answer": "This is a coral reef.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
         "q2_other": ""
     },
     {
@@ -4500,6 +5330,36 @@
         "q2_other": "The answer can not be determined from the image or description. "
     },
     {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "What is he waiting to take a picture of?",
+        "answer": "The photographer is waiting to take a picture of a bird that is perched on a branch.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "What is he waiting to take a picture of?",
+        "answer": "The photographer is waiting to take a picture of a bird that is perched on a branch.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "What is he waiting to take a picture of?",
+        "answer": "The photographer is waiting to take a picture of a bird that is perched on a branch.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/Acro-tcd.jpeg",
         "context": "news",
         "question": "Who are these people",
@@ -4526,6 +5386,36 @@
         "answer": "The people in the image are acrobatic gymnasts. They are performing a balancing act in leotards. The gymnast on top is doing the splits while the gymnast on the bottom is holding the other up in the air.",
         "q1": "correct",
         "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Catedral_Arequipa,_Peru.jpeg",
+        "context": "travel",
+        "question": "What kind of church is this?",
+        "answer": "This is a cathedral.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Catedral_Arequipa,_Peru.jpeg",
+        "context": "travel",
+        "question": "What kind of church is this?",
+        "answer": "This is a cathedral.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Catedral_Arequipa,_Peru.jpeg",
+        "context": "travel",
+        "question": "What kind of church is this?",
+        "answer": "This is a cathedral.",
+        "q1": "",
+        "q1_other": "Depends on the question since it's vague. The answer could be either 'cathedral' or 'catholic church'.",
         "q2": "image_required",
         "q2_other": ""
     },
@@ -5140,6 +6030,46 @@
         "q2_other": ""
     },
     {
+        "image": "images/Camisade_puno_doble.jpeg",
+        "context": "social_media",
+        "question": "What types of events is the shirt appropriate for?",
+        "answer": "The shirt is appropriate for formal events such as weddings, business meetings, and other professional settings.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Camisade_puno_doble.jpeg",
+        "context": "social_media",
+        "question": "What types of events is the shirt appropriate for?",
+        "answer": "The shirt is appropriate for formal events such as weddings, business meetings, and other professional settings.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Camisade_puno_doble.jpeg",
+        "context": "social_media",
+        "question": "What types of events is the shirt appropriate for?",
+        "answer": "The shirt is appropriate for formal events such as weddings, business meetings, and other professional settings.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Camisade_puno_doble.jpeg",
+        "context": "social_media",
+        "question": "What types of events is the shirt appropriate for?",
+        "answer": "The shirt is appropriate for formal events such as weddings, business meetings, and other professional settings.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/440px-Kendall_hat_2017.jpeg",
         "context": "news",
         "question": "who is the person in the image and what is the context of his appearance on the news website.",
@@ -5170,6 +6100,46 @@
         "q2_other": ""
     },
     {
+        "image": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+        "context": "shopping",
+        "question": "Why are people skydiving",
+        "answer": "The people in the image are skydiving because they are participating in a sport or recreational activity. Skydiving is a popular activity that involves jumping from an aircraft and freefalling before deploying a parachute to slow down and land safely. Skydivers often jump in groups, and the formation seen in the image is a common way to organize skydivers during a jump. The formation helps to create a visually impressive display and can also make it easier for skydivers to communicate with each other while in the air.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+        "context": "shopping",
+        "question": "Why are people skydiving",
+        "answer": "The people in the image are skydiving because they are participating in a sport or recreational activity. Skydiving is a popular activity that involves jumping from an aircraft and freefalling before deploying a parachute to slow down and land safely. Skydivers often jump in groups, and the formation seen in the image is a common way to organize skydivers during a jump. The formation helps to create a visually impressive display and can also make it easier for skydivers to communicate with each other while in the air.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+        "context": "shopping",
+        "question": "Why are people skydiving",
+        "answer": "The people in the image are skydiving because they are participating in a sport or recreational activity. Skydiving is a popular activity that involves jumping from an aircraft and freefalling before deploying a parachute to slow down and land safely. Skydivers often jump in groups, and the formation seen in the image is a common way to organize skydivers during a jump. The formation helps to create a visually impressive display and can also make it easier for skydivers to communicate with each other while in the air.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+        "context": "shopping",
+        "question": "Why are people skydiving",
+        "answer": "The people in the image are skydiving because they are participating in a sport or recreational activity. Skydiving is a popular activity that involves jumping from an aircraft and freefalling before deploying a parachute to slow down and land safely. Skydivers often jump in groups, and the formation seen in the image is a common way to organize skydivers during a jump. The formation helps to create a visually impressive display and can also make it easier for skydivers to communicate with each other while in the air.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/Thanin_market_platu.jpeg",
         "context": "health",
         "question": "What type of fish?",
@@ -5295,6 +6265,36 @@
         "question": "is the picture black and white or in color",
         "answer": "The picture is in color.",
         "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Master_Scott_Leonard.jpeg",
+        "context": "health",
+        "question": "What is the person's age?",
+        "answer": "The person is a young adult.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Master_Scott_Leonard.jpeg",
+        "context": "health",
+        "question": "What is the person's age?",
+        "answer": "The person is a young adult.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/500px-Master_Scott_Leonard.jpeg",
+        "context": "health",
+        "question": "What is the person's age?",
+        "answer": "The person is a young adult.",
+        "q1": "idk",
         "q1_other": "",
         "q2": "image_required",
         "q2_other": ""
@@ -5630,10 +6630,30 @@
         "q2_other": ""
     },
     {
-        "image": "images/440px-BCRL.jpeg",
-        "context": "social_media",
-        "question": "Who is the older woman?",
-        "answer": "The older woman is the one being assisted with weightlifting.",
+        "image": "images/440px-Reverse_5391.jpeg",
+        "context": "health",
+        "question": "What is the man wearing?",
+        "answer": "The man is wearing a swimsuit.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Reverse_5391.jpeg",
+        "context": "health",
+        "question": "What is the man wearing?",
+        "answer": "The man is wearing a swimsuit.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Reverse_5391.jpeg",
+        "context": "health",
+        "question": "What is the man wearing?",
+        "answer": "The man is wearing a swimsuit.",
         "q1": "correct",
         "q1_other": "",
         "q2": "image_not_required",
@@ -5657,6 +6677,96 @@
         "q1": "correct",
         "q1_other": "",
         "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BCRL.jpeg",
+        "context": "social_media",
+        "question": "Who is the older woman?",
+        "answer": "The older woman is the one being assisted with weightlifting.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "question": "Are their trees or bushes in the area where they are skiing?",
+        "answer": "Yes, there are trees and bushes in the area where they are skiing.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "question": "Are their trees or bushes in the area where they are skiing?",
+        "answer": "Yes, there are trees and bushes in the area where they are skiing.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "question": "Are their trees or bushes in the area where they are skiing?",
+        "answer": "Yes, there are trees and bushes in the area where they are skiing.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/ISS-38_EVA-1_Laptops.jpeg",
+        "context": "science_journals",
+        "question": "Are astronauts in the photo?",
+        "answer": "No, there are no astronauts in the photo.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/ISS-38_EVA-1_Laptops.jpeg",
+        "context": "science_journals",
+        "question": "Are astronauts in the photo?",
+        "answer": "No, there are no astronauts in the photo.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/ISS-38_EVA-1_Laptops.jpeg",
+        "context": "science_journals",
+        "question": "Are astronauts in the photo?",
+        "answer": "No, there are no astronauts in the photo.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/ISS-38_EVA-1_Laptops.jpeg",
+        "context": "science_journals",
+        "question": "Are astronauts in the photo?",
+        "answer": "No, there are no astronauts in the photo.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/ISS-38_EVA-1_Laptops.jpeg",
+        "context": "science_journals",
+        "question": "Are astronauts in the photo?",
+        "answer": "No, there are no astronauts in the photo.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
         "q2_other": ""
     },
     {
@@ -5840,6 +6950,186 @@
         "q2_other": ""
     },
     {
+        "image": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
+        "context": "health",
+        "question": "Is the spread on a plate or on the table?",
+        "answer": "The spread is on a plate.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
+        "context": "health",
+        "question": "Is the spread on a plate or on the table?",
+        "answer": "The spread is on a plate.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
+        "context": "health",
+        "question": "Is the spread on a plate or on the table?",
+        "answer": "The spread is on a plate.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
+        "context": "health",
+        "question": "Is the spread on a plate or on the table?",
+        "answer": "The spread is on a plate.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Ado-muka-shvanasana.jpeg",
+        "context": "social_media",
+        "question": "Does the picture appear to be a sponsor for something?",
+        "answer": "No, the picture does not appear to be a sponsor for anything.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Ado-muka-shvanasana.jpeg",
+        "context": "social_media",
+        "question": "Does the picture appear to be a sponsor for something?",
+        "answer": "No, the picture does not appear to be a sponsor for anything.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Ado-muka-shvanasana.jpeg",
+        "context": "social_media",
+        "question": "Does the picture appear to be a sponsor for something?",
+        "answer": "No, the picture does not appear to be a sponsor for anything.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Ado-muka-shvanasana.jpeg",
+        "context": "social_media",
+        "question": "Does the picture appear to be a sponsor for something?",
+        "answer": "No, the picture does not appear to be a sponsor for anything.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Ashley_Graham_2018.png",
+        "context": "shopping",
+        "question": "What style is the top?",
+        "answer": "The top is a white tank top.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Ashley_Graham_2018.png",
+        "context": "shopping",
+        "question": "What style is the top?",
+        "answer": "The top is a white tank top.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Ashley_Graham_2018.png",
+        "context": "shopping",
+        "question": "What style is the top?",
+        "answer": "The top is a white tank top.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "How is the weather and environment?",
+        "answer": "The image description does not provide enough information to accurately determine the weather and environment.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "How is the weather and environment?",
+        "answer": "The image description does not provide enough information to accurately determine the weather and environment.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "How is the weather and environment?",
+        "answer": "The image description does not provide enough information to accurately determine the weather and environment.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "How is the weather and environment?",
+        "answer": "The image description does not provide enough information to accurately determine the weather and environment.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "How is the weather and environment?",
+        "answer": "The image description does not provide enough information to accurately determine the weather and environment.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "How is the weather and environment?",
+        "answer": "The image description does not provide enough information to accurately determine the weather and environment.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "question": "How is the weather and environment?",
+        "answer": "The image description does not provide enough information to accurately determine the weather and environment.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/Yam_huapli_thot_02.jpeg",
         "context": "travel",
         "question": "Is the salad a part of a larger picture that gives more context as to a destination?",
@@ -5925,6 +7215,36 @@
         "question": "where is the location at?",
         "answer": "The location is outdoors.",
         "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Lilyfruit.jpeg",
+        "context": "science_journals",
+        "question": "is there anything else in the image?",
+        "answer": "The image description does not provide any information about other objects in the image. Therefore, it is not possible to determine if there are any other objects in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Lilyfruit.jpeg",
+        "context": "science_journals",
+        "question": "is there anything else in the image?",
+        "answer": "The image description does not provide any information about other objects in the image. Therefore, it is not possible to determine if there are any other objects in the image.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Lilyfruit.jpeg",
+        "context": "science_journals",
+        "question": "is there anything else in the image?",
+        "answer": "The image description does not provide any information about other objects in the image. Therefore, it is not possible to determine if there are any other objects in the image.",
+        "q1": "wrong",
         "q1_other": "",
         "q2": "image_required",
         "q2_other": ""
@@ -5957,6 +7277,36 @@
         "q1": "wrong",
         "q1_other": "",
         "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What do the people look like?",
+        "answer": "The people in the image are all women. They are wearing various types of clothing, including yoga pants, shorts, and tank tops. Some of them have their hair tied back in ponytails or buns, while others have their hair down.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What do the people look like?",
+        "answer": "The people in the image are all women. They are wearing various types of clothing, including yoga pants, shorts, and tank tops. Some of them have their hair tied back in ponytails or buns, while others have their hair down.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What do the people look like?",
+        "answer": "The people in the image are all women. They are wearing various types of clothing, including yoga pants, shorts, and tank tops. Some of them have their hair tied back in ponytails or buns, while others have their hair down.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
         "q2_other": ""
     },
     {
@@ -6080,6 +7430,36 @@
         "q2_other": "Technically no because it is not listed in the description and loose fit is somewhat subjective with regards to this item."
     },
     {
+        "image": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
+        "context": "shopping",
+        "question": "Does the room look like it has been used recently?",
+        "answer": "The room looks like it has been used recently.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
+        "context": "shopping",
+        "question": "Does the room look like it has been used recently?",
+        "answer": "The room looks like it has been used recently.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
+        "context": "shopping",
+        "question": "Does the room look like it has been used recently?",
+        "answer": "The room looks like it has been used recently.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/440px-Koukouvagia.jpeg",
         "context": "travel",
         "question": "What kind of bread is on the plate?",
@@ -6167,6 +7547,106 @@
         "q1": "correct",
         "q1_other": "",
         "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
+        "context": "social_media",
+        "question": "Why is President Bush speaking to this football team?",
+        "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
+        "context": "social_media",
+        "question": "Why is President Bush speaking to this football team?",
+        "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
+        "context": "social_media",
+        "question": "Why is President Bush speaking to this football team?",
+        "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
+        "context": "social_media",
+        "question": "Why is President Bush speaking to this football team?",
+        "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
+        "context": "social_media",
+        "question": "Why is President Bush speaking to this football team?",
+        "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Piranha1.jpeg",
+        "context": "travel",
+        "question": "Are piranhas found in this specific location? ",
+        "answer": "No, piranhas are not found in this specific location.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Piranha1.jpeg",
+        "context": "travel",
+        "question": "Are piranhas found in this specific location? ",
+        "answer": "No, piranhas are not found in this specific location.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Piranha1.jpeg",
+        "context": "travel",
+        "question": "Are piranhas found in this specific location? ",
+        "answer": "No, piranhas are not found in this specific location.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Piranha1.jpeg",
+        "context": "travel",
+        "question": "Are piranhas found in this specific location? ",
+        "answer": "No, piranhas are not found in this specific location.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Piranha1.jpeg",
+        "context": "travel",
+        "question": "Are piranhas found in this specific location? ",
+        "answer": "No, piranhas are not found in this specific location.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
         "q2_other": ""
     },
     {
@@ -6430,6 +7910,106 @@
         "q2_other": ""
     },
     {
+        "image": "images/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "question": "Where are these temples located?",
+        "answer": "The temples are located in Myanmar, also known as Burma.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "question": "Where are these temples located?",
+        "answer": "The temples are located in Myanmar, also known as Burma.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "question": "Where are these temples located?",
+        "answer": "The temples are located in Myanmar, also known as Burma.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "question": "Where are these temples located?",
+        "answer": "The temples are located in Myanmar, also known as Burma.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Grand_Cascade_in_Peterhof_01.jpeg",
+        "context": "travel",
+        "question": "What do the golden statues look like?",
+        "answer": "The golden statues are of various figures, including animals and mythical creatures, and are intricately designed with detailed features and ornate clothing.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Grand_Cascade_in_Peterhof_01.jpeg",
+        "context": "travel",
+        "question": "What do the golden statues look like?",
+        "answer": "The golden statues are of various figures, including animals and mythical creatures, and are intricately designed with detailed features and ornate clothing.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Grand_Cascade_in_Peterhof_01.jpeg",
+        "context": "travel",
+        "question": "What do the golden statues look like?",
+        "answer": "The golden statues are of various figures, including animals and mythical creatures, and are intricately designed with detailed features and ornate clothing.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/200px-2010_Run_to_the_Sun_Fashion_Show_in_Anchorage_Alaska_11.jpeg",
+        "context": "social_media",
+        "question": "What is happening in the background of the image?",
+        "answer": "The woman is standing in front of a brown background.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/200px-2010_Run_to_the_Sun_Fashion_Show_in_Anchorage_Alaska_11.jpeg",
+        "context": "social_media",
+        "question": "What is happening in the background of the image?",
+        "answer": "The woman is standing in front of a brown background.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/200px-2010_Run_to_the_Sun_Fashion_Show_in_Anchorage_Alaska_11.jpeg",
+        "context": "social_media",
+        "question": "What is happening in the background of the image?",
+        "answer": "The woman is standing in front of a brown background.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/Korean_shaved_ice-Green_tea_bingsu-07.jpeg",
         "context": "social_media",
         "question": "What kind of cookies do they have that goes with green tea shaved ice?",
@@ -6454,6 +8034,36 @@
         "context": "social_media",
         "question": "What kind of cookies do they have that goes with green tea shaved ice?",
         "answer": "The cookies are green tea flavored.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
+        "context": "health",
+        "question": "What are the attached greens?",
+        "answer": "The attached greens are likely to be chervil, which is a type of herb that is commonly used in cooking.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
+        "context": "health",
+        "question": "What are the attached greens?",
+        "answer": "The attached greens are likely to be chervil, which is a type of herb that is commonly used in cooking.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
+        "context": "health",
+        "question": "What are the attached greens?",
+        "answer": "The attached greens are likely to be chervil, which is a type of herb that is commonly used in cooking.",
         "q1": "wrong",
         "q1_other": "",
         "q2": "image_required",
@@ -6524,6 +8134,36 @@
         "context": "health",
         "question": "How old is the martial artist?",
         "answer": "I cannot determine the age of the martial artist from the image description provided.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Duchess_of_Cambridge_in_June_2013.jpeg",
+        "context": "shopping",
+        "question": "What style is the suit? ",
+        "answer": "The suit is a pink suit.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Duchess_of_Cambridge_in_June_2013.jpeg",
+        "context": "shopping",
+        "question": "What style is the suit? ",
+        "answer": "The suit is a pink suit.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Duchess_of_Cambridge_in_June_2013.jpeg",
+        "context": "shopping",
+        "question": "What style is the suit? ",
+        "answer": "The suit is a pink suit.",
         "q1": "correct",
         "q1_other": "",
         "q2": "image_required",
@@ -6610,6 +8250,46 @@
         "q2_other": ""
     },
     {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What pose are they doing?",
+        "answer": "The people in the image are doing yoga poses.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What pose are they doing?",
+        "answer": "The people in the image are doing yoga poses.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What pose are they doing?",
+        "answer": "The people in the image are doing yoga poses.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What pose are they doing?",
+        "answer": "The people in the image are doing yoga poses.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/54183.jpg",
         "context": "social_media",
         "question": "What type of music does she sing?",
@@ -6670,6 +8350,46 @@
         "q2_other": ""
     },
     {
+        "image": "images/440px-BeverlyHilton01.jpeg",
+        "context": "shopping",
+        "question": "Is the building large?",
+        "answer": "Yes, the building is large.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BeverlyHilton01.jpeg",
+        "context": "shopping",
+        "question": "Is the building large?",
+        "answer": "Yes, the building is large.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BeverlyHilton01.jpeg",
+        "context": "shopping",
+        "question": "Is the building large?",
+        "answer": "Yes, the building is large.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-BeverlyHilton01.jpeg",
+        "context": "shopping",
+        "question": "Is the building large?",
+        "answer": "Yes, the building is large.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
         "image": "images/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
         "context": "science_journals",
         "question": "What kind of gorilla?",
@@ -6697,6 +8417,36 @@
         "q1": "correct",
         "q1_other": "",
         "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "social_media",
+        "question": "Are they scared?",
+        "answer": "I cannot determine the emotions of the people in the image. however, based on the image description, it seems like they are not scared as they are seated under a canopy on a flatboat tour, cruising close to a riverbank.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "social_media",
+        "question": "Are they scared?",
+        "answer": "I cannot determine the emotions of the people in the image. however, based on the image description, it seems like they are not scared as they are seated under a canopy on a flatboat tour, cruising close to a riverbank.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "social_media",
+        "question": "Are they scared?",
+        "answer": "I cannot determine the emotions of the people in the image. however, based on the image description, it seems like they are not scared as they are seated under a canopy on a flatboat tour, cruising close to a riverbank.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
         "q2_other": ""
     },
     {
@@ -6794,6 +8544,256 @@
         "context": "news",
         "question": "Color of the beads",
         "answer": "The beads are brightly colored.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "",
+        "q1_other": "didn't really answer the question",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "",
+        "q1_other": "The statement is correct but it doesn't answer the question.",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Priyanka_Chopra_2003.jpeg",
+        "context": "news",
+        "question": "Color of the beads",
+        "answer": "The beads are brightly colored.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Progress_M-14M.jpeg",
+        "context": "science_journals",
+        "question": "Where is the image",
+        "answer": "The image is of a spacecraft with solar panels against the backdrop of Earth's atmosphere.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Progress_M-14M.jpeg",
+        "context": "science_journals",
+        "question": "Where is the image",
+        "answer": "The image is of a spacecraft with solar panels against the backdrop of Earth's atmosphere.",
+        "q1": "",
+        "q1_other": "Does not answer the question",
+        "q2": "",
+        "q2_other": "Image does not provide the answer to the question"
+    },
+    {
+        "image": "images/440px-Progress_M-14M.jpeg",
+        "context": "science_journals",
+        "question": "Where is the image",
+        "answer": "The image is of a spacecraft with solar panels against the backdrop of Earth's atmosphere.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Progress_M-14M.jpeg",
+        "context": "science_journals",
+        "question": "Where is the image",
+        "answer": "The image is of a spacecraft with solar panels against the backdrop of Earth's atmosphere.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Blackberry_(Rubus_fruticosus).jpeg",
+        "context": "health",
+        "question": "how can incorporating blackberries into my diet help improve my overall health and well-being?\n",
+        "answer": "Blackberries are a great source of antioxidants, vitamins, and fiber. They can help improve heart health, reduce inflammation, and support digestive health. Incorporating blackberries into your diet can also help you maintain a healthy weight and reduce the risk of chronic diseases such as diabetes and cancer.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Blackberry_(Rubus_fruticosus).jpeg",
+        "context": "health",
+        "question": "how can incorporating blackberries into my diet help improve my overall health and well-being?\n",
+        "answer": "Blackberries are a great source of antioxidants, vitamins, and fiber. They can help improve heart health, reduce inflammation, and support digestive health. Incorporating blackberries into your diet can also help you maintain a healthy weight and reduce the risk of chronic diseases such as diabetes and cancer.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Blackberry_(Rubus_fruticosus).jpeg",
+        "context": "health",
+        "question": "how can incorporating blackberries into my diet help improve my overall health and well-being?\n",
+        "answer": "Blackberries are a great source of antioxidants, vitamins, and fiber. They can help improve heart health, reduce inflammation, and support digestive health. Incorporating blackberries into your diet can also help you maintain a healthy weight and reduce the risk of chronic diseases such as diabetes and cancer.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Christmas_cake,_Boxing_Day_2008.jpeg",
+        "context": "shopping",
+        "question": "What kind of cake is it?",
+        "answer": "The cake is a Christmas cake.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Christmas_cake,_Boxing_Day_2008.jpeg",
+        "context": "shopping",
+        "question": "What kind of cake is it?",
+        "answer": "The cake is a Christmas cake.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/440px-Christmas_cake,_Boxing_Day_2008.jpeg",
+        "context": "shopping",
+        "question": "What kind of cake is it?",
+        "answer": "The cake is a Christmas cake.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_not_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Langfardsskridskoakning.jpeg",
+        "context": "travel",
+        "question": "How many skiers are there?",
+        "answer": "There are three skiers in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Langfardsskridskoakning.jpeg",
+        "context": "travel",
+        "question": "How many skiers are there?",
+        "answer": "There are three skiers in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/Langfardsskridskoakning.jpeg",
+        "context": "travel",
+        "question": "How many skiers are there?",
+        "answer": "There are three skiers in the image.",
+        "q1": "correct",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/37044.jpg",
+        "context": "science_journals",
+        "question": "How old does the church look?",
+        "answer": "The church looks very old and has a historical significance. It is a small church that is located on top of a hill and is surrounded by a beautiful landscape. The church has a unique architecture and is a popular tourist attraction.",
+        "q1": "wrong",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/37044.jpg",
+        "context": "science_journals",
+        "question": "How old does the church look?",
+        "answer": "The church looks very old and has a historical significance. It is a small church that is located on top of a hill and is surrounded by a beautiful landscape. The church has a unique architecture and is a popular tourist attraction.",
+        "q1": "idk",
+        "q1_other": "",
+        "q2": "image_required",
+        "q2_other": ""
+    },
+    {
+        "image": "images/37044.jpg",
+        "context": "science_journals",
+        "question": "How old does the church look?",
+        "answer": "The church looks very old and has a historical significance. It is a small church that is located on top of a hill and is surrounded by a beautiful landscape. The church has a unique architecture and is a popular tourist attraction.",
         "q1": "correct",
         "q1_other": "",
         "q2": "image_required",
