@@ -1,6 +1,6 @@
 import json 
 
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (7).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (8).json'))
 pilot_exp = json.load(open('pilot_exp.json'))
 
 all_original_answers = json.load(open('all_answers.json'))
@@ -18,11 +18,6 @@ for participant in data:
 
         if (trial['glb_comments'] != ''):
             print(trial['glb_comments'])
-
-#       "q1": "wrong",
-    #  "q1OtherValue": "",
-    #  "q2": "image_required",
-    #  "q2OtherValue": "",
     
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -35,6 +30,7 @@ for (img, ctxt, q) in coverage_pair:
     pilot_exp_entry = {}
     
     ans = ""
+    
     for answer in all_original_answers:
         if (answer['filename'] == img and answer['category'] == ctxt and answer['question'] == q):
             ans = answer['answer'] 
@@ -43,22 +39,32 @@ for (img, ctxt, q) in coverage_pair:
         if (item['filename'] == img and item['category'] == ctxt and item['question'] == q):
             pilot_exp_entry = item 
 
-    if (len(coverage_pair[(img, ctxt, q)]) >= 3):
+    if (len(coverage_pair[(img, ctxt, q)]) >= 7):
         num_covered += 1
 
 #        print("Coverage pair: ", coverage_pair)
+
+        q1_answers = []
+        q1_other = []
+        q2_answers = []
+        q2_other = []
+
         for i in range(0, len(coverage_pair[(img, ctxt, q)])):
-#            print("ith coverage pair: ", coverage_pair[(img, ctxt, q)][i])
-            collected_datapoints.append({
+            q1_answers.append(coverage_pair[(img, ctxt, q)][i][0])
+            q1_other.append(coverage_pair[(img, ctxt, q)][i][1])
+            q2_answers.append(coverage_pair[(img, ctxt, q)][i][2])
+            q2_other.append(coverage_pair[(img, ctxt, q)][i][3])
+
+        collected_datapoints.append({
                 'image': img,
                 'context': ctxt,
                 'question': q,
                 'answer': ans,
-                'q1': coverage_pair[(img, ctxt, q)][i][0],
-                'q1_other': coverage_pair[(img, ctxt, q)][i][1],
-                'q2': coverage_pair[(img, ctxt, q)][i][2],
-                'q2_other': coverage_pair[(img, ctxt, q)][i][3]
-            })
+                'q1': q1_answers,
+                'q1_other': q1_other,
+                'q2': q2_answers,
+                'q2_other': q2_other
+        })
     else:
         new_pilot_exp['images'].append(pilot_exp_entry)
 
