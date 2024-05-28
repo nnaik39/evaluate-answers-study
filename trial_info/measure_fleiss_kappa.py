@@ -22,7 +22,7 @@ num_covered = 0
 # Check based on which hummingbird question it was
 
 random.seed(42)
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (8).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (9).json'))
 
 coverage_pair = {}
 
@@ -74,7 +74,7 @@ for (img, ctxt, q) in coverage_pair:
         if (item['filename'] == img and item['category'] == ctxt and item['question'] == q):
             pilot_exp_entry = item 
 
-    if (len(coverage_pair[(img, ctxt, q)]) >= 3):
+    if (len(coverage_pair[(img, ctxt, q)]) >= 5):
         num_covered += 1
 
         q1_answers = []
@@ -118,7 +118,7 @@ for point in collected_datapoints:
     if (len(point['q1']) < 7):
         continue 
 
-    point['q1'] = random.sample(point['q1'], 3)
+    point['q1'] = random.sample(point['q1'], 5)
 
     print("Point: ", point['q1'])
 
@@ -126,11 +126,9 @@ for point in collected_datapoints:
     [point['q1'].count('correct'), point['q1'].count('idk'), point['q1'].count('wrong')]
     ])
 
-#    print("Counts: ", counts)
-
     q1_kappa = fleiss_kappa(counts, method='uniform')
 
-    point['q2'] = random.sample(point['q2'], 3)
+    point['q2'] = random.sample(point['q2'], 7)
 
     counts = np.array([
     [point['q2'].count('image_required'), point['q2'].count('image_not_required')]

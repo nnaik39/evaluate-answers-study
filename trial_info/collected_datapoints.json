@@ -139,7 +139,27 @@
             "wrong",
             "wrong",
             "wrong",
-            "idk"
+            "idk",
+            "wrong",
+            "correct",
+            "wrong",
+            "wrong",
+            "wrong",
+            "idk",
+            "idk",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "idk",
+            "idk",
+            "correct",
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -264,6 +284,26 @@
             "",
             "",
             "Incorrect. ",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             "",
             "",
             "",
@@ -413,7 +453,27 @@
             "image_not_required",
             "image_required",
             "image_required",
-            ""
+            "",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -550,7 +610,61 @@
             "",
             "",
             "",
-            "no image could be misleading"
+            "no image could be misleading",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "question": "What kind of clothes are they wearing?",
+        "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
         ]
     },
     {
@@ -684,6 +798,26 @@
             "wrong",
             "correct",
             "idk",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
             "correct",
             "correct",
             "correct",
@@ -830,6 +964,26 @@
             "",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
         ],
         "q2": [
@@ -942,6 +1096,26 @@
             "image_required",
             "image_required",
             "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
             "image_required",
             "image_required",
             "image_required",
@@ -1104,6 +1278,254 @@
             "",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "question": "What gender are the people in the hot tub?",
+        "answer": "The people in the hot tub are both male and female.",
+        "q1": [
+            "correct",
+            "idk",
+            "",
+            "",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "The image is too small for me to tell.",
+            "The people are partially obscured so the question can not be answered.",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do they look?",
+        "answer": "The age of the people in the image cannot be determined from the image description provided.",
+        "q1": [
+            "wrong",
+            "correct",
+            "correct",
+            "idk",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "social_media",
+        "question": "What is a ophthalmic retinal camera for?",
+        "answer": "A ophthalmic retinal camera is used to take pictures of the back of the eye to diagnose and monitor various eye conditions such as glaucoma, macular degeneration, and diabetic retinopathy.",
+        "q1": [
+            "idk",
+            "correct",
+            "correct",
+            "idk",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Rio_Maranon_03245.jpeg",
+        "context": "science_journals",
+        "question": "What else is in the landscape next to the river?",
+        "answer": "The landscape next to the river is a mountain range.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Arttherapyprocess.jpeg",
+        "context": "health",
+        "question": "Is this a yoga or pilates studio?",
+        "answer": "This is a yoga studio.",
+        "q1": [
+            "wrong",
+            "idk",
+            "idk",
+            "idk",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Telescope_Kepler-NASA.jpg",
+        "context": "news",
+        "question": "Is this illustration done to scale?",
+        "answer": "Yes, this illustration is done to scale.",
+        "q1": [
+            "idk",
+            "wrong",
+            "wrong",
+            "idk",
+            "wrong",
+            "wrong",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
         ]
     },
@@ -1154,6 +1576,234 @@
         ]
     },
     {
+        "image": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+        "context": "news",
+        "question": "Is this image from new york?",
+        "answer": "I cannot determine the location of the image based on the given information. however, i can tell you that the image shows a model walking down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "idk",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg",
+        "context": "social_media",
+        "question": "is this indoors or outdoors?",
+        "answer": "This is an indoor pool.",
+        "q1": [
+            "wrong",
+            "correct",
+            "wrong",
+            "idk",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "question": "What kind of nuts are on the surface?",
+        "answer": "The nuts on the surface are almonds.",
+        "q1": [
+            "correct",
+            "wrong",
+            "idk",
+            "correct",
+            "wrong",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
+        "context": "social_media",
+        "question": "What do the soccer players look like?",
+        "answer": "The soccer players are wearing uniforms with red and white colors.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "wrong",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/340px-Nina_Garcia.jpeg",
+        "context": "social_media",
+        "question": "What city is she in?",
+        "answer": "The woman is in New York City.",
+        "q1": [
+            "idk",
+            "idk",
+            "idk",
+            "idk",
+            "wrong",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/15719.jpg",
+        "context": "travel",
+        "question": "Are people at this building?",
+        "answer": "Yes, there are people at this building.",
+        "q1": [
+            "idk",
+            "wrong",
+            "idk",
+            "wrong",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "image": "images/Geographic_Southpole_crop.jpeg",
         "context": "travel",
         "question": "Does this look like a good place for skiing or snowmobiles?",
@@ -1192,6 +1842,294 @@
             "",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Shunsuke1_20080622.jpeg",
+        "context": "news",
+        "question": "Which team do they play for?",
+        "answer": "The soccer player in the number 10 jersey is from the blue team.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Gluehlampe_01_KMJ.png",
+        "context": "science_journals",
+        "question": "Is there anything else in the image?",
+        "answer": "No, there is nothing else in the image.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "idk",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
+        "context": "social_media",
+        "question": "What genre of music is being represented by this singer?",
+        "answer": "The singer is performing pop music.",
+        "q1": [
+            "correct",
+            "idk",
+            "wrong",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/233px-Bartholomae-2005.jpeg",
+        "context": "science_journals",
+        "question": "Where does the chapel look like it is located?",
+        "answer": "The chapel looks like it is located near a lake, with snow-capped mountains in the background.",
+        "q1": [
+            "idk",
+            "correct",
+            "correct",
+            "correct",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
+        "context": "travel",
+        "question": "how many people are celebrating ",
+        "answer": "There are 10 people celebrating in the image.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Fruit_smoothie_(8475314736).png",
+        "context": "shopping",
+        "question": "Is this website for a place that sells these smoothies, or is it for a company that sells equipment to make them?",
+        "answer": "This website is for a place that sells these smoothies.",
+        "q1": [
+            "correct",
+            "idk",
+            "idk",
+            "wrong",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/240px-Chace_Crawford.jpeg",
+        "context": "social_media",
+        "question": "What type of shoes is here wearing?\n",
+        "answer": "The person in the image is wearing dress shoes.",
+        "q1": [
+            "wrong",
+            "idk",
+            "wrong",
+            "wrong",
+            "wrong",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "The picture does not provide sufficient information to answer the question.",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
+        "context": "travel",
+        "question": "What color is the fighter jet?",
+        "answer": "The fighter jet is silver in color.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
             "",
             "",
             "",
@@ -1300,6 +2238,78 @@
             "",
             "",
             "",
+            ""
+        ]
+    },
+    {
+        "image": "images/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "science_journals",
+        "question": "What color is the space station?",
+        "answer": "The space station is white in color.",
+        "q1": [
+            "",
+            "correct",
+            "correct",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "I would say the space station is multi-colored.",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
+        "context": "social_media",
+        "question": "Is this someone who is visiting Japan?",
+        "answer": "Yes, this person is visiting Japan.",
+        "q1": [
+            "correct",
+            "idk",
+            "wrong",
+            "",
+            "wrong",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "this person looks like a japanese local ",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "I don't think there's any way to know the answer at all",
             ""
         ]
     },
@@ -1414,6 +2424,150 @@
         ]
     },
     {
+        "image": "images/440px-BMW_Welt_y_Torre_BMW_Munich_Alemania.jpeg",
+        "context": "news",
+        "question": "What building is being shown in the picture? ",
+        "answer": "The building in the picture is a futuristic building.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "question": "What is the appeared gender of the two people?",
+        "answer": "The two people in the image are both female.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "What details of Earth can be noticed, i.e. continents, colors, etc?",
+        "answer": "The astronaut is floating in space with Earth's blue horizon in the background. The continents are visible and can be seen clearly.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "correct",
+            "wrong",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/USMC-Rich_Froning_Jr.jpeg",
+        "context": "shopping",
+        "question": "Is he a professional athlete?",
+        "answer": "Yes, he is a professional athlete.",
+        "q1": [
+            "idk",
+            "idk",
+            "idk",
+            "idk",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "image": "images/220px-Wildlife_photography.jpeg",
         "context": "science_journals",
         "question": "What is he waiting to take a picture of?",
@@ -1468,6 +2622,180 @@
         ]
     },
     {
+        "image": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
+        "context": "shopping",
+        "question": "Are the outfits adequate for the environment they're in?",
+        "answer": "The outfits are not adequate for the environment they are in.",
+        "q1": [
+            "idk",
+            "correct",
+            "idk",
+            "idk",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "Neither the description nor the image can adequately answer the question. The temperature and other factors cannot be adequately assessed from the image or description.",
+            ""
+        ]
+    },
+    {
+        "image": "images/AntiqueFiskeAquarium.jpeg",
+        "context": "social_media",
+        "question": "Is this imagine indoors or outdoors?",
+        "answer": "The image is indoors.",
+        "q1": [
+            "correct",
+            "correct",
+            "idk",
+            "wrong",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "How old do the participants appear to be.",
+        "answer": "The participants appear to be middle-aged.",
+        "q1": [
+            "correct",
+            "wrong",
+            "correct",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "news",
+        "question": "What color is the glow of the corona in the image?",
+        "answer": "The glow of the corona in the image is white.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Redsweeper.jpeg",
+        "context": "social_media",
+        "question": "Is this an advertisement for some kind of service-based business?",
+        "answer": "Yes, it appears to be an advertisement for a lawn care or landscaping business.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "idk",
+            "idk",
+            "idk",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "image": "images/440px-Tyson_Beckford_(cropped).jpeg",
         "context": "news",
         "question": "What is the purpose of showing this man?",
@@ -1501,6 +2829,188 @@
         ],
         "q2_other": [
             "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "question": "Why are they in space?",
+        "answer": "I cannot determine the reason why the astronaut is in space from the image description provided. however, it is possible that the astronaut is on a space mission, conducting scientific research, or participating in a spacewalk.",
+        "q1": [
+            "idk",
+            "idk",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
+        "context": "science_journals",
+        "question": "What kind of green?",
+        "answer": "The green color in the image is likely due to the reflection of sunlight off of the water in the rivers. The green color is a result of the presence of algae and other microorganisms in the water.",
+        "q1": [
+            "idk",
+            "wrong",
+            "wrong",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Camisade_puno_doble.jpeg",
+        "context": "social_media",
+        "question": "What types of events is the shirt appropriate for?",
+        "answer": "The shirt is appropriate for formal events such as weddings, business meetings, and other professional settings.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Kendall_hat_2017.jpeg",
+        "context": "news",
+        "question": "who is the person in the image and what is the context of his appearance on the news website.",
+        "answer": "The person in the image is a young man, possibly a teenager, who is wearing a cap and a dark sweater. He appears to be looking thoughtfully into the distance. The context of his appearance on the news website is unclear, but it could be related to a recent event or a personal story that the website is covering.",
+        "q1": [
+            "correct",
+            "correct",
+            "wrong",
+            "wrong",
+            "idk",
+            "idk",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "question": "is the picture black and white or in color",
+        "answer": "The picture is in color.",
+        "q1": [
+            "correct",
+            "idk",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
             "",
             "",
             "",
@@ -1552,6 +3062,192 @@
             "",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Bellagio_garden_crystal_ball.jpeg",
+        "context": "travel",
+        "question": "Is the location being depicted known for the supernatural occult?",
+        "answer": "I cannot determine if the location is known for the supernatural occult based on the image description provided.",
+        "q1": [
+            "idk",
+            "correct",
+            "idk",
+            "correct",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "",
+            "",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "You would have to know the geographical location and see the image in conjunction to proper research.",
+            "It's not certain whether the question is related to travel or not.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
+        "context": "news",
+        "question": "How large is the rock?",
+        "answer": "The rock is approximately 10 feet in length.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "idk",
+            "idk",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Astronauts_in_weightlessness.jpeg",
+        "context": "news",
+        "question": "What organization do the blue uniforms represent?",
+        "answer": "The blue uniforms represent NASA.",
+        "q1": [
+            "correct",
+            "wrong",
+            "idk",
+            "idk",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Kelp_Forest_exhibit_full_main_viewing_window_at_Monterey_Bay_Aquarium.jpeg",
+        "context": "science_journals",
+        "question": "From where are they watching?",
+        "answer": "They are watching from a window that is located above the underwater kelp forest exhibit.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "idk",
+            "idk",
+            "correct",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Reverse_5391.jpeg",
+        "context": "health",
+        "question": "What is the man wearing?",
+        "answer": "The man is wearing a swimsuit.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
             "",
             "",
             "",
@@ -1646,6 +3342,142 @@
         ]
     },
     {
+        "image": "images/P-51_Mustang_edit1.jpeg",
+        "context": "social_media",
+        "question": "Where was it taken",
+        "answer": "The image was taken from the cockpit of the P-51 Mustang aircraft.",
+        "q1": [
+            "correct",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+        "context": "science_journals",
+        "question": "indoor or out door",
+        "answer": "The image shows a scientist working indoors.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Gluehlampe_01_KMJ.png",
+        "context": "health",
+        "question": "What is the bulb attached to",
+        "answer": "The bulb is attached to a socket.",
+        "q1": [
+            "wrong",
+            "correct",
+            "correct",
+            "wrong",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/images/Virti_vaghani.jpeg",
+        "context": "shopping",
+        "question": "Are there any other people in the image?",
+        "answer": "Yes, there are other people in the image.",
+        "q1": [
+            "",
+            "idk",
+            "idk",
+            "",
+            ""
+        ],
+        "q1_other": [
+            "image didnt load",
+            "",
+            "",
+            "unknown",
+            "picture did not load on my browser (chrome)"
+        ],
+        "q2": [
+            "",
+            "image_required",
+            "image_not_required",
+            "",
+            ""
+        ],
+        "q2_other": [
+            "image didnt load",
+            "",
+            "",
+            "unknown",
+            "picture did not load"
+        ]
+    },
+    {
         "image": "images/220px-Wildlife_photography.jpeg",
         "context": "science_journals",
         "question": "How is the weather and environment?",
@@ -1680,6 +3512,456 @@
         "q2_other": [
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-ShopHouse_lunch_bowl.jpeg",
+        "context": "shopping",
+        "question": "What is on the fast food on the cup",
+        "answer": "The fast food on the cup is a drink.",
+        "q1": [
+            "",
+            "correct",
+            "wrong",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "The questions is unclear and difficult to answer",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "",
+            "image_not_required",
+            "image_required",
+            "",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "unclear",
+            "",
+            "",
+            "It would be a better response to say what the logo on the cup (restaurant) is.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
+        "context": "science_journals",
+        "question": "what are the people wearing",
+        "answer": "The people are wearing space suits.",
+        "q1": [
+            "correct",
+            "wrong",
+            "correct",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
+        "context": "social_media",
+        "question": "Why is President Bush speaking to this football team?",
+        "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone.",
+        "q1": [
+            "correct",
+            "wrong",
+            "wrong",
+            "correct",
+            "idk",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Piranha1.jpeg",
+        "context": "travel",
+        "question": "Are piranhas found in this specific location? ",
+        "answer": "No, piranhas are not found in this specific location.",
+        "q1": [
+            "idk",
+            "wrong",
+            "idk",
+            "idk",
+            "wrong",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Young_ladies_at_Harajuku.jpeg",
+        "context": "travel",
+        "question": "Is this a fashion website for designer purses and shoes? ",
+        "answer": "No, this is not a fashion website for designer purses and shoes.",
+        "q1": [
+            "wrong",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/200px-2010_Run_to_the_Sun_Fashion_Show_in_Anchorage_Alaska_11.jpeg",
+        "context": "social_media",
+        "question": "What is happening in the background of the image?",
+        "answer": "The woman is standing in front of a brown background.",
+        "q1": [
+            "wrong",
+            "idk",
+            "wrong",
+            "wrong",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Texas_Zip_liner_5430.jpeg",
+        "context": "travel",
+        "question": "Is he young or middle-aged?",
+        "answer": "The man in the image appears to be middle-aged.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+        "context": "health",
+        "question": "How old is the martial artist?",
+        "answer": "I cannot determine the age of the martial artist from the image description provided.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Duchess_of_Cambridge_in_June_2013.jpeg",
+        "context": "shopping",
+        "question": "What style is the suit? ",
+        "answer": "The suit is a pink suit.",
+        "q1": [
+            "correct",
+            "wrong",
+            "correct",
+            "wrong",
+            ""
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "It is a pink suit, but the question asks for a style.  Is a pink suit be defintion a style?"
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Orca_porpoising.jpeg",
+        "context": "science_journals",
+        "question": "How far away is the whale in the photo?",
+        "answer": "The whale appears to be quite close to the camera, as it is the main focus of the image and is easily visible.",
+        "q1": [
+            "correct",
+            "idk",
+            "correct",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "The camera could be zoomed in",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "science_journals",
+        "question": "Is anything else in space visible, like a space station or debris?",
+        "answer": "No, there is nothing else in space visible in the image.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What pose are they doing?",
+        "answer": "The people in the image are doing yoga poses.",
+        "q1": [
+            "correct",
+            "correct",
+            "idk",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "question": "What are they wearing?",
+        "answer": "The people in the image are wearing yoga clothes.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
             "",
             "",
             "",
@@ -1818,6 +4100,78 @@
         ]
     },
     {
+        "image": "images/440px-Dumbell_aerobics.jpeg",
+        "context": "health",
+        "question": "How big is the class",
+        "answer": "The class is small, with only a few participants.",
+        "q1": [
+            "wrong",
+            "correct",
+            "correct",
+            "idk",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/375px-Cannes_2015_22.jpeg",
+        "context": "shopping",
+        "question": "Can you describe what she is wearing?",
+        "answer": "The woman in the image is wearing a long, flowing red dress with a deep neckline that reveals her cleavage. She also has long, flowing red hair that falls over her right shoulder.",
+        "q1": [
+            "wrong",
+            "",
+            "wrong",
+            "",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "A black dress",
+            "",
+            "The answer is all around wrong.",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "image": "images/Pilates_(9956534863).jpeg",
         "context": "social_media",
         "question": "Are they an instructor?",
@@ -1873,6 +4227,150 @@
             "",
             "",
             "It's hard to determine for sure either way"
+        ]
+    },
+    {
+        "image": "images/440px-Christmas_cake,_Boxing_Day_2008.jpeg",
+        "context": "shopping",
+        "question": "What kind of cake is it?",
+        "answer": "The cake is a Christmas cake.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Dior_denver_art1.jpeg",
+        "context": "social_media",
+        "question": "Where is the mannequin?",
+        "answer": "The mannequin is in a museum.",
+        "q1": [
+            "idk",
+            "idk",
+            "correct",
+            "idk",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/ChipotleBurritoBowl.jpeg",
+        "context": "health",
+        "question": "What are the nutritional contents of the burrito bowl and drink? Understanding the calorie count, macronutrient profile, and ingredients would help me determine if it aligns with my health goals. ",
+        "answer": "The burrito bowl contains a variety of ingredients, including rice, beans, avocado, tomatoes, and lettuce. The drink is a smoothie made with spinach, banana, and almond milk. The nutritional content of the burrito bowl and drink can be determined by looking at the ingredients and the calorie count. The calorie count of the burrito bowl is approximately 500 calories, and the smoothie has around 200 calories. The macronutrient profile of the burrito bowl is balanced, with a good amount of carbohydrates, protein, and healthy fats. The smoothie is also a good source of protein and healthy fats. The ingredients used in the burrito bowl and smoothie are all healthy and nutritious, making them a good choice for someone looking to maintain a healthy diet.",
+        "q1": [
+            "correct",
+            "idk",
+            "idk",
+            "wrong",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "one needs to see the image to see what is in the burrito to know the nutritional content.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Jungfraujoch_090425.jpeg",
+        "context": "travel",
+        "question": "What color jackets are the skiers wearing?",
+        "answer": "The skiers are wearing red jackets.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "idk",
+            "wrong",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ]
     }
 ]
