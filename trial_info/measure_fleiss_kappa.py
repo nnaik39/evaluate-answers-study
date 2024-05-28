@@ -22,7 +22,7 @@ num_covered = 0
 # Check based on which hummingbird question it was
 
 random.seed(42)
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (9).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (11).json'))
 
 coverage_pair = {}
 
@@ -120,7 +120,7 @@ for point in collected_datapoints:
 
     point['q1'] = random.sample(point['q1'], 5)
 
-    print("Point: ", point['q1'])
+#    print("Point: ", point['q1'])
 
     counts = np.array([
     [point['q1'].count('correct'), point['q1'].count('idk'), point['q1'].count('wrong')]
@@ -128,8 +128,9 @@ for point in collected_datapoints:
 
     q1_kappa = fleiss_kappa(counts, method='uniform')
 
-    point['q2'] = random.sample(point['q2'], 7)
+    point['q2'] = random.sample(point['q2'], 5)
 
+    print("Point[q2] ", point['q2'])
     counts = np.array([
     [point['q2'].count('image_required'), point['q2'].count('image_not_required')]
     ])

@@ -1,6 +1,13 @@
 var main_trials = {
     "images": [
         {
+            "filename": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
+            "category": "health",
+            "description": "A wide variety of colorful fruit at a market stand.  Selections include grapes, cherries, applies, oranges, melons, and other tropical fruits.  \n",
+            "question": "How fresh do the fruit look",
+            "answer": "The fruit looks very fresh and is likely to be in good condition."
+        },
+        {
             "filename": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
             "category": "science_journals",
             "description": "View from a shaded archway showing a detailed historic building framed by archways against a blue sky.\n",
@@ -8,11 +15,11 @@ var main_trials = {
             "answer": "Yes, there are intricate designs on the archways, and the building is white."
         },
         {
-            "filename": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
-            "category": "health",
-            "description": "A wide variety of colorful fruit at a market stand.  Selections include grapes, cherries, applies, oranges, melons, and other tropical fruits.  \n",
-            "question": "How fresh do the fruit look",
-            "answer": "The fruit looks very fresh and is likely to be in good condition."
+            "filename": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
+            "category": "science_journals",
+            "description": "A seagull with a caught fish in its beak flies over tropical greenery.\n",
+            "question": "Are there any other birds in the sky?",
+            "answer": "Yes, there are other birds in the sky."
         },
         {
             "filename": "images/Acorn_Soup_(4827753894).jpeg",
@@ -22,11 +29,18 @@ var main_trials = {
             "answer": "Yes, it looks delicious."
         },
         {
-            "filename": "images/Charlie's_Angels_cast_during_interview_01.png",
-            "category": "news",
-            "description": "Three famous women actors wearing casual clothing, sitting together for an interview, with a movie title in the background. They are promoting their film, Charlie's Angels. \n",
-            "question": "Who are the people in the image?",
-            "answer": "The people in the image are three famous women actors who are wearing casual clothing and sitting together for an interview. They are promoting their film, Charlie's Angels."
+            "filename": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
+            "category": "social_media",
+            "description": "An Indian woman with an award pinned on her yellow outfit in a lush green garden\n",
+            "question": "What was the award for?",
+            "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty."
+        },
+        {
+            "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+            "category": "social_media",
+            "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
+            "question": "What season does it look like?",
+            "answer": "The image does not provide enough information to determine the season."
         },
         {
             "filename": "images/Shaki_Waterfall2.jpeg",
@@ -57,32 +71,11 @@ var main_trials = {
             "answer": "The image does not provide enough information to determine the time of day."
         },
         {
-            "filename": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
-            "category": "social_media",
-            "description": "An Indian woman with an award pinned on her yellow outfit in a lush green garden\n",
-            "question": "What was the award for?",
-            "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty."
-        },
-        {
-            "filename": "images/TDF31472_groep_met_rodriguez_(53062211809).jpeg",
-            "category": "news",
-            "description": "Cyclists racing on a mountain road.\n",
-            "question": "Is it a race or a marathon?",
-            "answer": "The cyclists are racing on a mountain road, so it is not a marathon."
-        },
-        {
             "filename": "images/Woman_running_barefoot_on_beach.jpeg",
             "category": "health",
             "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
             "question": "Are there any landmarks to the beach that suggest where is might be?",
             "answer": "I'm sorry, but there are no specific landmarks mentioned in the image description that would help identify the location of the beach. The focus of the image is on the woman jogging barefoot and the waves in the background."
-        },
-        {
-            "filename": "images/Lichtbogen_3000_Volt.jpeg",
-            "category": "shopping",
-            "description": "A bright arc between two electrodes.\n",
-            "question": "Is the picture representing a product?",
-            "answer": "Yes, the picture is representing a product."
         },
         {
             "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
@@ -104,48 +97,6 @@ var main_trials = {
             "description": "A halved, unripe pumpkin showing its green skin, seeds, and fibrous yellow interior, sitting on another melon with other sections of the pumpkin in the background.\n",
             "question": "What do the pumpkins look like?",
             "answer": "The pumpkins look like they are unripe and green in color. They have a fibrous yellow interior and seeds visible on the skin."
-        },
-        {
-            "filename": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
-            "category": "science_journals",
-            "description": "A seagull with a caught fish in its beak flies over tropical greenery.\n",
-            "question": "Are there any other birds in the sky?",
-            "answer": "Yes, there are other birds in the sky."
-        },
-        {
-            "filename": "images/Common_stingray_tenerife.jpeg",
-            "category": "travel",
-            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
-            "question": "What color is the stingray?",
-            "answer": "The stingray is brown in color."
-        },
-        {
-            "filename": "images/Gorskii_04414u.jpeg",
-            "category": "news",
-            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
-            "question": "What else is in the hall?",
-            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
-        },
-        {
-            "filename": "images/Berlin_marathon.jpeg",
-            "category": "health",
-            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
-            "question": "Can you describe the marathon runner?",
-            "answer": "The marathon runner is a man wearing a red shirt and black shorts. He is running with a group of other runners and appears to be in good physical condition."
-        },
-        {
-            "filename": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
-            "category": "shopping",
-            "description": "A selection of fried snacks on a blue plate.\n",
-            "question": "what are the type of fried snacks show in the image",
-            "answer": "The image shows a plate of fried snacks, but it is not clear what type of snacks they are. The person may need to look at the image more closely to determine the type of snacks."
-        },
-        {
-            "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
-            "category": "social_media",
-            "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
-            "question": "What season does it look like?",
-            "answer": "The image does not provide enough information to determine the season."
         }
     ]
 }

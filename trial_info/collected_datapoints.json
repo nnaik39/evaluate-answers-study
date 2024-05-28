@@ -159,6 +159,10 @@
             "idk",
             "idk",
             "correct",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
             "wrong"
         ],
         "q1_other": [
@@ -316,6 +320,10 @@
             "",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
             ""
         ],
         "q2": [
@@ -473,6 +481,10 @@
             "image_required",
             "image_not_required",
             "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
             "image_required"
         ],
         "q2_other": [
@@ -630,6 +642,48 @@
             "",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
+        "context": "science_journals",
+        "question": "Are there any intricate designs on the archways, and what color is the building?",
+        "answer": "Yes, there are intricate designs on the archways, and the building is white.",
+        "q1": [
+            "wrong",
+            "correct",
+            "wrong",
+            "wrong",
+            "wrong",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
             ""
         ]
     },
@@ -656,6 +710,40 @@
             "image_not_required",
             "image_required",
             "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Charlie's_Angels_cast_during_interview_01.png",
+        "context": "news",
+        "question": "Who are the people in the image?",
+        "answer": "The people in the image are three famous women actors who are wearing casual clothing and sitting together for an interview. They are promoting their film, Charlie's Angels.",
+        "q1": [
+            "correct",
+            "correct",
+            "wrong",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_not_required",
+            "image_not_required",
             "image_required",
             "image_required"
         ],
@@ -827,6 +915,10 @@
             "correct",
             "correct",
             "correct",
+            "correct",
+            "wrong",
+            "correct",
+            "idk",
             "correct"
         ],
         "q1_other": [
@@ -938,6 +1030,10 @@
             "",
             "",
             "It is incorrect because it is not even close to the picture.",
+            "",
+            "",
+            "",
+            "",
             "",
             "",
             "",
@@ -1141,6 +1237,10 @@
             "image_required",
             "image_required",
             "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -1157,6 +1257,10 @@
             "",
             "",
             "no",
+            "",
+            "",
+            "",
+            "",
             "",
             "",
             "",
@@ -1488,6 +1592,78 @@
         ]
     },
     {
+        "image": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
+        "context": "social_media",
+        "question": "What was the award for?",
+        "answer": "The woman in the image is wearing a yellow outfit and an award pin on her chest. She is standing in a lush green garden. Based on the image description, it is not clear what the award was for. However, it is possible that the award was related to her achievements in the field of fashion, design, or beauty.",
+        "q1": [
+            "wrong",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/TDF31472_groep_met_rodriguez_(53062211809).jpeg",
+        "context": "news",
+        "question": "Is it a race or a marathon?",
+        "answer": "The cyclists are racing on a mountain road, so it is not a marathon.",
+        "q1": [
+            "wrong",
+            "correct",
+            "idk",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_not_required",
+            "image_required",
+            "image_not_required",
+            "image_not_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "image": "images/440px-Telescope_Kepler-NASA.jpg",
         "context": "news",
         "question": "Is this illustration done to scale?",
@@ -1522,6 +1698,40 @@
         "q2_other": [
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Lichtbogen_3000_Volt.jpeg",
+        "context": "shopping",
+        "question": "Is the picture representing a product?",
+        "answer": "Yes, the picture is representing a product.",
+        "q1": [
+            "idk",
+            "idk",
+            "wrong",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
             "",
             "",
             "",
@@ -1694,6 +1904,78 @@
         ]
     },
     {
+        "image": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
+        "context": "science_journals",
+        "question": "Are there any other birds in the sky?",
+        "answer": "Yes, there are other birds in the sky.",
+        "q1": [
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Common_stingray_tenerife.jpeg",
+        "context": "travel",
+        "question": "What color is the stingray?",
+        "answer": "The stingray is brown in color.",
+        "q1": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "image": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
         "context": "social_media",
         "question": "What do the soccer players look like?",
@@ -1728,6 +2010,78 @@
         ]
     },
     {
+        "image": "images/Gorskii_04414u.jpeg",
+        "context": "news",
+        "question": "What else is in the hall?",
+        "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together.",
+        "q1": [
+            "correct",
+            "idk",
+            "correct",
+            "correct",
+            "wrong"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Berlin_marathon.jpeg",
+        "context": "health",
+        "question": "Can you describe the marathon runner?",
+        "answer": "The marathon runner is a man wearing a red shirt and black shorts. He is running with a group of other runners and appears to be in good physical condition.",
+        "q1": [
+            "correct",
+            "correct",
+            "wrong",
+            "wrong",
+            "idk",
+            "idk"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            ""
+        ],
+        "q2_other": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "I don't see how you can describe the runner with the information presented"
+        ]
+    },
+    {
         "image": "images/340px-Nina_Garcia.jpeg",
         "context": "social_media",
         "question": "What city is she in?",
@@ -1758,6 +2112,40 @@
         ],
         "q2_other": [
             "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
+        "context": "shopping",
+        "question": "what are the type of fried snacks show in the image",
+        "answer": "The image shows a plate of fried snacks, but it is not clear what type of snacks they are. The person may need to look at the image more closely to determine the type of snacks.",
+        "q1": [
+            "idk",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_not_required",
+            "image_required",
+            "image_required"
+        ],
+        "q2_other": [
             "",
             "",
             "",
@@ -1914,6 +2302,40 @@
         ],
         "q2_other": [
             "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+        "context": "social_media",
+        "question": "What season does it look like?",
+        "answer": "The image does not provide enough information to determine the season.",
+        "q1": [
+            "correct",
+            "wrong",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "q1_other": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_required",
+            "image_not_required"
+        ],
+        "q2_other": [
             "",
             "",
             "",
