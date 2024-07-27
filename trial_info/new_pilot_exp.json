@@ -1,284 +1,11 @@
 {
     "images": [
         {
-            "filename": "images/Noaa-walrus12.jpeg",
-            "category": "social_media",
-            "description": "Group of rough skinned walruses with long white tusks leisurely rest on a set of black rocks near a body of water.\n",
-            "question": "what does this picture have to do with connections?",
-            "answer": "This picture has nothing to do with connections."
-        },
-        {
-            "filename": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
-            "category": "social_media",
-            "description": "George W. Bush speaking to a football team.\n",
-            "question": "Why is President Bush speaking to this football team?",
-            "answer": "The image shows former President George W. Bush speaking to a football team, which suggests that he is there to offer some advice or encouragement to the players. It is possible that he is a fan of the sport or has some connection to the team, but the exact reason for his presence is not clear from the image alone."
-        },
-        {
-            "filename": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
-            "category": "science_journals",
-            "description": "Dense rainforest underbrush with large trees and various green plants on a gloomy day.\n",
-            "question": "Where is this rainforest located?",
-            "answer": "This rainforest is located in the Amazon."
-        },
-        {
-            "filename": "images/Rabanne.jpeg",
-            "category": "shopping",
-            "description": "A shimmering dress covered with reflective detailing squares that is slightly above the knee.\n",
-            "question": "What color is the dress?",
-            "answer": "The dress is silver in color."
-        },
-        {
-            "filename": "images/STS-130_Endeavour_flyaround_5.jpeg",
+            "filename": "images/Gorskii_04414u.jpeg",
             "category": "news",
-            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-            "question": "What colors are in the image.",
-            "answer": "The image is in black and white."
-        },
-        {
-            "filename": "images/440px-Formation_recorte.jpeg",
-            "category": "shopping",
-            "description": "A performer with long brown hair in sparkling pink attire singing to an audience in the rain with a smile on her face with on hand holding a golden mic and the other hand over her heart.\n",
-            "question": "What is the backdrop to this image?",
-            "answer": "The backdrop to this image is a dark stage with bright lights shining on the performer."
-        },
-        {
-            "filename": "images/Camisade_puno_doble.jpeg",
-            "category": "social_media",
-            "description": "A new folded dress shirt with double cuffs.\n",
-            "question": "What types of events is the shirt appropriate for?",
-            "answer": "The shirt is appropriate for formal events such as weddings, business meetings, and other professional settings."
-        },
-        {
-            "filename": "images/Light_Therapy_for_SAD.jpeg",
-            "category": "health",
-            "description": "An elderly person reading a book under a light therapy lamp.\n",
-            "question": "what are they doing there",
-            "answer": "They are reading a book under a light therapy lamp."
-        },
-        {
-            "filename": "images/Heidi_Klum4crop.jpeg",
-            "category": "shopping",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-            "question": "How old does the woman appear to be?",
-            "answer": "The woman appears to be in her mid-twenties."
-        },
-        {
-            "filename": "images/Halved_blackberry_(Rubus_fruticosus).jpeg",
-            "category": "health",
-            "description": "Half a blackberry covered in shiny black droplets.\n",
-            "question": "Is the berry cut in half or is it whole?",
-            "answer": "The berry is cut in half."
-        },
-        {
-            "filename": "images/330px-Zohre_Esmaeli_1.jpeg",
-            "category": "shopping",
-            "description": "A model in a vibrant, patterned ethnic outfit on a runway.\n",
-            "question": "What is the approximate size of the model?",
-            "answer": "The approximate size of the model is small."
-        },
-        {
-            "filename": "images/440px-Therme_Bad_Aibling.jpeg",
-            "category": "shopping",
-            "description": "A dome-shaped building with a reflective pool at twilight, showcasing modern design.\n",
-            "question": "Where is the building",
-            "answer": "The building is a modern dome-shaped structure with a reflective pool at twilight. It is located in a residential area."
-        },
-        {
-            "filename": "images/Young_ladies_at_Harajuku.jpeg",
-            "category": "travel",
-            "description": "A group of women in traditional Japanese attire carrying purses and scarves.\n",
-            "question": "Is this a fashion website for designer purses and shoes? ",
-            "answer": "No, this is not a fashion website for designer purses and shoes."
-        },
-        {
-            "filename": "images/Hobby_Fotografen_(_Chobe_2018).jpeg",
-            "category": "social_media",
-            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
-            "question": "Are they scared?",
-            "answer": "I cannot determine the emotions of the people in the image. however, based on the image description, it seems like they are not scared as they are seated under a canopy on a flatboat tour, cruising close to a riverbank."
-        },
-        {
-            "filename": "images/Unveiling_of_LZR_Racer_in_NYC_2008-02-13.jpeg",
-            "category": "shopping",
-            "description": "Swimmers modeling high-tech bodysuits.\n",
-            "question": "What are the bodysuits like?",
-            "answer": "The bodysuits are black and have a sleek, modern design. They are made of a shiny material and have a streamlined appearance."
-        },
-        {
-            "filename": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
-            "category": "travel",
-            "description": "Fighter jet in mid-flight against blue sky.\n",
-            "question": "What color is the fighter jet?",
-            "answer": "The fighter jet is silver in color."
-        },
-        {
-            "filename": "images/Wdomenada2003b.jpeg",
-            "category": "travel",
-            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-            "question": "What is the appeared gender of the two people?",
-            "answer": "The two people in the image are both female."
-        },
-        {
-            "filename": "images/440px-Lisbon_Oceanarium.jpeg",
-            "category": "travel",
-            "description": "A woman touching the glass and observing a huge aquarium. There is a shark swimming past her,  and other fish swimming inside.\n",
-            "question": "Where is it located?",
-            "answer": "The aquarium is located in a building."
-        },
-        {
-            "filename": "images/Green_brocade_silk_saree.jpeg",
-            "category": "social_media",
-            "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
-            "question": "Where is she (geographically)?",
-            "answer": "The woman in the image is wearing a green sari with gold details and posing beside a red pot on a green backdrop. Unfortunately, the image description does not provide any information about the geographical location of the woman."
-        },
-        {
-            "filename": "images/ARS_red_onion.jpeg",
-            "category": "shopping",
-            "description": "Small collection of red onions with green tops growing in dark soil.\n",
-            "question": "How many onions are there?",
-            "answer": "There are 10 onions in the image."
-        },
-        {
-            "filename": "images/340px-Evgenia_Kanaeva_2012_in_Hard.jpeg",
-            "category": "shopping",
-            "description": "A rhythmic gymnast in a dynamic pose with a hoop in front of a large crowd.\n",
-            "question": "What does this have to do with shopping?",
-            "answer": "This image is not related to shopping. It is a picture of a rhythmic gymnast performing in front of a large crowd."
-        },
-        {
-            "filename": "images/Ceremonia_del_Grito_de_Independencia_2023_-_3.jpeg",
-            "category": "news",
-            "description": "A night-time celebration with a crowd, confetti, and illuminated buildings. An official is standing at a balcony ready to give a speech.\n",
-            "question": "What specifically is this night time celebration for?",
-            "answer": "The night time celebration is for a political rally."
-        },
-        {
-            "filename": "images/Acro-tcd.jpeg",
-            "category": "news",
-            "description": "Two acrobatic gymnasts performing a balancing act in leotards. The gymnast on top is doing the splits. The gymnast of the bottom is holding the other up in the air.\n",
-            "question": "Who are these people",
-            "answer": "The people in the image are acrobatic gymnasts. They are performing a balancing act in leotards. The gymnast on top is doing the splits while the gymnast on the bottom is holding the other up in the air."
-        },
-        {
-            "filename": "images/Sphinx_et_Jungfrau_-_img_06980.jpeg",
-            "category": "travel",
-            "description": "Snow-covered mountain peaks.\n",
-            "question": "Does it have a snow lift?",
-            "answer": "Yes, it has a snow lift."
-        },
-        {
-            "filename": "images/IDHM_Wasserspringen_2018-02-18_3m_mixed_Vorkampf_Sprung_3_18.jpeg",
-            "category": "social_media",
-            "description": "The divers mid-air after their jump during a synchronized diving event.\n",
-            "question": "what are they doing as they fall",
-            "answer": "They are performing a flip in the air."
-        },
-        {
-            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-            "category": "travel",
-            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-            "question": "what is the layout like?",
-            "answer": "The layout of the shopping arcade is a long hallway with luxury storefronts on both sides. The ceiling is made of glass, allowing natural light to filter in. The ornate lamps hanging from the ceiling add to the opulence of the space."
-        },
-        {
-            "filename": "images/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "category": "travel",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
-            "question": "What boy of water is this?",
-            "answer": "This is a coral reef."
-        },
-        {
-            "filename": "images/100px-Crinoid_on_the_reef_of_Batu_Moncho_Island_(cropped).jpeg",
-            "category": "shopping",
-            "description": "A brown and white crinoid sea creature on a coral reef. It looks like pipe cleaners connected at a central point.\n",
-            "question": "What is the purpose of this sea creature on this website?",
-            "answer": "The purpose of this sea creature on this website is to be a decorative item for sale."
-        },
-        {
-            "filename": "images/Gluehlampe_01_KMJ.png",
-            "category": "health",
-            "description": "A clear incandescent light bulb against a white background.  The light bulb is currently not on.\n",
-            "question": "What is the bulb attached to",
-            "answer": "The bulb is attached to a socket."
-        },
-        {
-            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-            "category": "travel",
-            "description": "A large crystal ball stands in a lush garden with red and yellow flowers and a wooden fence in the background.\n",
-            "question": "Is the location being depicted known for the supernatural occult?",
-            "answer": "I cannot determine if the location is known for the supernatural occult based on the image description provided."
-        },
-        {
-            "filename": "images/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
-            "category": "shopping",
-            "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
-            "question": "Does the lounge come with any additional pillows or cushions?",
-            "answer": "I cannot determine if the lounge comes with any additional pillows or cushions based on the image description."
-        },
-        {
-            "filename": "images/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-            "category": "health",
-            "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
-            "question": "Does it look like it takes place on a college campus?",
-            "answer": "No, it does not look like it takes place on a college campus. The image shows a group of people of various ages walking in line along a grassy path, with trees on one side."
-        },
-        {
-            "filename": "images/Catedral_Arequipa,_Peru.jpeg",
-            "category": "travel",
-            "description": "A majestic cathedral with two towering spires against a clear sky with people outside\n",
-            "question": "What kind of church is this?",
-            "answer": "This is a cathedral."
-        },
-        {
-            "filename": "images/Wdomenada2003b.jpeg",
-            "category": "shopping",
-            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-            "question": "Are the people male or female?",
-            "answer": "The people in the image are male and female."
-        },
-        {
-            "filename": "images/440px-Piranha1.jpeg",
-            "category": "travel",
-            "description": "Several large, shimmering piranhas in an aquarium with a dark backdrop.\n",
-            "question": "Are piranhas found in this specific location? ",
-            "answer": "No, piranhas are not found in this specific location."
-        },
-        {
-            "filename": "images/P-51_Mustang_edit1.jpeg",
-            "category": "social_media",
-            "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
-            "question": "Where was it taken",
-            "answer": "The image was taken from the cockpit of the P-51 Mustang aircraft."
-        },
-        {
-            "filename": "images/Shinto_married_couple.jpeg",
-            "category": "social_media",
-            "description": "Traditional Japanese wedding couple in front of a temple.\n",
-            "question": "What is the theme for the wedding?",
-            "answer": "The theme for the wedding is traditional Japanese."
-        },
-        {
-            "filename": "images/500px-Backzutaten_041.jpeg",
-            "category": "health",
-            "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
-            "question": "What would you bake it in?",
-            "answer": "Based on the image description, the person is browsing a health website and is looking at a cookbook with a pie recipe. The person is interested in baking a pie and is asking about the type of dish to use."
-        },
-        {
-            "filename": "images/440px-Kale_&_Poached_Eggs_Salad_(8733071700).jpg",
-            "category": "health",
-            "description": "A poached egg atop a bed of kale salad in a white bowl.\n",
-            "question": "What's in the salad besides kale?",
-            "answer": "The salad contains broccoli, which is a green vegetable that is a good source of vitamins and minerals."
-        },
-        {
-            "filename": "images/USMC-Rich_Froning_Jr.jpeg",
-            "category": "health",
-            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
-            "question": "Is the swimmer male or female?",
-            "answer": "The swimmer is male."
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
             "filename": "images/Gorskii_04414u.jpeg",
@@ -288,109 +15,291 @@
             "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/USMC-Rich_Froning_Jr.jpeg",
-            "category": "shopping",
-            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
-            "question": "Is he a professional athlete?",
-            "answer": "Yes, he is a professional athlete."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
-            "category": "science_journals",
-            "description": "Two translucent jellyfish floating in blue water.\n",
-            "question": "Are they in the ocean or in a tank?",
-            "answer": "Based on the image description, it is not possible to determine whether the jellyfish are in the ocean or in a tank."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/Souk_in_Tunisia_1.jpeg",
-            "category": "social_media",
-            "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
-            "question": "What kind of city do you think they are in?",
-            "answer": "Based on the image, I would say that they are in a city in the Middle East or North Africa. The market street is lined with stalls selling clothing, bags, and traditional goods, which is a common sight in these regions. Additionally, the architecture and the style of the buildings in the background also suggest that this is a city in the Middle East or North Africa."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/375px-Cannes_2015_22.jpeg",
-            "category": "shopping",
-            "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
-            "question": "Can you describe what she is wearing?",
-            "answer": "The woman in the image is wearing a long, flowing red dress with a deep neckline that reveals her cleavage. She also has long, flowing red hair that falls over her right shoulder."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
-            "category": "health",
-            "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
-            "question": "How old is the martial artist?",
-            "answer": "I cannot determine the age of the martial artist from the image description provided."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/440px-Progress_M-14M.jpeg",
-            "category": "science_journals",
-            "description": "A spacecraft with solar panels against the backdrop of Earth's atmosphere.\n",
-            "question": "Where is the image",
-            "answer": "The image is of a spacecraft with solar panels against the backdrop of Earth's atmosphere."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/Thanin_market_platu.jpeg",
-            "category": "health",
-            "description": "Mackerel fish in woven baskets at a Thai market.\n",
-            "question": "What type of fish?",
-            "answer": "Mackerel"
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-            "category": "social_media",
-            "description": "A group of people are working out on indoor rowing machines at a gym.",
-            "question": "What kind of clothes are they wearing?",
-            "answer": "The people in the image are wearing workout clothes such as tank tops, shorts, and leggings."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/Sprouting_mung_beans_in_a_jar.jpeg",
-            "category": "health",
-            "description": "Green mung beans sprouting inside a jar. The jar is tilted downward. The jar has a green lid.\n",
-            "question": "What color is the jar?",
-            "answer": "The jar is green."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/400px-Retinal_camera.jpeg",
-            "category": "health",
-            "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
-            "question": "What does the exam room look like?",
-            "answer": "The exam room is well-lit and clean. It has a white table and a chair for the patient to sit on. There is a large camera on a tripod in the corner of the room. The camera is connected to a computer monitor that is displaying the patient's retina."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
-            "category": "shopping",
-            "description": "A selection of fried snacks on a blue plate.\n",
-            "question": "what are the type of fried snacks show in the image",
-            "answer": "The image shows a plate of fried snacks, but it is not clear what type of snacks they are. The person may need to look at the image more closely to determine the type of snacks."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/600px-WaterPolo.jpeg",
-            "category": "health",
-            "description": "Ten players engaged in a water polo game in a pool, with some attempting to score a goal and others attempting to block the shot.\n",
-            "question": "Are there people watching the players play the game?",
-            "answer": "Yes, there are people watching the players play the game."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/440px-BeverlyHilton01.jpeg",
-            "category": "shopping",
-            "description": "The entrance of the Beverly Hilton hotel with a Hilton sign next to the driveway, landscaped trees on both sides of the driveway, and a clear blue sky.\n",
-            "question": "Is the building large?",
-            "answer": "Yes, the building is large."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/Ice_swimming_at_summer_cottage_Finland.jpeg",
-            "category": "health",
-            "description": "A man ice swimming in a frozen lake. There is a wooden fence behind the man. There is also snow all over the ground and a small cabin in the background. \n",
-            "question": "Do they seem to be representing ice swimming as a healthy pastime?",
-            "answer": "Yes, they seem to be representing ice swimming as a healthy pastime."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         },
         {
-            "filename": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
-            "category": "health",
-            "description": "A bunch of fresh carrots with greens attached.\n",
-            "question": "What are the attached greens?",
-            "answer": "The attached greens are likely to be chervil, which is a type of herb that is commonly used in cooking."
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
+        },
+        {
+            "filename": "images/Gorskii_04414u.jpeg",
+            "category": "news",
+            "description": "Vintage hydroelectric machinery in an industrial hall.\n",
+            "question": "What else is in the hall?",
+            "answer": "There are several large machines in the hall, including a large generator and a conveyor belt. The machines are all made of metal and have intricate details. The conveyor belt is particularly interesting as it has a series of pulleys and belts that are all connected together."
         }
     ]
 }

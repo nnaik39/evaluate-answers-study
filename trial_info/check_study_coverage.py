@@ -1,6 +1,6 @@
 import json 
 
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (13).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (14).json'))
 pilot_exp = json.load(open('pilot_exp.json'))
 
 all_original_answers = json.load(open('all_answers.json'))
@@ -52,16 +52,18 @@ for (img, ctxt, q) in coverage_pair:
     
     ans = ""
 
-    print("Number covered: ", len(coverage_pair[(img, ctxt, q)]))
+#    print("Number covered: ", len(coverage_pair[(img, ctxt, q)]))
     
     for answer in all_original_answers:
         if (answer['filename'] == img and answer['category'] == ctxt and answer['question'] == q):
             ans = answer['answer'] 
 
     for item in pilot_exp['images']:
-        print("Item: ", item)
         if (item['filename'] == img and item['category'] == ctxt and item['question'] == q):
             pilot_exp_entry = item 
+
+    print("Coverage pair: ", len(coverage_pair[(img, ctxt, q)]))
+    print("Pilot exp entry: ", pilot_exp_entry)
 
     if (len(coverage_pair[(img, ctxt, q)]) >= 5):
         num_covered += 1
@@ -90,6 +92,24 @@ for (img, ctxt, q) in coverage_pair:
     else:
         new_pilot_exp['images'].append(pilot_exp_entry)
 
+for entry in pilot_exp['images']:
+    found = False 
+
+    for (img, ctxt, q) in coverage_pair:
+        print("Entry: ", entry)
+        print("Img: ", img)
+        print("Ctxt: ", ctxt)
+        print("Question: ", q)
+        if (entry['filename'] == img and entry['category'] == ctxt and entry['question'] == q):
+            found = True 
+    if (not found):
+        new_pilot_exp['images'].append(pilot_exp_entry)
+
+with open('new_pilot_exp.json', 'w') as f:
+    f.write(json.dumps(new_pilot_exp, indent = 4))
+
+exit()
+
 for answer in all_original_answers:
     found = False 
 
@@ -102,8 +122,10 @@ for answer in all_original_answers:
         print("Length of coverage pair: ", len(coverage_pair[((img, ctxt, q))]))
         if (len(coverage_pair[(img, ctxt, q)]) < 5):
             new_pilot_exp['images'].append(answer)
-    elif (not found):
-            new_pilot_exp['images'].append(answer)
+    if (found):
+        new_pilot_exp['images'].append(answer)        
+#    elif (not found):
+ #           new_pilot_exp['images'].append(answer)
 
 print("Number fully covered: ", num_covered)
 
