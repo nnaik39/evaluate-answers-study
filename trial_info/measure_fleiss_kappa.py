@@ -4,25 +4,17 @@ from statsmodels.stats.inter_rater import fleiss_kappa
 import random 
 import numpy as np
 
-data = json.load(open('collected_datapoints.json'))
-all_original_answers = json.load(open('all_answers.json'))
 pilot_exp = json.load(open('pilot_exp.json'))
 
 all_q1_kappas = []
-
 all_q2_kappas = []
 
 num_covered = 0
 
-# house, "What is behind the cottage?"
-# hummingbird, "Is the hummingbird drinking from the flower?"
-# hummingbird, "Is there a flower in the image?"
-
-# TODO: Perform exclusions based on the attention checks
-# Check based on which hummingbird question it was
-
 random.seed(42)
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (11).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (13).json'))
+
+coverage_number = 5
 
 coverage_pair = {}
 
@@ -66,15 +58,12 @@ for (img, ctxt, q) in coverage_pair:
     
     ans = ""
     
-    for answer in all_original_answers:
-        if (answer['filename'] == img and answer['category'] == ctxt and answer['question'] == q):
-            ans = answer['answer'] 
-
-    for item in pilot_exp['images']:
+    for item in pilot_exp:
+        print("Item: ", item)
         if (item['filename'] == img and item['category'] == ctxt and item['question'] == q):
             pilot_exp_entry = item 
 
-    if (len(coverage_pair[(img, ctxt, q)]) >= 5):
+    if (len(coverage_pair[(img, ctxt, q)]) >= coverage_number):
         num_covered += 1
 
         q1_answers = []
@@ -99,26 +88,29 @@ for (img, ctxt, q) in coverage_pair:
                 'q2_other': q2_other
         })
 
-#print("Number fully covered: ", num_covered)
-#print("Length of collected datapoints: ", len(collected_datapoints))
-
-# number where the majority voted it correct
-# number where the majority voted it wrong
-# number where the majority voted 'idk'
+print("Number fully covered: ", num_covered)
+print("Length of collected datapoints: ", len(collected_datapoints))
 
 majority_count = {}
 
 def most_common(lst):
     return max(set(lst), key=lst.count)
 
+datapoint_vote = []
+
+print("Number of collected datapoints: ", len(collected_datapoints))
+
+with open("new_collected_datapoints.json", "w") as f:
+    f.write(json.dumps(collected_datapoints, indent = 4))
+
 for point in collected_datapoints:
     if (point['image'] == 'hummingbird.jpeg' or point['image'] == 'house.jpeg'):
         continue
 
-    if (len(point['q1']) < 7):
+    if (len(point['q1']) < coverage_number):
         continue 
 
-    point['q1'] = random.sample(point['q1'], 5)
+    point['q1'] = random.sample(point['q1'], coverage_number)
 
 #    print("Point: ", point['q1'])
 
@@ -128,7 +120,7 @@ for point in collected_datapoints:
 
     q1_kappa = fleiss_kappa(counts, method='uniform')
 
-    point['q2'] = random.sample(point['q2'], 5)
+    point['q2'] = random.sample(point['q2'], coverage_number)
 
     print("Point[q2] ", point['q2'])
     counts = np.array([
@@ -160,6 +152,7 @@ for point in collected_datapoints:
     all_q2_kappas.append(q2_kappa)
     all_q1_kappas.append(q1_kappa)
 
+print("Number of total points covered: ", len(all_q1_kappas))
 print("Mean Fleiss Kappa: ", np.mean(np.array(all_q1_kappas)))
 print("Mean Fleiss Kappa: ", np.mean(np.array(all_q2_kappas)))
 print("Majority Count: ", majority_count)

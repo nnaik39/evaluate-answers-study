@@ -12,6 +12,7 @@ print(selected_rows)
 pilot_exp = []
 
 for idx, row in selected_rows.iterrows():
+    # Check if it's in 
     pilot_exp.append({
         'filename': row['image'],
         'category': row['context'],

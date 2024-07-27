@@ -1,6 +1,6 @@
 import json 
 
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (11).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (13).json'))
 pilot_exp = json.load(open('pilot_exp.json'))
 
 all_original_answers = json.load(open('all_answers.json'))
@@ -9,6 +9,25 @@ coverage_pair = {}
 
 for participant in data:
     for trial in data[participant]:
+        include = True 
+
+        for trial in data[participant]:
+            if (trial['picture'] == 'house.jpeg') and (trial['question'] == 'What is behind the cottage?'):
+                if (trial['q1'] != 'correct' and trial['q2'] != 'image_required'):
+                    include = False 
+        
+            if (trial['picture'] == 'hummingbird.jpeg' and 'answer' not in trial):
+                if (trial['q1'] != 'correct' and trial['q2'] != 'image_required'):
+                    include = False 
+
+            if (trial['picture'] == 'hummingbird.jpeg' and 'answer' in trial):
+                if (trial['q1'] != 'wrong' and trial['q2'] != 'image_required'):
+                    include = False
+
+        if (not include):
+            print("Excluding based on attention checks")
+            continue 
+
         if ((trial['picture'], trial['category'], trial['question']) not in coverage_pair):
             coverage_pair[(trial['picture'], trial['category'], trial['question'])] = []
         coverage_pair[(trial['picture'], trial['category'], trial['question'])].append([trial['q1'], trial['q1OtherValue'], trial['q2'], trial['q2OtherValue']])
@@ -26,10 +45,14 @@ num_covered = 0
 
 collected_datapoints = []
 
+coverage_number = 5
+
 for (img, ctxt, q) in coverage_pair:
     pilot_exp_entry = {}
     
     ans = ""
+
+    print("Number covered: ", len(coverage_pair[(img, ctxt, q)]))
     
     for answer in all_original_answers:
         if (answer['filename'] == img and answer['category'] == ctxt and answer['question'] == q):
@@ -42,8 +65,6 @@ for (img, ctxt, q) in coverage_pair:
 
     if (len(coverage_pair[(img, ctxt, q)]) >= 5):
         num_covered += 1
-
-#        print("Coverage pair: ", coverage_pair)
 
         q1_answers = []
         q1_other = []
@@ -69,19 +90,24 @@ for (img, ctxt, q) in coverage_pair:
     else:
         new_pilot_exp['images'].append(pilot_exp_entry)
 
-#for answer in all_original_answers:
- #   found = False 
+for answer in all_original_answers:
+    found = False 
 
-#    for (img, ctxt, q) in coverage_pair:
- #       if (answer['filename'] == img and answer['category'] == ctxt and answer['question'] == q):
-  #          found = True 
+    print("Length of coverage pair: ", len(coverage_pair[(img, ctxt, q)]))
+    for (img, ctxt, q) in coverage_pair:
+        if (answer['filename'] == img and answer['category'] == ctxt and answer['question'] == q):
+            found = True 
 
-#    if (not found):
- #       new_pilot_exp['images'].append(answer)
+    if (found and len(coverage_pair[(img, ctxt, q)])):
+        print("Length of coverage pair: ", len(coverage_pair[((img, ctxt, q))]))
+        if (len(coverage_pair[(img, ctxt, q)]) < 5):
+            new_pilot_exp['images'].append(answer)
+    elif (not found):
+            new_pilot_exp['images'].append(answer)
 
 print("Number fully covered: ", num_covered)
 
-with open('collected_datapoints.json', 'w') as f:
+with open('collected_datapoints_new.json', 'w') as f:
     f.write(json.dumps(collected_datapoints, indent = 4))
 
 with open('new_pilot_exp.json', 'w') as f:
