@@ -1,6 +1,6 @@
 import json 
 
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (15).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (17).json'))
 pilot_exp = json.load(open('pilot_exp.json'))
 
 all_original_answers = json.load(open('all_answers.json'))
@@ -45,7 +45,7 @@ num_covered = 0
 
 collected_datapoints = []
 
-coverage_number = 5
+coverage_number = 4
 
 for (img, ctxt, q) in coverage_pair:
     pilot_exp_entry = {}
@@ -65,7 +65,7 @@ for (img, ctxt, q) in coverage_pair:
     print("Coverage pair: ", len(coverage_pair[(img, ctxt, q)]))
     print("Pilot exp entry: ", pilot_exp_entry)
 
-    if (len(coverage_pair[(img, ctxt, q)]) >= 5):
+    if (len(coverage_pair[(img, ctxt, q)]) >= 4):
         num_covered += 1
 
         q1_answers = []
@@ -111,19 +111,15 @@ with open('new_pilot_exp.json', 'w') as f:
 for answer in all_original_answers:
     found = False 
 
-    print("Length of coverage pair: ", len(coverage_pair[(img, ctxt, q)]))
     for (img, ctxt, q) in coverage_pair:
         if (answer['filename'] == img and answer['category'] == ctxt and answer['question'] == q):
             found = True 
 
     if (found and len(coverage_pair[(img, ctxt, q)])):
-        print("Length of coverage pair: ", len(coverage_pair[((img, ctxt, q))]))
-        if (len(coverage_pair[(img, ctxt, q)]) < 5):
+        if (len(coverage_pair[(img, ctxt, q)]) < 4):
             new_pilot_exp['images'].append(answer)
-    if (found):
-        new_pilot_exp['images'].append(answer)        
-#    elif (not found):
- #           new_pilot_exp['images'].append(answer)
+    elif (not found):
+            new_pilot_exp['images'].append(answer)
 
 print("Number fully covered: ", num_covered)
 

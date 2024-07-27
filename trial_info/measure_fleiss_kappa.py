@@ -12,7 +12,7 @@ all_q2_kappas = []
 num_covered = 0
 
 random.seed(42)
-data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (13).json'))
+data = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-evaluate-answers-study-export (16).json'))
 
 coverage_number = 5
 
@@ -58,7 +58,7 @@ for (img, ctxt, q) in coverage_pair:
     
     ans = ""
     
-    for item in pilot_exp:
+    for item in pilot_exp['images']:
         print("Item: ", item)
         if (item['filename'] == img and item['category'] == ctxt and item['question'] == q):
             pilot_exp_entry = item 
@@ -156,3 +156,6 @@ print("Number of total points covered: ", len(all_q1_kappas))
 print("Mean Fleiss Kappa: ", np.mean(np.array(all_q1_kappas)))
 print("Mean Fleiss Kappa: ", np.mean(np.array(all_q2_kappas)))
 print("Majority Count: ", majority_count)
+
+with open("covered_datapoints.json", "w") as f:
+    f.write(json.dumps(collected_datapoints, indent = 4))

@@ -6,234 +6,10 @@
         "answer": "",
         "q1": [
             "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "idk",
-            "wrong",
             "wrong",
             "correct",
             "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
-            "correct",
-            "wrong",
-            "wrong",
-            "correct",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "correct",
-            "wrong",
-            "wrong",
-            "idk",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "",
-            "idk",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "correct",
-            "",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "idk",
-            "wrong",
-            "",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "idk",
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
-            "",
-            "wrong",
-            "idk",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "correct",
-            "",
-            "correct",
-            "wrong",
-            "wrong",
-            "",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "",
-            "wrong",
-            "",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
-            "correct"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -467,234 +243,10 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
             "image_required",
             "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -935,26 +487,11 @@
         "question": "Are there any intricate designs on the archways, and what color is the building?",
         "answer": "",
         "q1": [
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
             "correct",
             "wrong",
             "correct",
-            "wrong",
-            "wrong",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -979,21 +516,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -1033,8 +555,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -1047,12 +567,10 @@
             ""
         ],
         "q2": [
+            "image_required",
+            "image_required",
+            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -1075,11 +593,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -1095,11 +608,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_required",
@@ -1125,24 +633,10 @@
         "question": "Does it look delicious?",
         "answer": "",
         "q1": [
-            "",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
             "correct",
             "",
-            "wrong",
-            "correct",
-            "idk",
-            "idk",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "idk",
-            "",
-            "",
             ""
         ],
         "q1_other": [
@@ -1167,20 +661,6 @@
             "This is entirely subjective and requires a human to answer."
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -1215,11 +695,11 @@
         "question": "Who are the people in the image?",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
+            "idk",
             "wrong",
             "idk",
-            "idk"
+            "correct",
+            "correct"
         ],
         "q1_other": [
             "",
@@ -1230,10 +710,10 @@
         ],
         "q2": [
             "image_not_required",
-            "image_not_required",
+            "image_required",
             "image_not_required",
             "image_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -1249,12 +729,7 @@
         "question": "Is it sunny?",
         "answer": "",
         "q1": [
-            "correct",
             "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct",
             "correct",
             "correct",
@@ -1277,12 +752,7 @@
             "image_required",
             "image_required",
             "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -1303,231 +773,7 @@
         "question": "What is behind the cottage?",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct",
             "correct",
             "correct",
@@ -1765,230 +1011,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -2233,38 +1255,11 @@
         "question": "Can you tell me what the color, size and texture looks like?",
         "answer": "",
         "q1": [
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
             "correct",
             "correct",
             "correct",
             "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "correct",
-            "correct",
-            "idk"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -2305,34 +1300,7 @@
             "image_required",
             "image_required",
             "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -2375,13 +1343,11 @@
         "question": "Where is it located?",
         "answer": "",
         "q1": [
+            "idk",
             "",
             "correct",
             "idk",
-            "correct",
-            "correct",
-            "",
-            "idk"
+            ""
         ],
         "q1_other": [
             "It's technically correct, but probably not what they were asking for",
@@ -2394,11 +1360,9 @@
         ],
         "q2": [
             "image_not_required",
-            "image_required",
             "image_not_required",
             "image_not_required",
             "image_required",
-            "image_not_required",
             "image_not_required"
         ],
         "q2_other": [
@@ -2417,12 +1381,11 @@
         "question": "What gender are the people in the hot tub?",
         "answer": "",
         "q1": [
-            "correct",
+            "",
             "idk",
-            "",
-            "",
             "correct",
-            "wrong"
+            "wrong",
+            ""
         ],
         "q1_other": [
             "",
@@ -2434,11 +1397,10 @@
         ],
         "q2": [
             "image_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -2455,9 +1417,9 @@
         "question": "How old do they look?",
         "answer": "",
         "q1": [
+            "correct",
+            "correct",
             "wrong",
-            "correct",
-            "correct",
             "idk",
             "correct"
         ],
@@ -2489,9 +1451,8 @@
         "question": "What is a ophthalmic retinal camera for?",
         "answer": "",
         "q1": [
+            "correct",
             "idk",
-            "correct",
-            "correct",
             "idk",
             "correct",
             "correct"
@@ -2505,7 +1466,6 @@
             ""
         ],
         "q2": [
-            "image_not_required",
             "image_not_required",
             "image_not_required",
             "image_not_required",
@@ -2527,12 +1487,11 @@
         "question": "What else is in the landscape next to the river?",
         "answer": "",
         "q1": [
+            "idk",
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "idk"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -2543,7 +1502,6 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_required",
             "image_required",
             "image_not_required",
@@ -2566,22 +1524,10 @@
         "answer": "",
         "q1": [
             "wrong",
-            "correct",
-            "wrong",
             "wrong",
             "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
             "idk",
-            "correct",
-            "correct",
-            "correct",
-            ""
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -2603,21 +1549,9 @@
             "it is technically correct that they cannot determine the exact time of day, but they could at least describe that it is sometime during the day because it is sunny"
         ],
         "q2": [
-            "image_required",
             "image_not_required",
             "image_required",
-            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
             "image_required",
             "image_not_required"
         ],
@@ -2647,11 +1581,10 @@
         "question": "Is this a yoga or pilates studio?",
         "answer": "",
         "q1": [
+            "idk",
+            "idk",
+            "idk",
             "wrong",
-            "idk",
-            "idk",
-            "idk",
-            "idk",
             "idk"
         ],
         "q1_other": [
@@ -2663,11 +1596,10 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_required",
             "image_required",
             "image_not_required",
             "image_not_required",
+            "image_required",
             "image_not_required"
         ],
         "q2_other": [
@@ -2686,23 +1618,9 @@
         "answer": "",
         "q1": [
             "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
             "wrong",
             "correct",
             "correct",
-            "idk",
-            "correct",
-            "idk",
-            "wrong",
-            "idk",
-            "",
             "idk"
         ],
         "q1_other": [
@@ -2727,25 +1645,11 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
             "image_required",
             "image_not_required",
             "image_required",
             "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -2776,11 +1680,10 @@
         "answer": "",
         "q1": [
             "wrong",
-            "correct",
+            "wrong",
             "idk",
-            "wrong",
-            "wrong",
-            "idk"
+            "idk",
+            "correct"
         ],
         "q1_other": [
             "",
@@ -2792,9 +1695,8 @@
         ],
         "q2": [
             "image_not_required",
+            "image_not_required",
             "image_required",
-            "image_not_required",
-            "image_not_required",
             "image_not_required",
             "image_not_required"
         ],
@@ -2813,15 +1715,6 @@
         "question": "Are there any landmarks to the beach that suggest where is might be?",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct",
             "correct",
             "correct",
@@ -2846,16 +1739,7 @@
         ],
         "q2": [
             "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required"
@@ -2886,10 +1770,8 @@
             "idk",
             "wrong",
             "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "correct"
+            "correct",
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -2901,10 +1783,8 @@
             ""
         ],
         "q2": [
-            "image_not_required",
             "image_required",
             "image_not_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required"
@@ -2925,11 +1805,11 @@
         "question": "Is the picture representing a product?",
         "answer": "",
         "q1": [
-            "idk",
+            "wrong",
             "idk",
             "wrong",
             "wrong",
-            "wrong"
+            "idk"
         ],
         "q1_other": [
             "",
@@ -2963,17 +1843,7 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "",
-            "",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "wrong",
-            "correct"
+            ""
         ],
         "q1_other": [
             "",
@@ -2993,16 +1863,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_required",
@@ -3034,11 +1894,8 @@
         "answer": "",
         "q1": [
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "idk",
+            "correct",
             "correct",
             "correct"
         ],
@@ -3054,12 +1911,9 @@
         ],
         "q2": [
             "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
+            "image_required",
+            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -3079,20 +1933,11 @@
         "question": "What is the climber wearing?",
         "answer": "",
         "q1": [
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "wrong",
-            "correct",
             "correct",
             "correct",
             "",
-            "correct",
-            "correct",
-            "correct"
+            "wrong",
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -3112,19 +1957,10 @@
         ],
         "q2": [
             "image_required",
+            "image_not_required",
             "image_required",
             "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -3150,8 +1986,6 @@
         "answer": "",
         "q1": [
             "correct",
-            "correct",
-            "correct",
             "idk",
             "correct",
             "correct",
@@ -3167,10 +2001,8 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_not_required",
             "image_required",
-            "image_not_required",
             "image_required",
             "image_not_required",
             "image_required"
@@ -3194,21 +2026,8 @@
             "correct",
             "correct",
             "correct",
-            "wrong",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -3231,24 +2050,11 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_not_required",
-            "image_not_required"
+            "image_not_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -3278,10 +2084,10 @@
         "answer": "",
         "q1": [
             "wrong",
-            "correct",
             "wrong",
             "idk",
-            "wrong"
+            "wrong",
+            "correct"
         ],
         "q1_other": [
             "",
@@ -3313,9 +2119,7 @@
         "q1": [
             "correct",
             "wrong",
-            "idk",
             "correct",
-            "wrong",
             "idk",
             "idk"
         ],
@@ -3329,8 +2133,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -3357,22 +2159,6 @@
             "wrong",
             "wrong",
             "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
             "wrong"
         ],
         "q1_other": [
@@ -3403,23 +2189,7 @@
             "image_required",
             "image_required",
             "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -3455,8 +2225,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -3471,10 +2239,8 @@
         "q2": [
             "image_required",
             "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
+            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -3495,8 +2261,8 @@
         "q1": [
             "wrong",
             "wrong",
-            "wrong",
             "correct",
+            "wrong",
             "wrong"
         ],
         "q1_other": [
@@ -3528,22 +2294,10 @@
         "answer": "",
         "q1": [
             "correct",
-            "idk",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "",
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct",
-            "wrong"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -3567,18 +2321,6 @@
         "q2": [
             "image_required",
             "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "",
             "image_required",
             "image_required",
             "image_required"
@@ -3609,11 +2351,10 @@
         "question": "Can you describe the marathon runner?",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
-            "wrong",
-            "wrong",
             "idk",
+            "wrong",
+            "correct",
+            "wrong",
             "idk"
         ],
         "q1_other": [
@@ -3628,9 +2369,8 @@
             "image_required",
             "image_required",
             "image_required",
-            "image_required",
-            "image_required",
-            ""
+            "",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -3650,7 +2390,6 @@
             "idk",
             "idk",
             "idk",
-            "idk",
             "wrong",
             "idk"
         ],
@@ -3663,7 +2402,6 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -3685,17 +2423,10 @@
         "question": "what are the type of fried snacks show in the image",
         "answer": "",
         "q1": [
-            "idk",
-            "correct",
-            "correct",
-            "correct",
             "correct",
             "idk",
-            "wrong",
-            "idk",
             "correct",
-            "wrong",
-            "idk",
+            "correct",
             "idk"
         ],
         "q1_other": [
@@ -3715,16 +2446,9 @@
         "q2": [
             "image_required",
             "image_required",
+            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -3748,10 +2472,9 @@
         "answer": "",
         "q1": [
             "idk",
-            "wrong",
+            "idk",
             "idk",
             "wrong",
-            "idk",
             "idk"
         ],
         "q1_other": [
@@ -3763,12 +2486,11 @@
             ""
         ],
         "q2": [
+            "image_required",
+            "image_required",
             "image_not_required",
             "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -3785,12 +2507,9 @@
         "question": "Does this look like a good place for skiing or snowmobiles?",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "wrong",
-            "wrong",
+            "correct",
+            "correct",
             "correct",
             "correct"
         ],
@@ -3805,11 +2524,8 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_not_required",
             "image_required",
-            "image_not_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_required"
@@ -3866,9 +2582,8 @@
         "answer": "",
         "q1": [
             "correct",
-            "correct",
-            "correct",
             "idk",
+            "correct",
             "correct",
             "correct"
         ],
@@ -3882,9 +2597,8 @@
         ],
         "q2": [
             "image_not_required",
+            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required"
         ],
@@ -3904,27 +2618,10 @@
         "answer": "",
         "q1": [
             "correct",
-            "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "wrong",
-            "correct",
-            "correct",
             "correct",
             "wrong",
             "correct",
-            "correct",
-            "correct",
-            "correct"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -3951,23 +2648,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
             "image_required",
             "image_required",
@@ -4005,10 +2685,10 @@
         "question": "What genre of music is being represented by this singer?",
         "answer": "",
         "q1": [
-            "correct",
             "idk",
-            "wrong",
             "correct",
+            "correct",
+            "wrong",
             "correct"
         ],
         "q1_other": [
@@ -4019,11 +2699,11 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_not_required",
             "image_not_required",
             "image_required",
-            "image_required"
+            "image_required",
+            "image_required",
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -4039,11 +2719,11 @@
         "question": "Where does the chapel look like it is located?",
         "answer": "",
         "q1": [
+            "correct",
+            "correct",
             "idk",
-            "correct",
-            "correct",
-            "correct",
-            "idk"
+            "idk",
+            "correct"
         ],
         "q1_other": [
             "",
@@ -4053,11 +2733,11 @@
             ""
         ],
         "q2": [
+            "image_required",
             "image_not_required",
             "image_required",
             "image_not_required",
-            "image_not_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -4074,12 +2754,10 @@
         "answer": "",
         "q1": [
             "correct",
+            "idk",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -4093,10 +2771,8 @@
         "q2": [
             "image_required",
             "image_not_required",
+            "image_not_required",
             "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_not_required",
             "image_required"
         ],
         "q2_other": [
@@ -4119,8 +2795,6 @@
             "wrong",
             "wrong",
             "wrong",
-            "wrong",
-            "wrong",
             "wrong"
         ],
         "q1_other": [
@@ -4133,8 +2807,6 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -4157,9 +2829,9 @@
         "question": "Is this website for a place that sells these smoothies, or is it for a company that sells equipment to make them?",
         "answer": "",
         "q1": [
+            "idk",
+            "idk",
             "correct",
-            "idk",
-            "idk",
             "wrong",
             "idk"
         ],
@@ -4171,9 +2843,9 @@
             ""
         ],
         "q2": [
+            "image_not_required",
+            "image_not_required",
             "image_required",
-            "image_not_required",
-            "image_not_required",
             "image_not_required",
             "image_not_required"
         ],
@@ -4195,8 +2867,7 @@
             "idk",
             "wrong",
             "wrong",
-            "wrong",
-            "idk"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -4208,9 +2879,8 @@
         ],
         "q2": [
             "image_required",
+            "image_required",
             "",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required"
         ],
@@ -4233,9 +2903,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -4249,14 +2916,11 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_not_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
             "image_required",
             "image_not_required",
-            "image_not_required"
+            "image_not_required",
+            "image_not_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -4276,14 +2940,10 @@
         "answer": "",
         "q1": [
             "correct",
+            "wrong",
+            "wrong",
             "correct",
-            "correct",
-            "wrong",
-            "wrong",
-            "",
-            "wrong",
-            "wrong",
-            "correct"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -4297,10 +2957,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -4329,8 +2985,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -4343,8 +2997,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -4371,13 +3023,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -4395,18 +3040,11 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
             "image_not_required",
             "image_not_required",
             "image_required",
-            "image_required",
             "image_not_required",
-            "image_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -4430,23 +3068,10 @@
         "answer": "",
         "q1": [
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
             "idk",
-            "",
-            "idk"
+            "correct",
+            "correct",
+            "correct"
         ],
         "q1_other": [
             "",
@@ -4470,21 +3095,8 @@
         ],
         "q2": [
             "image_required",
-            "image_not_required",
             "image_required",
             "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
             "image_required",
             "image_required"
         ],
@@ -4515,11 +3127,11 @@
         "question": "What color is the space station?",
         "answer": "",
         "q1": [
+            "wrong",
+            "correct",
             "",
             "correct",
-            "correct",
-            "correct",
-            "wrong"
+            "correct"
         ],
         "q1_other": [
             "I would say the space station is multi-colored.",
@@ -4529,11 +3141,11 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_not_required",
             "image_required",
-            "image_not_required",
-            "image_required"
+            "image_required",
+            "image_required",
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -4549,11 +3161,10 @@
         "question": "what are they doing as they fall",
         "answer": "",
         "q1": [
-            "",
             "idk",
             "wrong",
-            "wrong",
             "",
+            "wrong",
             "wrong"
         ],
         "q1_other": [
@@ -4565,7 +3176,6 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -4587,12 +3197,11 @@
         "question": "Is this someone who is visiting Japan?",
         "answer": "",
         "q1": [
-            "correct",
-            "idk",
-            "wrong",
             "",
-            "wrong",
-            "idk"
+            "idk",
+            "idk",
+            "correct",
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -4604,11 +3213,10 @@
         ],
         "q2": [
             "image_required",
-            "image_not_required",
-            "image_not_required",
             "image_required",
-            "",
-            "image_not_required"
+            "image_not_required",
+            "image_not_required",
+            ""
         ],
         "q2_other": [
             "",
@@ -4625,40 +3233,11 @@
         "question": "What colors are in the image.",
         "answer": "",
         "q1": [
-            "idk",
             "wrong",
             "wrong",
             "wrong",
             "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
-            "wrong",
-            "idk",
-            "wrong",
-            "wrong",
-            "wrong",
-            "",
-            "wrong",
-            ""
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -4697,35 +3276,6 @@
             "that is wrong the image is in color the clouds are white with space being black but the world is green and blue "
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
             "image_not_required",
             "image_required",
             "image_required",
@@ -4775,17 +3325,11 @@
         "question": "Where is this rainforest located?",
         "answer": "",
         "q1": [
-            "idk",
-            "correct",
-            "idk",
-            "idk",
-            "idk",
-            "idk",
-            "wrong",
             "wrong",
             "idk",
             "wrong",
-            "correct"
+            "idk",
+            "idk"
         ],
         "q1_other": [
             "",
@@ -4805,12 +3349,6 @@
             "image_not_required",
             "image_not_required",
             "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "",
-            "image_not_required",
-            "image_not_required",
             "image_not_required"
         ],
         "q2_other": [
@@ -4837,7 +3375,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -4850,11 +3387,10 @@
         ],
         "q2": [
             "image_not_required",
-            "image_required",
             "image_not_required",
             "image_not_required",
-            "image_required",
-            "image_not_required"
+            "image_not_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -4873,11 +3409,8 @@
         "q1": [
             "wrong",
             "correct",
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
             "idk",
+            "wrong",
             "wrong"
         ],
         "q1_other": [
@@ -4894,9 +3427,6 @@
             "image_required",
             "image_required",
             "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
             "image_required",
             "image_not_required"
         ],
@@ -4920,10 +3450,7 @@
             "wrong",
             "wrong",
             "wrong",
-            "wrong",
-            "wrong",
             "",
-            "idk",
             "wrong"
         ],
         "q1_other": [
@@ -4940,9 +3467,6 @@
             "image_required",
             "image_required",
             "image_required",
-            "image_required",
-            "image_required",
-            "",
             "image_required",
             "image_required"
         ],
@@ -4965,9 +3489,8 @@
         "q1": [
             "wrong",
             "wrong",
+            "wrong",
             "correct",
-            "wrong",
-            "wrong",
             "wrong"
         ],
         "q1_other": [
@@ -4979,7 +3502,6 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -5003,12 +3525,9 @@
         "q1": [
             "idk",
             "wrong",
-            "idk",
-            "wrong",
-            "wrong",
             "correct",
-            "idk",
-            ""
+            "",
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -5021,14 +3540,11 @@
             "the question is wrong. It should say \"what body of water is this?'"
         ],
         "q2": [
-            "image_required",
             "image_not_required",
             "image_not_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required"
+            "image_not_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -5082,14 +3598,9 @@
         "answer": "",
         "q1": [
             "idk",
-            "wrong",
-            "correct",
-            "idk",
-            "idk",
-            "idk",
             "idk",
             "wrong",
-            "wrong",
+            "idk",
             "idk"
         ],
         "q1_other": [
@@ -5105,15 +3616,10 @@
             ""
         ],
         "q2": [
+            "image_required",
+            "image_required",
+            "",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "",
-            "image_required",
-            "",
             ""
         ],
         "q2_other": [
@@ -5139,13 +3645,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -5164,17 +3663,10 @@
         ],
         "q2": [
             "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
             "image_required",
-            "image_required",
             "image_not_required",
-            "image_not_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -5198,16 +3690,10 @@
         "answer": "",
         "q1": [
             "correct",
-            "correct",
-            "",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "idk",
             "correct",
             "correct",
-            "idk"
+            ""
         ],
         "q1_other": [
             "",
@@ -5223,17 +3709,11 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_not_required",
             "image_not_required",
             "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -5255,8 +3735,8 @@
         "question": "Are the outfits adequate for the environment they're in?",
         "answer": "",
         "q1": [
-            "idk",
             "correct",
+            "idk",
             "idk",
             "idk",
             "wrong"
@@ -5269,10 +3749,10 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_not_required",
             "image_not_required",
             "",
+            "image_not_required",
+            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -5289,10 +3769,10 @@
         "question": "Is this imagine indoors or outdoors?",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
-            "idk",
             "wrong",
+            "idk",
+            "correct",
+            "correct",
             "correct"
         ],
         "q1_other": [
@@ -5303,9 +3783,9 @@
             ""
         ],
         "q2": [
+            "image_required",
+            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required"
         ],
@@ -5323,11 +3803,11 @@
         "question": "How old do the participants appear to be.",
         "answer": "",
         "q1": [
-            "correct",
+            "idk",
+            "idk",
             "wrong",
             "correct",
-            "idk",
-            "idk"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -5358,15 +3838,10 @@
         "answer": "",
         "q1": [
             "wrong",
-            "correct",
             "wrong",
             "idk",
             "correct",
-            "idk",
-            "correct",
-            "wrong",
-            "idk",
-            "wrong"
+            "idk"
         ],
         "q1_other": [
             "",
@@ -5381,11 +3856,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "",
             "image_required",
             "image_required",
@@ -5411,9 +3881,9 @@
         "question": "What color is the glow of the corona in the image?",
         "answer": "",
         "q1": [
-            "wrong",
-            "wrong",
             "correct",
+            "wrong",
+            "wrong",
             "correct",
             "correct"
         ],
@@ -5445,11 +3915,10 @@
         "question": "Is this an advertisement for some kind of service-based business?",
         "answer": "",
         "q1": [
+            "idk",
             "wrong",
+            "idk",
             "wrong",
-            "idk",
-            "idk",
-            "idk",
             "wrong"
         ],
         "q1_other": [
@@ -5462,11 +3931,10 @@
         ],
         "q2": [
             "image_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -5483,15 +3951,10 @@
         "question": "Are there people watching the players play the game?",
         "answer": "",
         "q1": [
+            "idk",
+            "idk",
+            "correct",
             "wrong",
-            "idk",
-            "idk",
-            "idk",
-            "wrong",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
             "idk"
         ],
         "q1_other": [
@@ -5508,15 +3971,10 @@
         ],
         "q2": [
             "image_required",
-            "image_not_required",
             "",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
             "image_not_required",
             "image_not_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -5541,10 +3999,6 @@
             "correct",
             "idk",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -5559,10 +4013,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -5587,13 +4037,11 @@
         "question": "What is the purpose of showing this man?",
         "answer": "",
         "q1": [
-            "idk",
-            "correct",
-            "wrong",
             "correct",
             "idk",
+            "correct",
             "idk",
-            "idk"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -5605,13 +4053,11 @@
             ""
         ],
         "q2": [
-            "image_not_required",
+            "",
             "image_required",
             "image_not_required",
-            "image_not_required",
             "image_required",
-            "image_required",
-            ""
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -5633,11 +4079,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -5653,11 +4094,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -5683,11 +4119,11 @@
         "question": "Why are they in space?",
         "answer": "",
         "q1": [
-            "idk",
-            "idk",
             "correct",
             "correct",
-            "correct"
+            "idk",
+            "correct",
+            "idk"
         ],
         "q1_other": [
             "",
@@ -5698,10 +4134,10 @@
         ],
         "q2": [
             "image_required",
-            "image_required",
             "image_not_required",
             "image_required",
-            "image_not_required"
+            "image_not_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -5719,9 +4155,9 @@
         "q1": [
             "idk",
             "wrong",
-            "wrong",
             "idk",
-            "idk"
+            "idk",
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -5731,8 +4167,8 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_not_required",
+            "image_required",
             "image_not_required",
             "image_not_required",
             "image_required"
@@ -5755,9 +4191,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -5775,10 +4208,7 @@
             "image_required",
             "image_not_required",
             "image_not_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -5797,12 +4227,10 @@
         "question": "who is the person in the image and what is the context of his appearance on the news website.",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
             "wrong",
+            "correct",
+            "idk",
             "wrong",
-            "idk",
-            "idk",
             "wrong"
         ],
         "q1_other": [
@@ -5816,11 +4244,9 @@
         ],
         "q2": [
             "image_not_required",
+            "image_required",
+            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -5843,7 +4269,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -5858,7 +4283,6 @@
             "image_not_required",
             "image_required",
             "image_not_required",
-            "image_required",
             "image_required",
             "image_required"
         ],
@@ -5880,10 +4304,8 @@
             "correct",
             "idk",
             "idk",
-            "idk",
             "correct",
-            "wrong",
-            "idk"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -5895,11 +4317,9 @@
             ""
         ],
         "q2": [
+            "image_not_required",
             "image_required",
             "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_not_required",
             "image_required",
             "image_required"
         ],
@@ -5920,7 +4340,6 @@
         "answer": "",
         "q1": [
             "correct",
-            "idk",
             "correct",
             "correct",
             "correct",
@@ -5935,7 +4354,6 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -5960,15 +4378,7 @@
             "correct",
             "correct",
             "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "wrong",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -5987,18 +4397,10 @@
             ""
         ],
         "q2": [
-            "image_not_required",
             "image_required",
-            "image_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_not_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -6023,18 +4425,11 @@
         "question": "Is the location being depicted known for the supernatural occult?",
         "answer": "",
         "q1": [
+            "correct",
+            "correct",
+            "wrong",
             "idk",
-            "correct",
-            "idk",
-            "correct",
-            "idk",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -6052,17 +4447,10 @@
         ],
         "q2": [
             "image_required",
-            "image_required",
-            "image_required",
             "",
-            "",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
-            "image_not_required"
+            "image_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -6085,8 +4473,8 @@
         "question": "What does this have to do with shopping?",
         "answer": "",
         "q1": [
-            "",
             "correct",
+            "",
             "correct",
             "correct",
             "correct"
@@ -6099,10 +4487,10 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_required",
             "image_required",
             "image_not_required",
+            "image_not_required",
+            "image_required",
             "image_not_required"
         ],
         "q2_other": [
@@ -6119,11 +4507,11 @@
         "question": "How large is the rock?",
         "answer": "",
         "q1": [
-            "wrong",
+            "idk",
             "wrong",
             "idk",
-            "idk",
-            "correct"
+            "correct",
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -6153,11 +4541,10 @@
         "question": "What organization do the blue uniforms represent?",
         "answer": "",
         "q1": [
-            "correct",
+            "idk",
             "wrong",
             "idk",
-            "idk",
-            "idk",
+            "correct",
             "idk"
         ],
         "q1_other": [
@@ -6173,7 +4560,6 @@
             "image_not_required",
             "image_required",
             "image_required",
-            "image_not_required",
             "image_not_required"
         ],
         "q2_other": [
@@ -6191,13 +4577,11 @@
         "question": "From where are they watching?",
         "answer": "",
         "q1": [
+            "idk",
             "wrong",
             "wrong",
             "idk",
-            "idk",
-            "correct",
-            "wrong",
-            "wrong"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -6209,10 +4593,8 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
+            "image_required",
             "image_not_required",
             "image_required",
             "image_required"
@@ -6237,11 +4619,7 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -6255,10 +4633,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -6283,11 +4657,11 @@
         "question": "What is the man wearing?",
         "answer": "",
         "q1": [
+            "wrong",
             "correct",
             "correct",
             "correct",
-            "correct",
-            "wrong"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -6298,9 +4672,9 @@
         ],
         "q2": [
             "image_required",
+            "image_not_required",
+            "image_not_required",
             "image_required",
-            "image_not_required",
-            "image_not_required",
             "image_required"
         ],
         "q2_other": [
@@ -6317,11 +4691,10 @@
         "question": "What is the purpose of this sea creature on this website?",
         "answer": "",
         "q1": [
-            "idk",
+            "wrong",
+            "wrong",
             "wrong",
             "idk",
-            "wrong",
-            "wrong",
             "idk"
         ],
         "q1_other": [
@@ -6337,7 +4710,6 @@
             "image_not_required",
             "image_not_required",
             "image_not_required",
-            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -6355,10 +4727,9 @@
         "question": "Are the people male or female?",
         "answer": "",
         "q1": [
+            "correct",
             "",
             "idk",
-            "correct",
-            "correct",
             "correct",
             "idk"
         ],
@@ -6371,7 +4742,6 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -6393,19 +4763,6 @@
         "question": "Are astronauts in the photo?",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
             "correct",
             "correct",
             "correct",
@@ -6434,19 +4791,6 @@
         ],
         "q2": [
             "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_required",
@@ -6480,10 +4824,10 @@
         "answer": "",
         "q1": [
             "correct",
-            "wrong",
             "correct",
-            "idk",
-            "correct"
+            "correct",
+            "wrong",
+            "idk"
         ],
         "q1_other": [
             "",
@@ -6513,19 +4857,11 @@
         "question": "What specifically is this night time celebration for?",
         "answer": "",
         "q1": [
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
-            "idk",
-            "idk",
-            "idk",
             "idk",
             "idk",
             "correct",
-            "idk",
             "correct",
-            "correct"
+            "idk"
         ],
         "q1_other": [
             "",
@@ -6543,14 +4879,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
             "image_required",
             "image_required",
@@ -6579,15 +4907,10 @@
         "question": "Where was it taken",
         "answer": "",
         "q1": [
-            "correct",
-            "wrong",
-            "wrong",
-            "wrong",
             "wrong",
             "correct",
-            "",
             "wrong",
-            "",
+            "correct",
             "idk"
         ],
         "q1_other": [
@@ -6603,16 +4926,11 @@
             ""
         ],
         "q2": [
+            "image_required",
+            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required"
+            "image_not_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -6647,11 +4965,11 @@
             ""
         ],
         "q2": [
-            "image_not_required",
+            "image_required",
             "image_required",
             "image_not_required",
             "image_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -6668,13 +4986,10 @@
         "answer": "",
         "q1": [
             "wrong",
-            "correct",
-            "correct",
+            "idk",
             "wrong",
-            "correct",
             "",
-            "wrong",
-            "idk"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -6688,12 +5003,9 @@
         ],
         "q2": [
             "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_not_required",
+            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -6715,9 +5027,9 @@
         "q1": [
             "",
             "idk",
-            "idk",
             "",
-            ""
+            "",
+            "idk"
         ],
         "q1_other": [
             "image didnt load",
@@ -6727,10 +5039,10 @@
             "picture did not load on my browser (chrome)"
         ],
         "q2": [
-            "",
-            "image_required",
             "image_not_required",
             "",
+            "",
+            "image_required",
             ""
         ],
         "q2_other": [
@@ -6748,10 +5060,8 @@
         "answer": "",
         "q1": [
             "correct",
-            "correct",
-            "correct",
-            "correct",
             "idk",
+            "correct",
             "correct",
             "correct"
         ],
@@ -6767,10 +5077,8 @@
         "q2": [
             "image_required",
             "image_required",
+            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -6789,11 +5097,11 @@
         "question": "What is on the fast food on the cup",
         "answer": "",
         "q1": [
-            "",
+            "correct",
+            "correct",
             "correct",
             "wrong",
-            "correct",
-            "correct"
+            ""
         ],
         "q1_other": [
             "The questions is unclear and difficult to answer",
@@ -6803,11 +5111,11 @@
             ""
         ],
         "q2": [
+            "image_not_required",
+            "",
             "",
             "image_not_required",
-            "image_required",
-            "",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "unclear",
@@ -6824,10 +5132,10 @@
         "answer": "",
         "q1": [
             "correct",
+            "correct",
             "wrong",
-            "correct",
-            "correct",
-            "wrong"
+            "wrong",
+            "correct"
         ],
         "q1_other": [
             "",
@@ -6837,9 +5145,9 @@
             ""
         ],
         "q2": [
+            "image_required",
+            "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required"
         ],
@@ -6857,17 +5165,9 @@
         "question": "what does this picture have to do with connections?",
         "answer": "",
         "q1": [
-            "idk",
             "wrong",
             "correct",
             "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "wrong",
             "correct",
             "correct"
         ],
@@ -6888,18 +5188,10 @@
         ],
         "q2": [
             "image_not_required",
-            "image_required",
-            "image_required",
             "image_not_required",
             "image_required",
-            "image_required",
             "image_not_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -6923,16 +5215,11 @@
         "question": "Why is President Bush speaking to this football team?",
         "answer": "",
         "q1": [
-            "correct",
-            "wrong",
             "wrong",
             "correct",
             "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk"
+            "wrong",
+            "correct"
         ],
         "q1_other": [
             "",
@@ -6947,15 +5234,10 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
+            "image_not_required",
             "image_required",
             "image_required",
             "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
             "image_not_required"
         ],
         "q2_other": [
@@ -6977,13 +5259,11 @@
         "question": "Are piranhas found in this specific location? ",
         "answer": "",
         "q1": [
-            "idk",
+            "wrong",
             "wrong",
             "idk",
             "idk",
-            "wrong",
-            "correct",
-            "wrong"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -6995,12 +5275,10 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_not_required",
-            "image_required",
+            "image_not_required",
             "image_required"
         ],
         "q2_other": [
@@ -7023,9 +5301,7 @@
             "correct",
             "correct",
             "correct",
-            "idk",
-            "correct",
-            "correct"
+            "idk"
         ],
         "q1_other": [
             "",
@@ -7040,9 +5316,7 @@
             "image_required",
             "image_required",
             "image_required",
-            "image_required",
             "image_not_required",
-            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -7061,11 +5335,10 @@
         "question": "What's in the salad besides kale?",
         "answer": "",
         "q1": [
+            "",
+            "",
             "idk",
-            "",
-            "",
             "wrong",
-            "idk",
             "idk"
         ],
         "q1_other": [
@@ -7079,9 +5352,8 @@
         "q2": [
             "image_required",
             "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
+            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -7099,14 +5371,11 @@
         "question": "Is this a fashion website for designer purses and shoes? ",
         "answer": "",
         "q1": [
-            "wrong",
             "correct",
             "correct",
             "correct",
             "correct",
-            "idk",
-            "idk",
-            "correct"
+            "idk"
         ],
         "q1_other": [
             "",
@@ -7119,14 +5388,11 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_not_required",
             "image_not_required",
             "image_required",
             "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -7145,11 +5411,11 @@
         "question": "What is happening in the background of the image?",
         "answer": "",
         "q1": [
-            "wrong",
+            "idk",
             "idk",
             "wrong",
             "wrong",
-            "idk"
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -7217,10 +5483,6 @@
             "correct",
             "correct",
             "correct",
-            "correct",
-            "wrong",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -7237,10 +5499,6 @@
         "q2": [
             "image_not_required",
             "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
             "image_not_required",
             "image_required",
             "image_required"
@@ -7263,11 +5521,11 @@
         "question": "What style is the suit? ",
         "answer": "",
         "q1": [
+            "",
             "correct",
             "wrong",
-            "correct",
             "wrong",
-            ""
+            "correct"
         ],
         "q1_other": [
             "",
@@ -7280,8 +5538,8 @@
             "image_not_required",
             "image_required",
             "image_required",
-            "image_required",
-            "image_not_required"
+            "image_not_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -7297,11 +5555,11 @@
         "question": "How far away is the whale in the photo?",
         "answer": "",
         "q1": [
+            "wrong",
             "correct",
             "idk",
             "correct",
-            "correct",
-            "wrong"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -7365,11 +5623,11 @@
         "question": "What pose are they doing?",
         "answer": "",
         "q1": [
-            "correct",
-            "correct",
             "idk",
+            "wrong",
             "correct",
-            "wrong"
+            "correct",
+            "correct"
         ],
         "q1_other": [
             "",
@@ -7400,8 +5658,8 @@
         "answer": "",
         "q1": [
             "correct",
-            "correct",
             "wrong",
+            "correct",
             "correct",
             "correct"
         ],
@@ -7416,8 +5674,8 @@
             "image_required",
             "image_required",
             "image_not_required",
-            "image_required",
-            "image_not_required"
+            "image_not_required",
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -7433,13 +5691,10 @@
         "question": "Does it have a snow lift?",
         "answer": "",
         "q1": [
-            "wrong",
-            "wrong",
-            "wrong",
+            "correct",
             "wrong",
             "idk",
-            "correct",
-            "correct",
+            "wrong",
             "wrong"
         ],
         "q1_other": [
@@ -7453,13 +5708,10 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_not_required",
+            "image_required",
+            "image_required",
+            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -7515,14 +5767,9 @@
         "q1": [
             "wrong",
             "correct",
-            "idk",
             "correct",
             "correct",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "wrong"
+            "correct"
         ],
         "q1_other": [
             "",
@@ -7537,16 +5784,11 @@
             ""
         ],
         "q2": [
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
             "image_required",
             "image_required",
             "image_required",
             "image_required",
-            "image_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -7601,35 +5843,11 @@
         "question": "Color of the beads",
         "answer": "",
         "q1": [
-            "idk",
-            "idk",
-            "correct",
-            "correct",
-            "wrong",
-            "wrong",
-            "",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "idk",
-            "",
-            "wrong",
-            "correct",
-            "correct",
-            "correct",
             "",
             "correct",
-            "wrong",
             "idk",
             "idk",
-            "wrong",
-            "wrong",
-            "correct",
-            "wrong",
-            "",
-            "correct",
-            ""
+            "wrong"
         ],
         "q1_other": [
             "",
@@ -7665,33 +5883,9 @@
         "q2": [
             "image_required",
             "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            ""
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -7731,27 +5925,10 @@
         "question": "Where is the image",
         "answer": "",
         "q1": [
-            "wrong",
+            "idk",
+            "idk",
             "",
-            "wrong",
             "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "correct",
-            "idk",
-            "correct",
-            "correct",
-            "",
             "correct"
         ],
         "q1_other": [
@@ -7780,27 +5957,10 @@
         ],
         "q2": [
             "image_required",
+            "image_required",
+            "image_not_required",
             "",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_required",
-            "image_not_required",
-            "image_required",
-            "image_not_required",
-            "image_not_required"
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -7833,11 +5993,10 @@
         "question": "How big is the class",
         "answer": "",
         "q1": [
-            "wrong",
-            "correct",
             "correct",
             "idk",
             "correct",
+            "wrong",
             "correct"
         ],
         "q1_other": [
@@ -7849,7 +6008,6 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -7875,10 +6033,6 @@
             "",
             "wrong",
             "",
-            "wrong",
-            "wrong",
-            "wrong",
-            "",
             "wrong"
         ],
         "q1_other": [
@@ -7893,10 +6047,6 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_required",
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
@@ -7923,13 +6073,7 @@
         "q1": [
             "idk",
             "idk",
-            "idk",
             "correct",
-            "idk",
-            "idk",
-            "idk",
-            "wrong",
-            "idk",
             "idk",
             "idk"
         ],
@@ -7947,17 +6091,11 @@
             ""
         ],
         "q2": [
-            "image_not_required",
             "image_required",
             "image_required",
             "image_required",
-            "image_not_required",
-            "image_not_required",
-            "image_not_required",
             "",
-            "image_required",
-            "image_required",
-            ""
+            "image_required"
         ],
         "q2_other": [
             "",
@@ -7993,11 +6131,11 @@
             ""
         ],
         "q2": [
+            "image_required",
             "image_not_required",
             "image_not_required",
             "image_not_required",
-            "image_not_required",
-            "image_required"
+            "image_not_required"
         ],
         "q2_other": [
             "",
@@ -8017,7 +6155,6 @@
             "idk",
             "correct",
             "idk",
-            "idk",
             "idk"
         ],
         "q1_other": [
@@ -8033,7 +6170,6 @@
             "image_required",
             "image_not_required",
             "image_not_required",
-            "image_required",
             "image_not_required"
         ],
         "q2_other": [
@@ -8051,10 +6187,10 @@
         "question": "What are the nutritional contents of the burrito bowl and drink? Understanding the calorie count, macronutrient profile, and ingredients would help me determine if it aligns with my health goals. ",
         "answer": "",
         "q1": [
+            "wrong",
             "correct",
             "idk",
             "idk",
-            "wrong",
             "idk"
         ],
         "q1_other": [
@@ -8065,10 +6201,10 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "image_not_required",
             "",
+            "image_not_required",
+            "image_required",
+            "image_required",
             "image_required"
         ],
         "q2_other": [
@@ -8085,11 +6221,10 @@
         "question": "Does the lounge come with any additional pillows or cushions?",
         "answer": "",
         "q1": [
+            "correct",
+            "correct",
             "wrong",
-            "correct",
             "",
-            "correct",
-            "correct",
             "correct"
         ],
         "q1_other": [
@@ -8101,12 +6236,11 @@
             ""
         ],
         "q2": [
-            "image_required",
-            "image_required",
-            "",
             "image_not_required",
             "image_required",
-            "image_required"
+            "image_required",
+            "image_required",
+            ""
         ],
         "q2_other": [
             "",
@@ -8125,9 +6259,8 @@
         "q1": [
             "wrong",
             "wrong",
+            "wrong",
             "idk",
-            "wrong",
-            "wrong",
             "wrong"
         ],
         "q1_other": [
@@ -8139,7 +6272,6 @@
             ""
         ],
         "q2": [
-            "image_required",
             "image_required",
             "image_required",
             "image_required",
