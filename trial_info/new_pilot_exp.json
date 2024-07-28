@@ -138,5 +138,369 @@
         "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
         "question": "What kind of city do you think they are in?",
         "answer": "Based on the image, I would say that they are in a city in the Middle East or North Africa. The market street is lined with stalls selling clothing, bags, and traditional goods, which is a common sight in these regions. Additionally, the architecture and the style of the buildings in the background also suggest that this is a city in the Middle East or North Africa."
+    },
+    {
+        "filename": "images/Jarneia_Richard-Noel_as_Catherine_of_Aragon_in_the_West_End_production_of_Six_at_the_Arts_Theatre,_2019.jpeg",
+        "category": "social_media",
+        "description": "A performer in an elaborate golden costume on stage.\n",
+        "question": "who is the performer",
+        "answer": "The performer is a woman."
+    },
+    {
+        "filename": "images/Sprouting_mung_beans_in_a_jar.jpeg",
+        "category": "health",
+        "description": "Green mung beans sprouting inside a jar. The jar is tilted downward. The jar has a green lid.\n",
+        "question": "What color is the jar?",
+        "answer": "The jar is green."
+    },
+    {
+        "filename": "images/400px-Retinal_camera.jpeg",
+        "category": "health",
+        "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
+        "question": "What does the exam room look like?",
+        "answer": "The exam room is well-lit and clean. It has a white table and a chair for the patient to sit on. There is a large camera on a tripod in the corner of the room. The camera is connected to a computer monitor that is displaying the patient's retina."
+    },
+    {
+        "filename": "images/Halima_Aden_(2020)_0-13_screenshot.jpeg",
+        "category": "shopping",
+        "description": "A smiling woman in a hijab at a UNICEF event. She is wearing a light-brown blazer and a white shirt underneath, behind her is a backdrop with large logos of \"UNICEF\" and \"PANDORA\". \n",
+        "question": "What does the woman look like",
+        "answer": "The woman in the image is wearing a hijab, which is a head covering worn by some Muslim women. She is also wearing a light-brown blazer and a white shirt underneath. Behind her is a backdrop with large logos of \"UNICEF\" and \"PANDORA\"."
+    },
+    {
+        "filename": "images/2550.jpg",
+        "category": "shopping",
+        "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
+        "question": "How many people are using the kayaks.",
+        "answer": "There are a lot of people using the kayaks."
+    },
+    {
+        "filename": "images/Detail_of_Nymphaea_daubenyana_W.T.Baxter_ex_Daubeny_flower.jpg",
+        "category": "health",
+        "description": "A blooming water lily surrounded with green leaves and a bee sitting on it.\n",
+        "question": "Why is this picture on a health website?",
+        "answer": "The picture is on a health website because the blooming water lily is a symbol of purity and natural beauty, which is often associated with good health. The presence of the bee, which is a pollinator, also adds to the overall healthy and natural vibe of the image. The image may be used to promote a healthy lifestyle or to showcase the importance of nature in maintaining good health."
+    },
+    {
+        "filename": "images/Yam_huapli_thot_02.jpeg",
+        "category": "travel",
+        "description": "Colorful vegetable salad with tomatoes, onions, carrots, cabbage and other greens in a bowl.\n",
+        "question": "Is the salad a part of a larger picture that gives more context as to a destination?",
+        "answer": "No, the salad is not a part of a larger picture that gives more context as to a destination."
+    },
+    {
+        "filename": "images/440px-BCRL.jpeg",
+        "category": "social_media",
+        "description": "An older woman is being assisted with weightlifting by a younger woman in a gym.\n",
+        "question": "Who is the older woman?",
+        "answer": "The older woman is the one being assisted with weightlifting."
+    },
+    {
+        "filename": "images/Shaki_Waterfall2.jpeg",
+        "category": "health",
+        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
+        "question": "Are there any people around?",
+        "answer": "No, there are no people visible in the image."
+    },
+    {
+        "filename": "images/Korean_shaved_ice-Green_tea_bingsu-07.jpeg",
+        "category": "social_media",
+        "description": "A large bowl of green tea shaved ice topped with cookies.\n",
+        "question": "What kind of cookies do they have that goes with green tea shaved ice?",
+        "answer": "The cookies are green tea flavored."
+    },
+    {
+        "filename": "images/Blackberry_(Rubus_fruticosus).jpeg",
+        "category": "health",
+        "description": "A close-up of a juicy blackberry.\n",
+        "question": "how can incorporating blackberries into my diet help improve my overall health and well-being?\n",
+        "answer": "Blackberries are a great source of antioxidants, vitamins, and fiber. They can help improve heart health, reduce inflammation, and support digestive health. Incorporating blackberries into your diet can also help you maintain a healthy weight and reduce the risk of chronic diseases such as diabetes and cancer."
+    },
+    {
+        "filename": "images/Geographic_Southpole_crop.jpeg",
+        "category": "travel",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "what time of year is it",
+        "answer": "The image shows the South Pole in the middle of winter, which is the coldest time of the year. The snow is deep and the temperatures are extremely low, making it difficult for humans to survive. The American flag and the sign marking the South Pole are the only visible signs of human presence in this vast, snowy expanse."
+    },
+    {
+        "filename": "images/440px-Thai_green_chicken_curry_and_roti.jpeg",
+        "category": "health",
+        "description": "A bowl of Thai green curry with chicken, and roti on the side.\n",
+        "question": "How many rotis?",
+        "answer": "There are two rotis on the side of the bowl of Thai green curry with chicken."
+    },
+    {
+        "filename": "images/440px-Ashley_Graham_2018.png",
+        "category": "shopping",
+        "description": "A woman with brown hair in a white top.\n",
+        "question": "What style is the top?",
+        "answer": "The top is a white tank top."
+    },
+    {
+        "filename": "images/Sher_Khan_(cropped).jpeg",
+        "category": "science_journals",
+        "description": "A large, muscular male tiger walking through a very green field.\n",
+        "question": "What setting is the tiger in?",
+        "answer": "The tiger is in a forest setting."
+    },
+    {
+        "filename": "images/Tyra_Banks(Cannes).jpeg",
+        "category": "social_media",
+        "description": "This is a photograph of Tyra Banks.  Her hair is pulled back into a low bun or pony tail.  She appears to be happy and laughing.  She is outside.  It appears she is wearing a white tank top with spaghetti straps.  There are black spaghetti straps for whatever she is wearing underneath the tank top.  \n",
+        "question": "where is the location at?",
+        "answer": "The location is outdoors."
+    },
+    {
+        "filename": "images/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "category": "social_media",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
+        "question": "Where was this picture taken and what is its significance.",
+        "answer": "This picture was taken in a museum. The significance of the ornate gold chaise lounge is that it is a piece of artwork that represents the craftsmanship and design of a bygone era. It is a valuable piece of history that showcases the intricate details and attention to detail that was put into creating such luxurious furniture."
+    },
+    {
+        "filename": "images/37044.jpg",
+        "category": "science_journals",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
+        "question": "How old does the church look?",
+        "answer": "The church looks very old and has a historical significance. It is a small church that is located on top of a hill and is surrounded by a beautiful landscape. The church has a unique architecture and is a popular tourist attraction."
+    },
+    {
+        "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
+        "category": "shopping",
+        "description": "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
+        "question": "Where is she performing? Indoors or outdoors?",
+        "answer": "The woman is performing on stage."
+    },
+    {
+        "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+        "category": "travel",
+        "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
+        "question": "Are there families at the pool?",
+        "answer": "No, there are no families at the pool."
+    },
+    {
+        "filename": "images/510px-Spaltlampe-2.jpeg",
+        "category": "health",
+        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
+        "question": "What kind of tests are the optometrist performing?",
+        "answer": "The optometrist is performing a slit lamp test on the patient's eyes."
+    },
+    {
+        "filename": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
+        "category": "science_journals",
+        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
+        "question": "Is the Jules Verne manuscript open or closed?",
+        "answer": "The Jules Verne manuscript is closed."
+    },
+    {
+        "filename": "images/Porcupine_(5670622729).jpeg",
+        "category": "travel",
+        "description": "A lone Porcupine with its spikes sticking up, perched in dried-out grass.\n",
+        "question": "Is the porcupine reacting to anything visible within the image?",
+        "answer": "No, the porcupine is not reacting to anything visible within the image."
+    },
+    {
+        "filename": "images/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "category": "travel",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Where are these temples located?",
+        "answer": "The temples are located in Myanmar, also known as Burma."
+    },
+    {
+        "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+        "category": "shopping",
+        "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+        "question": "What is the brand of the attire they're wearing?",
+        "answer": "I cannot determine the brand of the attire from the image description provided."
+    },
+    {
+        "filename": "images/440px-Koukouvagia.jpeg",
+        "category": "travel",
+        "description": "A round bread topped with tomato, feta, olives, and herbs on a white plate.\n",
+        "question": "What kind of bread is on the plate?",
+        "answer": "The bread on the plate is pita bread."
+    },
+    {
+        "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "travel",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What are they wearing?",
+        "answer": "The people in the image are wearing yoga clothes."
+    },
+    {
+        "filename": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
+        "category": "shopping",
+        "description": "A beautiful woman is standing by a brick wall, wearing a white cropped cable knit sweater, beige blazer, and blue jeans, gazing upwards.\n",
+        "question": "Is there a particular focus on any part of the image?",
+        "answer": "The woman's face is the focus of the image."
+    },
+    {
+        "filename": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
+        "category": "news",
+        "description": "Two docked spacecraft with the Earth in the background.\n",
+        "question": "What country is the space shuttle from?",
+        "answer": "The space shuttle is from the United States."
+    },
+    {
+        "filename": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
+        "category": "shopping",
+        "description": "Village with vineyards, a church, and many trees.\n",
+        "question": "What does it look like?",
+        "answer": "The village appears to be a quaint and charming place with a mix of old and new architecture. The vineyards are lush and green, and the church is a beautiful white building that stands out against the surrounding landscape. The trees are tall and provide a sense of tranquility to the scene."
+    },
+    {
+        "filename": "images/440px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpeg",
+        "category": "travel",
+        "description": "Mount Fuji looms behind a pagoda surrounded by cherry blossoms in a serene Japanese landscape.\n",
+        "question": "Do people tour this place?",
+        "answer": "Yes, people do tour this place."
+    },
+    {
+        "filename": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
+        "category": "health",
+        "description": "Plate of vegetables and herbs including beans, lettuce, mint, and cucumber paired with a kind of brown dipping sauce or marinade. \n",
+        "question": "Is the spread on a plate or on the table?",
+        "answer": "The spread is on a plate."
+    },
+    {
+        "filename": "images/340px-Jersei-coll-alt.jpeg",
+        "category": "shopping",
+        "description": "A brown/grey grainy-colored plain high-neck sweater with long sleeves. \n",
+        "question": "Is it fitted or loose sweater",
+        "answer": "The sweater is a loose fit."
+    },
+    {
+        "filename": "images/Reformer_apparatus_pilates_london.jpeg",
+        "category": "shopping",
+        "description": "An indoor gym with pilates equipment and mirrors.\n",
+        "question": "Are there people in the images who are using the equipment ? ",
+        "answer": "Yes, there are people in the images who are using the equipment."
+    },
+    {
+        "filename": "images/440px-Electric-eel.jpeg",
+        "category": "science_journals",
+        "description": "An electric eel among aquatic plants in an underwater habitat.\n",
+        "question": "Are there other underwater creatures around?",
+        "answer": "Yes, there are other underwater creatures around."
+    },
+    {
+        "filename": "images/440px-Bamboo_AngelMist_Mounts_Asit.jpeg",
+        "category": "science_journals",
+        "description": "A cluster of tall green bamboo stalks with a sign reading 'ANGEL MIST BAMBOO' at their base.\n",
+        "question": "Is the bamboo special ?",
+        "answer": "I cannot determine if the bamboo is special based on the image description provided."
+    },
+    {
+        "filename": "images/440px-Grand_Cascade_in_Peterhof_01.jpeg",
+        "category": "travel",
+        "description": "The Grand Cascade fountain at Peterhof with golden statues.\n",
+        "question": "What do the golden statues look like?",
+        "answer": "The golden statues are of various figures, including animals and mythical creatures, and are intricately designed with detailed features and ornate clothing."
+    },
+    {
+        "filename": "images/360px-Blackberries-6383.jpeg",
+        "category": "health",
+        "description": "A pair of fair skinned child size hands cusping with both hands a cluster of mixed blackberries and raspberries.\n",
+        "question": "What kind of berries are they?",
+        "answer": "The berries in the image are blackberries and raspberries."
+    },
+    {
+        "filename": "images/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What do the people look like?",
+        "answer": "The people in the image are all women. They are wearing various types of clothing, including yoga pants, shorts, and tank tops. Some of them have their hair tied back in ponytails or buns, while others have their hair down."
+    },
+    {
+        "filename": "images/Electric_kettle.jpeg",
+        "category": "health",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
+        "question": "What are they making with the water?",
+        "answer": "The person is making tea with the water in the electric kettle."
+    },
+    {
+        "filename": "images/Macquarium.jpeg",
+        "category": "shopping",
+        "description": "Old Macintosh Classic II computer monitor repurposed as an aquarium or terrarium. Inside are orange and green decorative items.\n",
+        "question": "What are the green and orange decorative items in the old Mac?",
+        "answer": "The green and orange decorative items in the old Mac are sea shells."
+    },
+    {
+        "filename": "images/Winnie_Harlow_Cannes_2017.jpeg",
+        "category": "shopping",
+        "description": "Woman with Vitiligo in a stunning blue gown on stairs.\n",
+        "question": "How long is the gown",
+        "answer": "The gown is floor-length."
+    },
+    {
+        "filename": "images/440px-Derrick_Brooks_with_2006_Pro_Bowl_MVP_trophy_060210-N-4856G-129.jpeg",
+        "category": "shopping",
+        "description": "A football player holding a trophy with a microphone, wearing a game uniform. He is inside a stadium\n",
+        "question": "Does the image imply that the shopping website offers sports gear and merchandise?",
+        "answer": "Yes, the image implies that the shopping website offers sports gear and merchandise."
+    },
+    {
+        "filename": "images/Wdomenada2003b.jpeg",
+        "category": "travel",
+        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
+        "question": "Are their trees or bushes in the area where they are skiing?",
+        "answer": "Yes, there are trees and bushes in the area where they are skiing."
+    },
+    {
+        "filename": "images/Two_dancers.jpeg",
+        "category": "health",
+        "description": "Two modern dancers mid-air in a dramatic pose.\n",
+        "question": "What are they using as support?",
+        "answer": "The dancers are using their hands to support themselves while they are in the air."
+    },
+    {
+        "filename": "images/Acorn_Soup_(4827753894).jpeg",
+        "category": "health",
+        "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs.\n",
+        "question": "How large is the squash?",
+        "answer": "The squash is large in size."
+    },
+    {
+        "filename": "images/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "category": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "Is the egg case a certain color with transparency?",
+        "answer": "The egg case is translucent and possibly a shade of brown or green."
+    },
+    {
+        "filename": "images/Fish_stuffed_with_Thai_herbs.jpeg",
+        "category": "travel",
+        "description": "Two open pots containing white fish, each pot contains two fish, laid on their back, sliced open and stuffed with herbs, resting on banana leaves.\n",
+        "question": "The ethnicity of the people ",
+        "answer": "The people in the image are Asian."
+    },
+    {
+        "filename": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+        "category": "shopping",
+        "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
+        "question": "Why are people skydiving",
+        "answer": "The people in the image are skydiving because they are participating in a sport or recreational activity. Skydiving is a popular activity that involves jumping from an aircraft and freefalling before deploying a parachute to slow down and land safely. Skydivers often jump in groups, and the formation seen in the image is a common way to organize skydivers during a jump. The formation helps to create a visually impressive display and can also make it easier for skydivers to communicate with each other while in the air."
+    },
+    {
+        "filename": "images/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "category": "travel",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+        "question": "is this a forest",
+        "answer": "Yes, this is a forest."
+    },
+    {
+        "filename": "images/440px-Aleksi61wb.jpeg",
+        "category": "travel",
+        "description": "A bustling, festive-lit city street at night.\n",
+        "question": "Are there a lot of people?",
+        "answer": "Yes, there are a lot of people on the street."
+    },
+    {
+        "filename": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
+        "category": "health",
+        "description": "A bunch of fresh carrots with greens attached.\n",
+        "question": "What are the attached greens?",
+        "answer": "The attached greens are likely to be chervil, which is a type of herb that is commonly used in cooking."
     }
 ]

@@ -17,7 +17,7 @@ exp.customize = function() {
 
     imageSeenBefore = [];
 
-    main_trials = _.shuffle(main_trials)[0]
+    main_trials = _.shuffle(main_trials)
 
     console.log("Main trials ", main_trials)
 

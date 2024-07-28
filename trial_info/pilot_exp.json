@@ -7,6 +7,13 @@ var main_trials = [
         "answer": "The dress is silver in color."
     },
     {
+        "filename": "images/Sprouting_mung_beans_in_a_jar.jpeg",
+        "category": "health",
+        "description": "Green mung beans sprouting inside a jar. The jar is tilted downward. The jar has a green lid.\n",
+        "question": "What color is the jar?",
+        "answer": "The jar is green."
+    },
+    {
         "filename": "images/440px-Formation_recorte.jpeg",
         "category": "shopping",
         "description": "A performer with long brown hair in sparkling pink attire singing to an audience in the rain with a smile on her face with on hand holding a golden mic and the other hand over her heart.\n",
